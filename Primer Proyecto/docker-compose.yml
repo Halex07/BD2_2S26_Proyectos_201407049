@@ -1,0 +1,46 @@
+name: aerolinea
+
+x-cass: &cass
+  image: cassandra:4.1
+  networks: [cassnet]
+  environment: &env
+    CASSANDRA_CLUSTER_NAME: AerolineaCluster
+    CASSANDRA_SEEDS: cass1
+    CASSANDRA_DC: dc1
+    CASSANDRA_RACK: rack1
+    CASSANDRA_ENDPOINT_SNITCH: GossipingPropertyFileSnitch
+    MAX_HEAP_SIZE: 512M
+    HEAP_NEWSIZE: 128M
+  healthcheck:
+    test: ["CMD-SHELL", "cqlsh -e 'DESCRIBE KEYSPACES' || exit 1"]
+    interval: 30s
+    timeout: 10s
+    retries: 20
+
+services:
+  cass1:
+    <<: *cass
+    container_name: cass1
+    ports: ["9042:9042"]
+    volumes: [cass1_data:/var/lib/cassandra]
+
+  cass2:
+    <<: *cass
+    container_name: cass2
+    depends_on: { cass1: { condition: service_healthy } }
+    volumes: [cass2_data:/var/lib/cassandra]
+
+  cass3:
+    <<: *cass
+    container_name: cass3
+    depends_on: { cass2: { condition: service_healthy } }
+    volumes: [cass3_data:/var/lib/cassandra]
+
+networks:
+  cassnet:
+    name: cassnet
+
+volumes:
+  cass1_data:
+  cass2_data:
+  cass3_data:
