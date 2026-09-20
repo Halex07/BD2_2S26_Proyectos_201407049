@@ -1,0 +1,19 @@
+fecha,escenario,cl,operacion,n,exitos,errores,avg_ms,p50_ms,p95_ms,tipos_error
+2026-09-20 23:20:04,3_nodos,ONE,lectura,100,100,0,1.81,1.74,2.59,
+2026-09-20 23:20:04,3_nodos,ONE,escritura,100,100,0,1.17,1.13,1.46,
+2026-09-20 23:20:04,3_nodos,QUORUM,lectura,100,100,0,2.82,2.77,3.80,
+2026-09-20 23:20:05,3_nodos,QUORUM,escritura,100,100,0,1.09,1.03,1.46,
+2026-09-20 23:20:05,3_nodos,ALL,lectura,100,100,0,2.75,2.48,4.21,
+2026-09-20 23:20:05,3_nodos,ALL,escritura,100,100,0,1.30,1.24,1.78,
+2026-09-20 23:21:35,1_nodo_caido,ONE,lectura,100,100,0,1.59,1.51,2.22,
+2026-09-20 23:21:35,1_nodo_caido,ONE,escritura,100,100,0,1.05,0.95,1.81,
+2026-09-20 23:21:35,1_nodo_caido,QUORUM,lectura,100,100,0,2.58,2.46,3.52,
+2026-09-20 23:21:35,1_nodo_caido,QUORUM,escritura,100,100,0,1.47,1.44,2.09,
+2026-09-20 23:21:35,1_nodo_caido,ALL,lectura,100,0,100,,,,Unavailable=100
+2026-09-20 23:21:35,1_nodo_caido,ALL,escritura,100,0,100,,,,Unavailable=100
+2026-09-20 23:23:47,2_nodos_caidos,ONE,lectura,100,100,0,1.42,1.34,2.05,
+2026-09-20 23:23:47,2_nodos_caidos,ONE,escritura,100,100,0,0.85,0.70,1.22,
+2026-09-20 23:23:47,2_nodos_caidos,QUORUM,lectura,100,0,100,,,,Unavailable=100
+2026-09-20 23:23:47,2_nodos_caidos,QUORUM,escritura,100,0,100,,,,Unavailable=100
+2026-09-20 23:23:47,2_nodos_caidos,ALL,lectura,100,0,100,,,,Unavailable=100
+2026-09-20 23:23:47,2_nodos_caidos,ALL,escritura,100,0,100,,,,Unavailable=100
