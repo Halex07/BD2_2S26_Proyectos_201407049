@@ -3,8 +3,8 @@
 Proyecto 1 — Sistemas de Bases de Datos 2  
 Universidad de San Carlos de Guatemala, Facultad de Ingeniería
 
-- **Estudiante:** _[Nombre completo]_
-- **Carnet:** _[Carnet]_
+- **Estudiante:** Henry Alexander García Montúfar
+- **Carnet:** 201407049
 
 ## Descripción
 
