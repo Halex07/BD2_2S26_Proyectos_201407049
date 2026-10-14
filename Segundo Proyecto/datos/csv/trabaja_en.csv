@@ -1,0 +1,208 @@
+chef_id,restaurante_id,fecha_inicio,puesto
+C001,R195,2007-10-10,Chef de Partida
+C001,R081,2007-06-23,Chef Pastelero
+C002,R114,2017-06-04,Chef de Partida
+C002,R058,2011-07-09,Chef de Partida
+C003,R022,2008-03-20,Chef de Partida
+C003,R031,2013-12-26,Chef Pastelero
+C004,R186,2022-02-26,Chef Pastelero
+C004,R128,2018-04-26,Sous Chef
+C004,R072,2021-12-18,Chef de Partida
+C005,R018,2005-08-08,Chef de Cocina
+C005,R128,2013-08-01,Chef Pastelero
+C005,R174,2020-03-27,Sous Chef
+C006,R088,2023-02-27,Chef Pastelero
+C007,R200,2024-11-04,Chef de Cocina
+C007,R078,2016-01-10,Chef de Partida
+C008,R130,2010-11-28,Chef de Partida
+C008,R015,2018-04-04,Chef de Partida
+C008,R101,2018-11-02,Sous Chef
+C009,R063,2010-07-22,Chef de Cocina
+C010,R151,2012-02-06,Chef de Partida
+C010,R006,2017-10-17,Chef de Partida
+C011,R020,2009-10-20,Sous Chef
+C011,R138,2010-12-13,Chef Ejecutivo
+C012,R078,2016-04-27,Sous Chef
+C013,R055,2023-06-25,Chef de Partida
+C013,R170,2011-01-04,Chef Pastelero
+C014,R042,2010-10-02,Chef Pastelero
+C015,R041,2011-02-13,Chef de Cocina
+C016,R022,2012-01-16,Chef Pastelero
+C017,R065,2018-06-15,Chef Ejecutivo
+C017,R128,2022-05-05,Sous Chef
+C017,R024,2012-05-21,Chef Pastelero
+C017,R061,2021-07-15,Chef de Partida
+C018,R029,2017-03-29,Chef de Partida
+C018,R082,2015-08-27,Chef de Cocina
+C019,R062,2013-08-18,Sous Chef
+C019,R065,2019-05-02,Sous Chef
+C019,R142,2025-04-04,Chef Ejecutivo
+C020,R165,2011-02-23,Chef Ejecutivo
+C020,R105,2023-06-19,Chef de Partida
+C020,R009,2015-07-27,Chef de Partida
+C021,R114,2022-09-29,Chef de Cocina
+C022,R167,2020-05-19,Chef de Partida
+C022,R196,2022-10-12,Sous Chef
+C022,R034,2015-02-16,Chef de Partida
+C022,R153,2024-08-04,Chef de Cocina
+C023,R161,2025-05-04,Chef Ejecutivo
+C023,R059,2015-05-17,Chef de Cocina
+C024,R117,2010-01-13,Chef de Cocina
+C024,R173,2009-04-10,Sous Chef
+C024,R127,2011-06-17,Chef de Partida
+C024,R031,2013-07-27,Chef de Cocina
+C025,R035,2024-07-18,Sous Chef
+C026,R002,2018-11-25,Chef de Partida
+C026,R065,2011-10-15,Chef de Partida
+C026,R130,2020-01-21,Sous Chef
+C027,R067,2012-01-11,Chef Ejecutivo
+C027,R030,2007-11-14,Chef de Partida
+C028,R163,2008-05-02,Chef Ejecutivo
+C028,R113,2010-02-27,Chef de Cocina
+C028,R014,2005-10-21,Chef de Partida
+C028,R049,2010-11-02,Chef de Cocina
+C029,R070,2018-02-19,Chef de Cocina
+C029,R145,2018-02-02,Chef Ejecutivo
+C029,R170,2016-10-19,Chef Pastelero
+C030,R028,2008-06-13,Chef Ejecutivo
+C030,R083,2006-10-27,Chef de Partida
+C031,R019,2017-04-10,Chef Pastelero
+C032,R176,2019-12-05,Chef Ejecutivo
+C032,R155,2023-08-31,Sous Chef
+C032,R034,2016-07-01,Chef de Cocina
+C032,R092,2015-12-25,Chef de Partida
+C033,R127,2016-10-29,Chef Pastelero
+C034,R064,2016-09-25,Chef de Partida
+C035,R030,2019-11-03,Chef de Partida
+C035,R190,2009-01-10,Chef de Cocina
+C036,R112,2005-05-27,Chef Ejecutivo
+C036,R137,2013-11-10,Chef Ejecutivo
+C037,R158,2013-02-03,Chef de Partida
+C038,R138,2006-12-07,Sous Chef
+C038,R049,2022-04-07,Chef de Partida
+C039,R146,2023-08-09,Chef de Partida
+C040,R142,2005-10-31,Chef de Partida
+C040,R075,2013-12-19,Chef de Partida
+C041,R042,2021-04-16,Chef de Cocina
+C041,R074,2015-07-12,Sous Chef
+C042,R192,2006-12-08,Chef de Partida
+C043,R092,2008-12-02,Chef Pastelero
+C043,R067,2005-09-19,Chef Ejecutivo
+C043,R174,2012-07-29,Chef de Partida
+C043,R041,2007-07-23,Chef Pastelero
+C044,R155,2020-11-04,Chef Ejecutivo
+C044,R172,2014-10-27,Chef de Partida
+C044,R027,2023-11-17,Chef Ejecutivo
+C045,R196,2021-06-07,Chef Ejecutivo
+C045,R130,2008-06-17,Sous Chef
+C045,R128,2012-07-04,Chef de Cocina
+C046,R184,2021-12-06,Chef de Partida
+C047,R198,2021-02-04,Chef Pastelero
+C047,R003,2006-07-25,Chef Ejecutivo
+C048,R076,2024-11-13,Chef Pastelero
+C048,R108,2024-08-05,Sous Chef
+C048,R103,2021-03-08,Sous Chef
+C049,R167,2009-06-05,Sous Chef
+C049,R104,2006-11-22,Chef Ejecutivo
+C049,R199,2017-01-20,Sous Chef
+C050,R029,2010-10-29,Chef Pastelero
+C050,R188,2012-12-13,Chef Ejecutivo
+C050,R016,2006-01-27,Chef Ejecutivo
+C050,R096,2015-01-25,Sous Chef
+C051,R060,2011-05-20,Chef Pastelero
+C051,R090,2020-01-31,Chef de Cocina
+C051,R077,2021-01-08,Chef de Partida
+C052,R055,2015-01-03,Chef Ejecutivo
+C053,R033,2015-11-16,Chef de Partida
+C054,R031,2017-10-28,Sous Chef
+C054,R095,2005-11-26,Chef Pastelero
+C055,R073,2023-05-17,Chef de Partida
+C055,R056,2005-01-18,Chef Ejecutivo
+C055,R047,2017-04-13,Sous Chef
+C056,R156,2008-02-09,Chef Pastelero
+C056,R034,2019-04-11,Chef de Partida
+C056,R196,2022-01-31,Chef de Partida
+C057,R198,2011-12-06,Chef Pastelero
+C057,R182,2019-06-22,Chef Ejecutivo
+C058,R047,2010-07-03,Chef Pastelero
+C058,R005,2014-12-19,Chef Ejecutivo
+C058,R071,2023-02-06,Chef Pastelero
+C058,R053,2018-08-12,Sous Chef
+C059,R105,2020-03-22,Chef de Cocina
+C060,R097,2023-07-26,Chef Ejecutivo
+C061,R082,2015-06-05,Chef Pastelero
+C062,R053,2013-05-17,Chef Pastelero
+C062,R037,2008-10-09,Chef de Cocina
+C063,R073,2021-07-31,Chef Pastelero
+C063,R012,2017-08-18,Chef Ejecutivo
+C063,R042,2011-09-29,Chef Ejecutivo
+C064,R054,2015-04-25,Chef Pastelero
+C065,R167,2005-09-11,Chef de Partida
+C065,R020,2020-01-30,Chef Ejecutivo
+C065,R138,2012-12-01,Chef de Partida
+C066,R158,2019-01-09,Sous Chef
+C067,R146,2008-10-28,Chef Pastelero
+C067,R129,2009-05-07,Chef Pastelero
+C067,R127,2020-01-29,Chef Pastelero
+C068,R178,2020-03-15,Chef Pastelero
+C069,R133,2005-12-23,Chef de Cocina
+C069,R195,2006-01-20,Sous Chef
+C070,R161,2019-01-10,Chef Ejecutivo
+C071,R088,2023-09-03,Chef Ejecutivo
+C072,R017,2022-12-31,Chef de Partida
+C072,R033,2006-03-25,Sous Chef
+C072,R016,2018-09-13,Chef de Partida
+C073,R154,2022-08-30,Chef Pastelero
+C074,R117,2018-03-09,Chef de Cocina
+C074,R133,2007-06-04,Chef Ejecutivo
+C074,R085,2005-04-11,Chef Pastelero
+C075,R048,2008-02-02,Chef Ejecutivo
+C075,R063,2006-05-11,Chef de Cocina
+C076,R169,2008-03-30,Chef Ejecutivo
+C076,R174,2010-04-29,Chef Pastelero
+C077,R178,2018-06-15,Sous Chef
+C077,R120,2024-02-10,Chef Pastelero
+C078,R197,2023-02-09,Chef de Partida
+C078,R085,2009-08-09,Chef de Partida
+C079,R008,2009-06-09,Sous Chef
+C079,R051,2008-11-27,Chef de Cocina
+C080,R054,2011-11-05,Chef de Partida
+C081,R097,2020-07-29,Sous Chef
+C082,R054,2022-08-07,Chef de Partida
+C082,R187,2022-09-28,Chef Pastelero
+C082,R021,2006-06-16,Chef de Cocina
+C083,R052,2015-02-21,Chef de Cocina
+C084,R120,2014-03-05,Sous Chef
+C084,R111,2023-01-17,Chef de Partida
+C085,R059,2007-03-18,Chef Ejecutivo
+C086,R071,2020-10-29,Chef Pastelero
+C086,R049,2008-02-04,Chef Pastelero
+C087,R186,2021-10-20,Chef de Cocina
+C088,R033,2011-11-09,Chef Ejecutivo
+C089,R101,2009-07-31,Chef de Partida
+C089,R098,2006-06-06,Chef Pastelero
+C090,R099,2011-07-13,Chef Pastelero
+C090,R073,2006-07-28,Chef de Partida
+C090,R053,2006-04-16,Sous Chef
+C090,R060,2016-08-18,Chef Ejecutivo
+C091,R111,2023-05-07,Chef de Partida
+C092,R085,2025-06-02,Chef Pastelero
+C093,R118,2009-02-11,Chef Pastelero
+C093,R099,2007-02-22,Chef de Partida
+C093,R169,2020-09-02,Chef Ejecutivo
+C094,R194,2016-04-25,Sous Chef
+C094,R027,2014-03-14,Chef de Partida
+C095,R102,2010-08-15,Chef Ejecutivo
+C095,R010,2020-11-26,Chef de Cocina
+C095,R003,2012-05-03,Chef de Partida
+C096,R044,2022-02-16,Chef Ejecutivo
+C096,R020,2020-03-12,Sous Chef
+C096,R172,2008-06-11,Chef de Partida
+C097,R014,2018-06-02,Chef Ejecutivo
+C098,R087,2006-06-02,Chef de Cocina
+C098,R050,2024-10-15,Chef Ejecutivo
+C098,R175,2022-11-16,Chef de Cocina
+C098,R172,2021-03-29,Chef de Cocina
+C099,R110,2010-03-19,Chef de Cocina
+C099,R031,2007-05-18,Sous Chef
+C100,R078,2022-03-20,Chef Pastelero

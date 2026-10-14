@@ -1,0 +1,16 @@
+id,nombre,descripcion
+T01,Guatemalteca,"Cocina tradicional guatemalteca: pepián, kak'ik, tamales"
+T02,Mexicana,"Antojitos, moles y tacos de todo México"
+T03,Italiana,"Pastas, pizzas y risottos"
+T04,Japonesa,"Sushi, ramen y tempura"
+T05,China,Cocina cantonesa y sichuanesa
+T06,Peruana,Ceviches y cocina nikkei
+T07,Mediterránea,"Platos del Mediterráneo: Grecia, Líbano y España"
+T08,India,"Currys, tandoor y especias"
+T09,Francesa,Cocina clásica y de bistró
+T10,Americana,"Hamburguesas, BBQ y comida casual"
+T11,Vegetariana,"Platos sin carne, opciones veganas"
+T12,Mariscos,Pescados y mariscos frescos
+T13,Parrilla y Carnes,Cortes y asados a la brasa
+T14,Fusión,Mezcla creativa de tradiciones culinarias
+T15,Postres y Panadería,"Repostería, panes y dulces"
