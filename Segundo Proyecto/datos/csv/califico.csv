@@ -1,0 +1,3545 @@
+usuario_id,restaurante_id,puntuacion,fecha,comentario
+U0001,R006,5,2024-11-29,Una de las mejores experiencias
+U0001,R017,3,2025-11-09,"Cumple, nada especial"
+U0001,R038,3,2023-01-04,Aceptable
+U0001,R083,2,2023-11-03,Precio alto para lo que ofrecen
+U0001,R102,4,2025-03-24,Recomendado
+U0001,R181,4,2024-12-29,Excelente servicio
+U0002,R011,3,2026-03-11,"Cumple, nada especial"
+U0002,R041,4,2023-03-29,Recomendado
+U0002,R103,5,2026-05-23,¡Espectacular!
+U0003,R073,4,2025-08-03,Muy buena comida
+U0003,R159,5,2024-05-11,Una de las mejores experiencias
+U0003,R171,5,2026-03-05,Una de las mejores experiencias
+U0003,R190,2,2026-07-27,Comida sin sabor
+U0003,R197,4,2026-05-04,Muy buena comida
+U0004,R038,4,2024-10-24,Muy buena comida
+U0004,R143,4,2026-08-28,Muy buena comida
+U0004,R153,2,2024-10-13,"Regular, esperaba más"
+U0004,R157,5,2023-02-08,¡Espectacular!
+U0005,R035,4,2024-09-26,Excelente servicio
+U0005,R108,3,2026-07-09,Aceptable
+U0005,R118,4,2026-07-03,Muy buena comida
+U0005,R138,5,2026-06-17,Volveré pronto
+U0005,R173,5,2025-05-27,¡Espectacular!
+U0006,R015,4,2023-11-17,Excelente servicio
+U0006,R024,5,2024-01-03,¡Espectacular!
+U0006,R026,1,2026-09-10,No volvería
+U0006,R029,5,2023-05-18,¡Espectacular!
+U0006,R040,2,2024-10-11,Comida sin sabor
+U0006,R046,4,2023-02-01,Excelente servicio
+U0006,R131,5,2023-06-02,¡Espectacular!
+U0007,R033,4,2026-08-19,Muy buena comida
+U0007,R053,5,2026-09-01,Una de las mejores experiencias
+U0007,R083,3,2026-07-30,Aceptable
+U0007,R128,3,2026-04-01,"Cumple, nada especial"
+U0007,R183,2,2023-10-18,Comida sin sabor
+U0007,R194,3,2025-07-06,"Cumple, nada especial"
+U0007,R198,3,2023-03-12,Buen lugar pero irregular
+U0008,R009,3,2024-10-09,"Cumple, nada especial"
+U0008,R061,4,2026-05-31,Recomendado
+U0008,R113,4,2023-02-06,Muy buena comida
+U0008,R122,5,2026-05-05,Una de las mejores experiencias
+U0008,R144,2,2025-12-05,Comida sin sabor
+U0008,R192,2,2025-09-09,Comida sin sabor
+U0009,R018,3,2026-06-02,Aceptable
+U0009,R034,3,2024-09-29,Buen lugar pero irregular
+U0009,R038,4,2025-05-06,Recomendado
+U0009,R087,4,2023-10-18,Muy buena comida
+U0009,R107,4,2024-04-13,Excelente servicio
+U0009,R136,5,2024-11-24,¡Espectacular!
+U0009,R141,5,2023-10-08,¡Espectacular!
+U0009,R152,3,2023-02-17,"Cumple, nada especial"
+U0009,R175,2,2023-01-24,Comida sin sabor
+U0009,R198,5,2023-05-02,Una de las mejores experiencias
+U0010,R003,2,2026-08-12,Precio alto para lo que ofrecen
+U0010,R032,4,2024-06-29,Recomendado
+U0010,R067,3,2025-07-13,Aceptable
+U0010,R075,4,2023-09-07,Excelente servicio
+U0010,R091,4,2023-06-01,Excelente servicio
+U0010,R125,2,2024-06-07,Precio alto para lo que ofrecen
+U0010,R143,4,2025-02-24,Recomendado
+U0010,R149,3,2024-09-16,Aceptable
+U0010,R198,4,2025-02-09,Recomendado
+U0010,R199,4,2025-07-10,Excelente servicio
+U0011,R041,3,2024-03-24,"Cumple, nada especial"
+U0011,R054,3,2024-09-03,"Cumple, nada especial"
+U0011,R122,3,2026-01-06,Aceptable
+U0011,R130,3,2024-11-04,"Cumple, nada especial"
+U0011,R146,3,2026-08-05,"Cumple, nada especial"
+U0011,R172,5,2025-06-11,¡Espectacular!
+U0011,R184,4,2024-02-04,Recomendado
+U0012,R062,2,2024-10-25,"Regular, esperaba más"
+U0012,R092,3,2026-02-10,Aceptable
+U0012,R097,3,2025-07-13,Aceptable
+U0012,R109,4,2024-03-01,Excelente servicio
+U0012,R112,3,2026-07-16,Aceptable
+U0012,R167,5,2025-04-14,Una de las mejores experiencias
+U0012,R174,4,2026-01-11,Recomendado
+U0012,R180,3,2026-04-06,"Cumple, nada especial"
+U0013,R006,5,2023-05-12,Volveré pronto
+U0013,R026,3,2026-03-19,Buen lugar pero irregular
+U0013,R036,4,2023-08-24,Excelente servicio
+U0013,R046,4,2026-01-03,Excelente servicio
+U0013,R071,4,2025-03-18,Muy buena comida
+U0013,R110,5,2024-01-02,Volveré pronto
+U0013,R135,1,2024-09-21,Mala experiencia
+U0013,R136,5,2025-07-08,Una de las mejores experiencias
+U0013,R141,3,2026-08-18,Buen lugar pero irregular
+U0013,R165,3,2026-08-31,Aceptable
+U0013,R177,4,2026-07-18,Recomendado
+U0014,R004,5,2024-12-08,¡Espectacular!
+U0014,R030,4,2024-01-08,Excelente servicio
+U0014,R043,5,2024-10-29,Una de las mejores experiencias
+U0014,R071,5,2024-10-06,¡Espectacular!
+U0014,R183,4,2024-12-12,Muy buena comida
+U0015,R037,4,2023-09-05,Muy buena comida
+U0015,R042,3,2024-11-17,Aceptable
+U0015,R048,4,2024-01-17,Muy buena comida
+U0015,R084,5,2024-04-12,¡Espectacular!
+U0015,R086,4,2025-05-25,Recomendado
+U0015,R137,5,2026-04-29,Volveré pronto
+U0015,R145,3,2024-12-04,Buen lugar pero irregular
+U0015,R171,5,2025-09-13,Volveré pronto
+U0016,R031,5,2024-09-07,Una de las mejores experiencias
+U0016,R050,2,2023-06-21,Comida sin sabor
+U0016,R111,4,2026-06-22,Recomendado
+U0016,R172,4,2023-09-11,Muy buena comida
+U0016,R173,3,2025-08-29,Buen lugar pero irregular
+U0016,R190,5,2025-12-24,Una de las mejores experiencias
+U0017,R033,5,2025-04-22,¡Espectacular!
+U0017,R083,4,2023-08-04,Recomendado
+U0017,R191,3,2026-03-29,Buen lugar pero irregular
+U0018,R006,3,2025-07-12,Aceptable
+U0018,R031,5,2026-01-26,¡Espectacular!
+U0018,R052,4,2023-06-24,Recomendado
+U0018,R069,5,2023-05-17,Una de las mejores experiencias
+U0018,R070,4,2023-07-27,Excelente servicio
+U0018,R120,4,2023-10-27,Muy buena comida
+U0018,R146,3,2024-01-30,"Cumple, nada especial"
+U0018,R173,5,2023-11-02,Una de las mejores experiencias
+U0018,R194,3,2024-05-01,Aceptable
+U0018,R197,5,2026-01-19,¡Espectacular!
+U0019,R005,4,2024-10-09,Recomendado
+U0019,R007,3,2026-03-13,Aceptable
+U0019,R009,3,2024-08-24,"Cumple, nada especial"
+U0019,R056,3,2025-08-31,Aceptable
+U0019,R069,5,2026-02-17,Una de las mejores experiencias
+U0019,R084,3,2024-08-11,Buen lugar pero irregular
+U0019,R096,2,2023-09-21,Comida sin sabor
+U0019,R157,4,2023-09-26,Recomendado
+U0020,R007,2,2023-12-11,Comida sin sabor
+U0020,R051,2,2025-07-17,"Regular, esperaba más"
+U0020,R072,3,2023-09-06,Buen lugar pero irregular
+U0020,R099,4,2026-01-28,Excelente servicio
+U0020,R178,4,2024-05-28,Muy buena comida
+U0021,R003,3,2023-05-25,Buen lugar pero irregular
+U0021,R051,4,2024-05-27,Muy buena comida
+U0021,R080,3,2026-01-13,"Cumple, nada especial"
+U0021,R160,4,2026-02-03,Excelente servicio
+U0021,R171,5,2026-07-17,¡Espectacular!
+U0022,R053,4,2024-09-28,Muy buena comida
+U0022,R077,4,2025-04-24,Muy buena comida
+U0022,R079,2,2025-07-21,Comida sin sabor
+U0022,R092,2,2026-01-27,"Regular, esperaba más"
+U0022,R125,3,2023-09-20,"Cumple, nada especial"
+U0022,R155,5,2026-05-28,Una de las mejores experiencias
+U0022,R158,5,2024-08-06,Volveré pronto
+U0022,R167,3,2026-01-25,"Cumple, nada especial"
+U0022,R184,3,2023-02-17,Aceptable
+U0023,R003,4,2026-05-27,Excelente servicio
+U0023,R005,5,2023-04-05,Volveré pronto
+U0023,R040,3,2026-06-17,Aceptable
+U0023,R052,4,2025-06-18,Muy buena comida
+U0023,R062,3,2025-12-21,Aceptable
+U0023,R083,4,2023-02-27,Muy buena comida
+U0023,R119,4,2026-05-06,Recomendado
+U0023,R150,5,2024-04-11,Una de las mejores experiencias
+U0023,R171,5,2026-02-03,Volveré pronto
+U0023,R192,3,2025-03-14,Buen lugar pero irregular
+U0024,R017,5,2023-01-14,Volveré pronto
+U0024,R035,4,2024-08-01,Excelente servicio
+U0024,R045,4,2024-08-16,Excelente servicio
+U0024,R067,3,2023-02-01,"Cumple, nada especial"
+U0024,R077,3,2025-01-17,Buen lugar pero irregular
+U0024,R094,5,2024-11-10,Volveré pronto
+U0024,R118,4,2023-10-12,Recomendado
+U0024,R187,3,2025-01-29,Aceptable
+U0025,R017,4,2026-02-15,Recomendado
+U0025,R038,5,2024-03-03,Una de las mejores experiencias
+U0025,R087,4,2025-11-02,Recomendado
+U0025,R101,4,2024-04-30,Muy buena comida
+U0025,R103,5,2024-02-16,¡Espectacular!
+U0025,R125,2,2024-01-31,Precio alto para lo que ofrecen
+U0025,R129,3,2025-08-07,"Cumple, nada especial"
+U0025,R173,3,2025-04-09,Aceptable
+U0025,R180,4,2026-08-11,Muy buena comida
+U0025,R181,4,2023-11-23,Recomendado
+U0025,R192,4,2025-04-27,Muy buena comida
+U0025,R194,3,2024-02-02,"Cumple, nada especial"
+U0026,R047,4,2023-08-14,Muy buena comida
+U0026,R052,1,2024-04-03,Mala experiencia
+U0026,R057,4,2023-12-11,Recomendado
+U0026,R079,5,2025-07-16,Volveré pronto
+U0027,R018,4,2026-08-18,Muy buena comida
+U0027,R035,5,2024-11-17,¡Espectacular!
+U0027,R045,4,2023-08-30,Recomendado
+U0027,R068,4,2026-05-07,Recomendado
+U0027,R073,1,2024-04-17,No volvería
+U0027,R076,4,2026-09-30,Excelente servicio
+U0027,R101,3,2026-06-30,Buen lugar pero irregular
+U0027,R149,3,2024-12-27,Aceptable
+U0027,R197,5,2026-07-31,¡Espectacular!
+U0028,R005,2,2026-08-01,Precio alto para lo que ofrecen
+U0028,R015,5,2024-10-20,Volveré pronto
+U0028,R069,5,2024-10-15,Una de las mejores experiencias
+U0028,R083,4,2024-12-24,Excelente servicio
+U0028,R104,4,2024-01-23,Muy buena comida
+U0028,R111,5,2024-07-17,Volveré pronto
+U0028,R121,4,2023-04-20,Excelente servicio
+U0028,R146,2,2024-03-25,Precio alto para lo que ofrecen
+U0028,R157,4,2025-05-12,Muy buena comida
+U0028,R168,4,2025-05-07,Excelente servicio
+U0029,R022,3,2024-01-04,"Cumple, nada especial"
+U0029,R053,5,2024-12-01,¡Espectacular!
+U0029,R077,3,2024-09-08,"Cumple, nada especial"
+U0029,R083,4,2024-07-05,Recomendado
+U0029,R104,3,2025-01-09,Buen lugar pero irregular
+U0029,R121,4,2023-05-13,Excelente servicio
+U0029,R193,3,2024-04-02,Aceptable
+U0030,R066,3,2024-11-23,Aceptable
+U0030,R086,4,2025-09-21,Muy buena comida
+U0030,R090,3,2025-09-05,Buen lugar pero irregular
+U0030,R108,2,2025-03-05,Precio alto para lo que ofrecen
+U0030,R139,2,2025-07-21,Comida sin sabor
+U0030,R140,5,2024-02-27,Una de las mejores experiencias
+U0030,R153,3,2026-03-07,"Cumple, nada especial"
+U0030,R167,3,2025-07-29,Buen lugar pero irregular
+U0031,R023,5,2024-01-26,Una de las mejores experiencias
+U0031,R074,3,2026-09-09,Aceptable
+U0031,R083,4,2023-04-22,Excelente servicio
+U0031,R124,4,2025-12-18,Muy buena comida
+U0031,R168,5,2026-08-20,Volveré pronto
+U0031,R197,5,2023-02-01,Volveré pronto
+U0032,R039,4,2026-08-12,Excelente servicio
+U0032,R130,4,2025-07-15,Muy buena comida
+U0032,R146,2,2024-10-13,Precio alto para lo que ofrecen
+U0032,R184,3,2025-06-20,Aceptable
+U0033,R031,3,2026-06-27,Buen lugar pero irregular
+U0033,R033,4,2026-01-30,Excelente servicio
+U0033,R081,5,2026-05-30,¡Espectacular!
+U0033,R100,5,2025-04-07,Volveré pronto
+U0033,R146,3,2026-06-21,Aceptable
+U0033,R157,5,2024-09-08,Una de las mejores experiencias
+U0033,R174,2,2025-12-02,"Regular, esperaba más"
+U0033,R180,3,2026-03-12,"Cumple, nada especial"
+U0034,R002,4,2025-09-19,Muy buena comida
+U0034,R008,3,2025-10-17,Buen lugar pero irregular
+U0034,R042,3,2025-08-02,"Cumple, nada especial"
+U0034,R075,3,2026-06-04,"Cumple, nada especial"
+U0034,R080,4,2023-06-08,Muy buena comida
+U0034,R102,4,2024-05-06,Muy buena comida
+U0034,R111,4,2024-12-12,Excelente servicio
+U0034,R115,3,2025-03-26,Buen lugar pero irregular
+U0034,R165,5,2023-01-27,Una de las mejores experiencias
+U0034,R167,3,2026-01-27,"Cumple, nada especial"
+U0034,R169,4,2026-02-09,Recomendado
+U0034,R192,4,2025-06-19,Recomendado
+U0034,R194,3,2024-02-17,"Cumple, nada especial"
+U0035,R009,3,2025-02-14,"Cumple, nada especial"
+U0035,R019,5,2025-04-02,Una de las mejores experiencias
+U0035,R021,3,2023-10-31,Buen lugar pero irregular
+U0035,R038,4,2023-10-12,Recomendado
+U0035,R171,4,2025-02-10,Recomendado
+U0036,R009,3,2026-03-23,"Cumple, nada especial"
+U0036,R016,4,2024-10-17,Muy buena comida
+U0036,R045,4,2024-11-10,Excelente servicio
+U0036,R049,4,2023-08-04,Muy buena comida
+U0036,R061,5,2025-04-16,Una de las mejores experiencias
+U0036,R068,3,2023-07-06,"Cumple, nada especial"
+U0036,R085,4,2024-03-09,Excelente servicio
+U0036,R108,1,2024-03-18,Mala experiencia
+U0036,R151,4,2025-12-11,Recomendado
+U0036,R191,3,2026-05-29,Aceptable
+U0037,R019,3,2025-08-04,Buen lugar pero irregular
+U0037,R026,3,2024-04-07,Aceptable
+U0037,R037,4,2026-09-15,Muy buena comida
+U0037,R084,4,2024-10-25,Muy buena comida
+U0037,R096,3,2023-01-11,Buen lugar pero irregular
+U0037,R109,3,2024-03-23,"Cumple, nada especial"
+U0037,R123,4,2024-09-07,Recomendado
+U0037,R152,3,2026-07-19,"Cumple, nada especial"
+U0037,R181,3,2026-08-22,Buen lugar pero irregular
+U0037,R185,4,2025-06-02,Recomendado
+U0037,R188,3,2023-05-27,Buen lugar pero irregular
+U0038,R047,4,2025-10-04,Muy buena comida
+U0038,R061,5,2025-12-15,Una de las mejores experiencias
+U0038,R066,3,2025-02-28,"Cumple, nada especial"
+U0038,R070,4,2026-03-28,Excelente servicio
+U0038,R076,3,2023-01-12,Aceptable
+U0038,R094,2,2023-10-18,Comida sin sabor
+U0038,R102,4,2025-12-09,Recomendado
+U0038,R148,5,2023-01-13,Volveré pronto
+U0038,R171,3,2024-10-27,Buen lugar pero irregular
+U0038,R193,2,2026-06-08,Comida sin sabor
+U0038,R199,4,2023-05-15,Recomendado
+U0039,R008,2,2026-05-08,"Regular, esperaba más"
+U0039,R020,3,2025-12-17,Buen lugar pero irregular
+U0039,R125,3,2026-07-10,Aceptable
+U0039,R139,4,2024-12-27,Excelente servicio
+U0039,R164,3,2025-08-20,"Cumple, nada especial"
+U0040,R006,3,2026-01-14,"Cumple, nada especial"
+U0040,R017,3,2025-05-14,Buen lugar pero irregular
+U0040,R038,4,2023-03-17,Excelente servicio
+U0040,R103,4,2026-01-14,Recomendado
+U0040,R191,3,2026-06-04,Aceptable
+U0040,R192,3,2023-02-09,Buen lugar pero irregular
+U0041,R008,3,2025-07-21,"Cumple, nada especial"
+U0041,R026,2,2026-06-01,Comida sin sabor
+U0042,R013,4,2026-05-19,Excelente servicio
+U0042,R014,5,2025-01-02,Volveré pronto
+U0042,R017,3,2025-05-25,"Cumple, nada especial"
+U0042,R082,5,2024-11-10,Volveré pronto
+U0042,R083,3,2025-02-13,"Cumple, nada especial"
+U0042,R166,5,2024-07-02,Una de las mejores experiencias
+U0042,R195,3,2024-08-15,Aceptable
+U0043,R047,4,2025-04-28,Muy buena comida
+U0043,R053,4,2023-09-24,Muy buena comida
+U0043,R061,5,2024-03-06,Una de las mejores experiencias
+U0043,R070,4,2024-11-03,Muy buena comida
+U0043,R173,4,2025-02-14,Excelente servicio
+U0043,R174,4,2026-08-10,Excelente servicio
+U0044,R002,3,2023-07-11,Aceptable
+U0044,R023,5,2023-01-22,Volveré pronto
+U0044,R028,5,2023-07-19,Una de las mejores experiencias
+U0044,R039,3,2024-05-13,"Cumple, nada especial"
+U0044,R082,4,2025-09-24,Recomendado
+U0044,R129,2,2023-09-26,"Regular, esperaba más"
+U0044,R165,3,2024-08-15,Aceptable
+U0044,R175,2,2025-05-20,"Regular, esperaba más"
+U0045,R001,5,2023-12-25,Volveré pronto
+U0045,R092,3,2025-11-18,"Cumple, nada especial"
+U0045,R112,3,2024-07-23,Aceptable
+U0045,R137,4,2024-01-02,Recomendado
+U0045,R139,3,2025-01-29,Aceptable
+U0045,R176,5,2025-03-21,Una de las mejores experiencias
+U0046,R040,3,2025-10-22,Aceptable
+U0046,R051,3,2024-03-02,Aceptable
+U0046,R089,3,2026-02-14,"Cumple, nada especial"
+U0046,R102,5,2026-05-02,Volveré pronto
+U0046,R119,5,2026-03-30,Volveré pronto
+U0046,R123,4,2026-04-16,Excelente servicio
+U0046,R171,5,2024-08-24,¡Espectacular!
+U0047,R024,3,2026-05-14,"Cumple, nada especial"
+U0047,R040,5,2024-08-07,¡Espectacular!
+U0047,R056,5,2023-11-05,Volveré pronto
+U0047,R066,3,2025-10-24,Buen lugar pero irregular
+U0047,R092,4,2026-03-09,Muy buena comida
+U0047,R112,3,2023-08-26,Aceptable
+U0047,R119,5,2025-08-08,¡Espectacular!
+U0048,R032,2,2026-09-08,Precio alto para lo que ofrecen
+U0048,R101,5,2023-06-21,Una de las mejores experiencias
+U0048,R107,5,2025-03-11,Volveré pronto
+U0048,R156,3,2025-12-06,Buen lugar pero irregular
+U0048,R160,5,2026-09-21,Volveré pronto
+U0049,R009,2,2025-09-26,Precio alto para lo que ofrecen
+U0049,R052,3,2023-09-11,Aceptable
+U0049,R057,4,2023-01-29,Excelente servicio
+U0049,R138,5,2025-04-23,Una de las mejores experiencias
+U0049,R170,5,2026-06-08,Una de las mejores experiencias
+U0049,R176,3,2025-07-03,"Cumple, nada especial"
+U0049,R194,4,2023-02-17,Recomendado
+U0050,R045,4,2024-07-30,Recomendado
+U0050,R068,3,2024-07-31,"Cumple, nada especial"
+U0050,R073,3,2025-03-26,"Cumple, nada especial"
+U0050,R079,3,2025-10-21,Aceptable
+U0050,R085,4,2024-03-13,Muy buena comida
+U0050,R094,4,2026-08-05,Muy buena comida
+U0050,R127,3,2026-05-27,"Cumple, nada especial"
+U0050,R134,5,2026-05-18,¡Espectacular!
+U0050,R153,3,2025-01-05,"Cumple, nada especial"
+U0050,R163,5,2023-09-17,Una de las mejores experiencias
+U0051,R012,3,2023-05-02,"Cumple, nada especial"
+U0051,R024,4,2024-12-29,Muy buena comida
+U0051,R053,4,2024-04-26,Recomendado
+U0051,R055,2,2024-08-21,"Regular, esperaba más"
+U0051,R092,4,2024-08-31,Excelente servicio
+U0051,R129,3,2023-05-18,Buen lugar pero irregular
+U0051,R133,2,2025-03-14,"Regular, esperaba más"
+U0052,R022,4,2026-06-12,Muy buena comida
+U0052,R057,3,2025-10-17,"Cumple, nada especial"
+U0052,R069,5,2023-10-24,Volveré pronto
+U0052,R099,4,2025-12-24,Recomendado
+U0052,R166,2,2025-07-06,Comida sin sabor
+U0052,R168,5,2026-09-12,Una de las mejores experiencias
+U0053,R003,3,2024-04-21,Aceptable
+U0053,R078,3,2024-02-02,Aceptable
+U0053,R120,3,2025-05-25,Buen lugar pero irregular
+U0053,R186,3,2023-12-10,Buen lugar pero irregular
+U0054,R001,5,2023-08-14,Una de las mejores experiencias
+U0054,R012,3,2026-08-09,Aceptable
+U0054,R024,3,2025-04-12,Aceptable
+U0054,R038,4,2026-07-26,Excelente servicio
+U0054,R056,4,2025-02-22,Muy buena comida
+U0054,R072,4,2026-05-31,Recomendado
+U0054,R078,3,2025-03-12,Buen lugar pero irregular
+U0054,R146,3,2025-03-03,Aceptable
+U0055,R047,5,2025-08-18,Volveré pronto
+U0055,R089,3,2024-10-21,"Cumple, nada especial"
+U0055,R149,3,2023-09-10,"Cumple, nada especial"
+U0055,R168,4,2025-11-03,Excelente servicio
+U0056,R020,3,2023-10-14,Buen lugar pero irregular
+U0056,R031,4,2023-02-18,Excelente servicio
+U0056,R040,2,2023-06-19,Comida sin sabor
+U0056,R067,2,2025-04-04,Precio alto para lo que ofrecen
+U0056,R080,3,2024-03-27,Buen lugar pero irregular
+U0056,R160,5,2024-03-03,Volveré pronto
+U0056,R178,5,2024-11-16,Una de las mejores experiencias
+U0056,R183,2,2023-06-28,Comida sin sabor
+U0056,R186,2,2023-10-21,Precio alto para lo que ofrecen
+U0057,R024,3,2024-09-16,"Cumple, nada especial"
+U0057,R060,3,2024-02-24,Buen lugar pero irregular
+U0057,R177,2,2025-09-26,Precio alto para lo que ofrecen
+U0057,R195,4,2026-09-28,Muy buena comida
+U0058,R045,5,2026-04-25,Una de las mejores experiencias
+U0058,R068,4,2023-03-26,Recomendado
+U0058,R076,5,2025-10-05,Una de las mejores experiencias
+U0058,R079,4,2023-05-12,Excelente servicio
+U0058,R084,5,2025-04-06,¡Espectacular!
+U0058,R108,3,2026-07-25,Buen lugar pero irregular
+U0058,R131,4,2026-01-19,Excelente servicio
+U0058,R155,5,2026-01-31,Una de las mejores experiencias
+U0059,R038,5,2025-12-13,Una de las mejores experiencias
+U0059,R091,5,2023-12-26,Una de las mejores experiencias
+U0059,R127,2,2025-05-18,"Regular, esperaba más"
+U0059,R144,2,2025-08-09,Comida sin sabor
+U0059,R195,2,2026-09-09,"Regular, esperaba más"
+U0060,R053,5,2025-06-24,¡Espectacular!
+U0060,R062,2,2026-05-10,Precio alto para lo que ofrecen
+U0060,R089,3,2025-05-09,Aceptable
+U0060,R092,4,2024-08-20,Muy buena comida
+U0060,R112,5,2023-10-03,Una de las mejores experiencias
+U0060,R137,4,2023-08-18,Excelente servicio
+U0060,R148,5,2026-08-17,¡Espectacular!
+U0060,R153,3,2026-09-04,"Cumple, nada especial"
+U0060,R155,4,2023-09-20,Muy buena comida
+U0060,R167,4,2025-06-29,Excelente servicio
+U0061,R055,3,2024-07-13,Buen lugar pero irregular
+U0061,R085,4,2023-10-29,Muy buena comida
+U0061,R107,5,2024-05-15,¡Espectacular!
+U0061,R139,3,2026-01-06,Buen lugar pero irregular
+U0061,R145,1,2025-03-03,Mala experiencia
+U0062,R008,4,2024-11-29,Excelente servicio
+U0062,R019,5,2025-10-25,Volveré pronto
+U0062,R117,4,2025-07-29,Excelente servicio
+U0062,R125,5,2024-03-23,Volveré pronto
+U0062,R139,3,2023-12-30,"Cumple, nada especial"
+U0062,R150,4,2024-09-03,Muy buena comida
+U0062,R160,3,2026-03-04,Aceptable
+U0062,R161,5,2024-07-26,Una de las mejores experiencias
+U0062,R177,4,2026-05-06,Muy buena comida
+U0062,R180,4,2023-11-18,Recomendado
+U0062,R192,3,2026-04-11,Buen lugar pero irregular
+U0063,R008,4,2024-12-25,Excelente servicio
+U0063,R040,1,2026-06-04,Servicio muy lento
+U0063,R047,4,2026-04-24,Excelente servicio
+U0063,R060,2,2025-05-13,Comida sin sabor
+U0063,R086,3,2026-05-19,"Cumple, nada especial"
+U0063,R112,4,2026-01-19,Recomendado
+U0063,R160,3,2024-04-23,"Cumple, nada especial"
+U0063,R171,4,2026-07-02,Muy buena comida
+U0064,R005,4,2026-08-30,Excelente servicio
+U0064,R061,4,2025-06-11,Recomendado
+U0064,R063,4,2026-10-02,Recomendado
+U0064,R126,3,2026-06-08,Aceptable
+U0064,R160,3,2026-07-21,Buen lugar pero irregular
+U0065,R012,2,2026-05-13,"Regular, esperaba más"
+U0065,R053,5,2026-07-01,¡Espectacular!
+U0065,R055,2,2023-01-07,Precio alto para lo que ofrecen
+U0065,R086,4,2026-01-11,Recomendado
+U0065,R175,2,2026-02-13,Precio alto para lo que ofrecen
+U0066,R039,5,2025-06-06,¡Espectacular!
+U0066,R048,4,2023-07-30,Excelente servicio
+U0066,R049,5,2025-11-01,Volveré pronto
+U0066,R108,4,2024-10-27,Muy buena comida
+U0066,R127,3,2024-06-27,"Cumple, nada especial"
+U0066,R146,3,2025-05-29,Aceptable
+U0066,R151,3,2026-08-18,Aceptable
+U0066,R163,3,2026-05-21,"Cumple, nada especial"
+U0066,R165,3,2024-12-20,"Cumple, nada especial"
+U0066,R197,5,2023-04-20,Volveré pronto
+U0067,R003,4,2024-06-28,Excelente servicio
+U0067,R043,4,2025-07-31,Muy buena comida
+U0067,R069,5,2025-05-14,¡Espectacular!
+U0067,R078,4,2024-10-11,Excelente servicio
+U0067,R093,4,2025-04-19,Excelente servicio
+U0067,R100,5,2024-12-09,¡Espectacular!
+U0067,R115,3,2025-06-02,Aceptable
+U0067,R175,4,2023-06-14,Recomendado
+U0068,R008,3,2026-05-19,Aceptable
+U0068,R083,3,2024-08-09,Aceptable
+U0068,R098,2,2023-04-23,Comida sin sabor
+U0068,R115,4,2025-07-18,Muy buena comida
+U0068,R182,2,2024-10-17,Precio alto para lo que ofrecen
+U0069,R015,5,2026-04-23,¡Espectacular!
+U0069,R016,4,2026-01-01,Excelente servicio
+U0069,R029,4,2026-04-18,Muy buena comida
+U0069,R085,4,2025-04-04,Muy buena comida
+U0069,R113,5,2023-05-09,Una de las mejores experiencias
+U0069,R134,5,2025-04-17,Volveré pronto
+U0069,R142,5,2025-06-08,Una de las mejores experiencias
+U0069,R190,5,2023-08-04,Volveré pronto
+U0070,R038,3,2023-01-09,Aceptable
+U0070,R054,5,2023-04-07,Volveré pronto
+U0070,R100,3,2026-02-13,"Cumple, nada especial"
+U0070,R103,5,2026-02-07,Volveré pronto
+U0070,R146,3,2026-04-04,"Cumple, nada especial"
+U0070,R182,3,2025-05-21,"Cumple, nada especial"
+U0071,R021,2,2024-09-23,Precio alto para lo que ofrecen
+U0071,R026,3,2026-04-25,Aceptable
+U0071,R036,4,2025-10-12,Muy buena comida
+U0071,R050,2,2026-09-20,Precio alto para lo que ofrecen
+U0071,R125,2,2023-11-14,Precio alto para lo que ofrecen
+U0071,R170,5,2025-09-23,Volveré pronto
+U0071,R196,5,2026-02-08,¡Espectacular!
+U0072,R064,3,2025-12-16,Aceptable
+U0072,R085,3,2025-01-04,Buen lugar pero irregular
+U0072,R192,4,2026-03-25,Excelente servicio
+U0072,R194,3,2026-01-13,Buen lugar pero irregular
+U0073,R050,3,2024-02-27,Aceptable
+U0073,R071,5,2025-07-01,Volveré pronto
+U0073,R096,4,2026-08-22,Muy buena comida
+U0073,R112,3,2024-01-14,"Cumple, nada especial"
+U0073,R113,4,2025-07-04,Muy buena comida
+U0073,R123,4,2026-02-27,Recomendado
+U0073,R130,2,2023-07-30,"Regular, esperaba más"
+U0073,R135,2,2023-02-10,"Regular, esperaba más"
+U0073,R136,4,2026-01-08,Muy buena comida
+U0073,R177,1,2025-04-14,Mala experiencia
+U0073,R196,5,2023-09-12,¡Espectacular!
+U0074,R049,4,2026-08-22,Muy buena comida
+U0074,R064,3,2023-10-29,Buen lugar pero irregular
+U0074,R076,3,2026-07-15,"Cumple, nada especial"
+U0074,R102,3,2026-07-24,Buen lugar pero irregular
+U0074,R169,3,2024-05-20,Aceptable
+U0075,R087,3,2025-12-19,Buen lugar pero irregular
+U0075,R113,5,2024-07-07,Una de las mejores experiencias
+U0075,R120,4,2024-09-29,Excelente servicio
+U0075,R129,3,2024-10-09,"Cumple, nada especial"
+U0075,R199,4,2025-01-19,Muy buena comida
+U0076,R018,4,2026-08-09,Recomendado
+U0076,R022,4,2026-07-14,Excelente servicio
+U0076,R134,5,2023-08-19,Volveré pronto
+U0076,R150,5,2025-09-18,Volveré pronto
+U0076,R168,5,2026-01-21,Una de las mejores experiencias
+U0076,R182,3,2026-07-31,Buen lugar pero irregular
+U0077,R004,5,2026-03-02,Una de las mejores experiencias
+U0077,R034,4,2025-07-15,Recomendado
+U0077,R135,3,2026-05-10,"Cumple, nada especial"
+U0077,R136,4,2024-07-20,Recomendado
+U0077,R156,2,2024-12-11,Precio alto para lo que ofrecen
+U0078,R004,5,2026-07-27,Volveré pronto
+U0078,R046,4,2025-07-13,Excelente servicio
+U0078,R066,4,2025-06-19,Recomendado
+U0078,R078,5,2024-12-01,Una de las mejores experiencias
+U0078,R096,1,2024-09-09,Servicio muy lento
+U0078,R110,5,2025-05-07,Volveré pronto
+U0078,R165,4,2026-08-27,Excelente servicio
+U0078,R183,3,2026-05-08,Aceptable
+U0079,R005,4,2025-02-17,Muy buena comida
+U0079,R018,4,2024-12-01,Muy buena comida
+U0079,R025,5,2023-04-14,Volveré pronto
+U0079,R057,3,2025-12-28,Aceptable
+U0079,R065,3,2023-12-11,"Cumple, nada especial"
+U0079,R081,4,2026-02-05,Muy buena comida
+U0079,R146,3,2026-09-18,"Cumple, nada especial"
+U0079,R157,5,2025-08-29,Una de las mejores experiencias
+U0079,R182,3,2025-11-08,Aceptable
+U0079,R195,4,2026-09-07,Recomendado
+U0080,R030,4,2025-05-25,Recomendado
+U0080,R049,5,2024-07-04,¡Espectacular!
+U0080,R059,4,2025-09-17,Muy buena comida
+U0080,R076,3,2026-02-28,Aceptable
+U0080,R088,1,2026-03-25,Servicio muy lento
+U0080,R108,3,2023-06-08,"Cumple, nada especial"
+U0080,R123,4,2024-09-07,Muy buena comida
+U0080,R140,5,2026-05-19,Una de las mejores experiencias
+U0080,R191,3,2024-04-28,"Cumple, nada especial"
+U0081,R013,4,2026-07-09,Muy buena comida
+U0081,R019,5,2025-02-21,¡Espectacular!
+U0081,R133,4,2023-08-23,Recomendado
+U0081,R161,5,2025-09-16,¡Espectacular!
+U0081,R173,4,2023-12-07,Muy buena comida
+U0081,R180,2,2026-07-31,Comida sin sabor
+U0082,R010,4,2024-07-23,Muy buena comida
+U0082,R030,5,2025-08-20,Volveré pronto
+U0082,R058,4,2024-10-01,Recomendado
+U0082,R069,5,2025-07-28,Volveré pronto
+U0082,R072,4,2023-09-17,Recomendado
+U0082,R123,3,2026-07-22,Aceptable
+U0082,R153,3,2024-09-29,Buen lugar pero irregular
+U0082,R170,4,2024-10-09,Excelente servicio
+U0083,R003,2,2026-08-31,"Regular, esperaba más"
+U0083,R012,2,2023-06-12,Comida sin sabor
+U0083,R043,5,2025-12-13,Una de las mejores experiencias
+U0083,R078,5,2026-01-07,¡Espectacular!
+U0083,R093,4,2026-10-01,Excelente servicio
+U0083,R105,5,2023-04-16,Una de las mejores experiencias
+U0083,R159,4,2026-03-12,Recomendado
+U0084,R005,4,2025-05-30,Recomendado
+U0084,R007,4,2023-02-10,Muy buena comida
+U0084,R010,4,2024-08-04,Excelente servicio
+U0084,R060,2,2026-04-24,Precio alto para lo que ofrecen
+U0084,R087,3,2025-09-11,Aceptable
+U0084,R103,4,2023-03-03,Recomendado
+U0084,R114,4,2024-07-24,Recomendado
+U0084,R122,3,2025-12-04,Aceptable
+U0084,R159,3,2023-09-20,"Cumple, nada especial"
+U0084,R173,4,2023-08-02,Muy buena comida
+U0085,R059,5,2026-05-22,Volveré pronto
+U0085,R079,2,2026-09-10,Comida sin sabor
+U0085,R111,3,2025-12-15,"Cumple, nada especial"
+U0085,R122,4,2026-09-18,Recomendado
+U0085,R178,3,2023-01-09,Buen lugar pero irregular
+U0086,R021,2,2025-08-21,"Regular, esperaba más"
+U0086,R024,5,2023-03-17,Una de las mejores experiencias
+U0086,R055,3,2025-05-18,Buen lugar pero irregular
+U0086,R102,5,2024-05-15,Volveré pronto
+U0086,R114,5,2025-09-08,Una de las mejores experiencias
+U0086,R133,2,2026-07-02,"Regular, esperaba más"
+U0086,R194,3,2026-05-31,"Cumple, nada especial"
+U0086,R195,3,2024-09-11,Aceptable
+U0086,R198,2,2026-09-19,Precio alto para lo que ofrecen
+U0087,R029,5,2023-05-09,Una de las mejores experiencias
+U0087,R093,3,2026-01-30,Buen lugar pero irregular
+U0087,R099,4,2023-03-04,Excelente servicio
+U0087,R102,4,2025-05-19,Muy buena comida
+U0087,R105,5,2023-10-30,Una de las mejores experiencias
+U0087,R111,2,2024-12-08,Precio alto para lo que ofrecen
+U0087,R150,4,2023-12-07,Recomendado
+U0087,R167,3,2024-10-23,Aceptable
+U0088,R045,5,2026-08-10,¡Espectacular!
+U0088,R057,3,2024-03-22,"Cumple, nada especial"
+U0088,R061,5,2023-07-31,Una de las mejores experiencias
+U0088,R065,5,2025-01-15,Volveré pronto
+U0088,R069,5,2026-02-23,Volveré pronto
+U0088,R079,5,2025-05-24,Una de las mejores experiencias
+U0088,R081,4,2023-10-15,Muy buena comida
+U0088,R099,5,2026-06-14,Volveré pronto
+U0088,R105,5,2024-11-14,Volveré pronto
+U0088,R144,3,2026-01-11,Aceptable
+U0088,R148,4,2024-07-14,Muy buena comida
+U0089,R001,4,2023-05-16,Recomendado
+U0089,R062,3,2024-11-12,"Cumple, nada especial"
+U0089,R112,4,2026-04-08,Recomendado
+U0089,R125,2,2024-02-05,Precio alto para lo que ofrecen
+U0089,R182,3,2024-02-13,"Cumple, nada especial"
+U0090,R034,3,2025-01-16,Aceptable
+U0090,R080,3,2024-11-09,"Cumple, nada especial"
+U0090,R102,3,2026-02-02,Aceptable
+U0090,R130,3,2025-02-13,"Cumple, nada especial"
+U0090,R160,4,2026-03-29,Muy buena comida
+U0090,R170,3,2025-09-22,Buen lugar pero irregular
+U0090,R177,3,2025-03-26,Aceptable
+U0090,R198,4,2024-05-02,Recomendado
+U0091,R019,3,2026-07-11,Buen lugar pero irregular
+U0091,R070,3,2026-07-31,Buen lugar pero irregular
+U0091,R093,4,2023-11-02,Muy buena comida
+U0091,R106,4,2026-04-07,Muy buena comida
+U0091,R115,2,2025-03-20,Comida sin sabor
+U0091,R133,3,2024-08-08,"Cumple, nada especial"
+U0091,R146,3,2023-06-04,Buen lugar pero irregular
+U0091,R177,4,2024-10-07,Muy buena comida
+U0092,R031,4,2026-02-17,Recomendado
+U0092,R125,3,2025-05-20,"Cumple, nada especial"
+U0092,R139,4,2023-08-12,Excelente servicio
+U0092,R174,3,2023-12-07,Aceptable
+U0092,R175,4,2026-08-24,Muy buena comida
+U0092,R198,3,2023-12-23,Aceptable
+U0093,R018,4,2025-01-13,Excelente servicio
+U0093,R049,5,2025-09-11,Una de las mejores experiencias
+U0093,R073,3,2026-08-14,Aceptable
+U0093,R153,3,2024-06-24,Aceptable
+U0093,R163,4,2026-04-01,Muy buena comida
+U0093,R172,5,2023-01-03,Volveré pronto
+U0093,R195,3,2026-08-25,Buen lugar pero irregular
+U0094,R014,5,2026-07-10,Volveré pronto
+U0094,R025,5,2026-09-06,Volveré pronto
+U0094,R035,5,2025-02-24,Volveré pronto
+U0094,R045,4,2023-08-25,Recomendado
+U0094,R144,3,2024-09-08,"Cumple, nada especial"
+U0094,R180,2,2025-10-29,Comida sin sabor
+U0094,R188,3,2023-02-25,"Cumple, nada especial"
+U0095,R003,3,2026-01-29,"Cumple, nada especial"
+U0095,R024,2,2025-08-31,"Regular, esperaba más"
+U0095,R029,4,2026-06-27,Excelente servicio
+U0095,R052,3,2023-05-25,"Cumple, nada especial"
+U0095,R071,4,2024-07-25,Recomendado
+U0095,R106,5,2025-01-07,Volveré pronto
+U0095,R136,4,2023-07-31,Muy buena comida
+U0095,R151,5,2025-10-05,Una de las mejores experiencias
+U0095,R156,4,2024-03-08,Excelente servicio
+U0095,R197,5,2025-03-23,Volveré pronto
+U0096,R010,2,2026-04-25,"Regular, esperaba más"
+U0096,R021,3,2025-12-31,Aceptable
+U0096,R050,2,2023-11-26,Comida sin sabor
+U0096,R095,4,2025-07-13,Excelente servicio
+U0096,R166,2,2025-01-25,Comida sin sabor
+U0097,R009,1,2025-07-27,No volvería
+U0097,R068,3,2025-02-19,Buen lugar pero irregular
+U0097,R079,3,2025-06-05,Buen lugar pero irregular
+U0097,R123,4,2026-04-30,Muy buena comida
+U0097,R146,3,2023-09-24,Aceptable
+U0097,R196,5,2023-10-24,Una de las mejores experiencias
+U0098,R053,4,2026-06-11,Excelente servicio
+U0098,R094,3,2023-06-03,Buen lugar pero irregular
+U0098,R097,3,2025-01-23,"Cumple, nada especial"
+U0098,R199,4,2024-06-22,Muy buena comida
+U0099,R003,4,2025-09-08,Muy buena comida
+U0099,R006,4,2026-09-08,Excelente servicio
+U0099,R050,3,2025-10-26,"Cumple, nada especial"
+U0099,R121,3,2023-08-28,Aceptable
+U0099,R175,3,2024-08-20,Buen lugar pero irregular
+U0099,R182,3,2025-01-12,Aceptable
+U0100,R020,2,2024-07-15,Comida sin sabor
+U0100,R024,3,2025-07-29,Aceptable
+U0100,R083,3,2023-04-23,"Cumple, nada especial"
+U0100,R161,5,2025-12-10,Volveré pronto
+U0101,R029,3,2026-06-28,Buen lugar pero irregular
+U0101,R031,4,2024-02-06,Excelente servicio
+U0101,R043,3,2023-03-10,Buen lugar pero irregular
+U0101,R068,4,2025-09-09,Muy buena comida
+U0101,R078,3,2025-03-30,"Cumple, nada especial"
+U0101,R121,4,2023-06-13,Excelente servicio
+U0101,R196,5,2023-05-24,¡Espectacular!
+U0102,R045,4,2025-10-25,Excelente servicio
+U0102,R061,5,2024-07-29,Una de las mejores experiencias
+U0102,R078,4,2025-07-04,Recomendado
+U0102,R146,3,2023-03-09,Aceptable
+U0103,R009,5,2023-09-28,Una de las mejores experiencias
+U0103,R022,4,2025-08-02,Recomendado
+U0103,R032,4,2025-11-19,Muy buena comida
+U0103,R033,5,2025-07-01,¡Espectacular!
+U0103,R085,4,2026-07-10,Recomendado
+U0103,R086,3,2026-01-17,Buen lugar pero irregular
+U0103,R114,5,2026-03-26,Volveré pronto
+U0103,R139,3,2025-09-27,"Cumple, nada especial"
+U0103,R193,4,2024-03-16,Excelente servicio
+U0104,R019,5,2026-10-06,Volveré pronto
+U0104,R028,5,2026-05-05,Una de las mejores experiencias
+U0104,R096,2,2025-06-12,"Regular, esperaba más"
+U0104,R110,3,2024-08-10,"Cumple, nada especial"
+U0104,R141,4,2025-03-24,Recomendado
+U0104,R152,3,2025-09-06,Aceptable
+U0104,R177,4,2025-02-23,Muy buena comida
+U0104,R194,4,2023-10-10,Recomendado
+U0104,R196,5,2025-03-31,Una de las mejores experiencias
+U0105,R008,4,2026-08-12,Excelente servicio
+U0105,R042,3,2024-04-03,Aceptable
+U0105,R047,5,2026-05-22,¡Espectacular!
+U0105,R069,5,2025-11-26,Una de las mejores experiencias
+U0105,R115,3,2025-12-10,"Cumple, nada especial"
+U0105,R124,3,2025-05-09,Buen lugar pero irregular
+U0105,R144,3,2023-12-17,"Cumple, nada especial"
+U0105,R188,4,2025-01-11,Muy buena comida
+U0106,R001,5,2025-11-05,Volveré pronto
+U0106,R044,2,2023-07-21,"Regular, esperaba más"
+U0106,R053,5,2025-07-10,Volveré pronto
+U0106,R098,4,2025-09-23,Excelente servicio
+U0106,R104,4,2025-01-23,Recomendado
+U0106,R125,3,2025-10-13,Buen lugar pero irregular
+U0106,R181,3,2023-09-27,Aceptable
+U0106,R189,4,2025-07-10,Recomendado
+U0107,R023,5,2023-08-19,Una de las mejores experiencias
+U0107,R043,4,2025-05-27,Recomendado
+U0107,R066,2,2023-09-13,Comida sin sabor
+U0107,R102,5,2025-12-02,Volveré pronto
+U0107,R110,3,2026-07-08,Aceptable
+U0107,R136,4,2026-09-15,Excelente servicio
+U0108,R031,4,2025-04-28,Recomendado
+U0108,R055,2,2026-01-15,"Regular, esperaba más"
+U0108,R082,4,2025-01-02,Muy buena comida
+U0108,R113,3,2023-11-09,Buen lugar pero irregular
+U0108,R134,5,2023-06-06,Volveré pronto
+U0109,R050,3,2025-02-08,Buen lugar pero irregular
+U0109,R074,4,2025-04-25,Muy buena comida
+U0109,R089,3,2025-01-17,Aceptable
+U0109,R125,2,2026-06-23,"Regular, esperaba más"
+U0109,R129,4,2023-09-03,Excelente servicio
+U0109,R148,4,2024-05-11,Muy buena comida
+U0109,R155,5,2025-11-17,Una de las mejores experiencias
+U0109,R163,3,2023-11-07,"Cumple, nada especial"
+U0109,R179,4,2026-03-07,Excelente servicio
+U0109,R199,4,2025-08-28,Recomendado
+U0110,R026,3,2024-11-12,Aceptable
+U0110,R063,3,2024-06-20,Buen lugar pero irregular
+U0110,R075,3,2026-01-16,Aceptable
+U0110,R094,4,2025-03-11,Excelente servicio
+U0110,R159,4,2025-03-06,Recomendado
+U0110,R186,4,2023-12-04,Excelente servicio
+U0111,R034,3,2024-03-18,Aceptable
+U0111,R096,3,2025-12-12,"Cumple, nada especial"
+U0111,R113,5,2025-04-22,¡Espectacular!
+U0111,R120,3,2026-08-17,"Cumple, nada especial"
+U0111,R135,4,2023-12-09,Recomendado
+U0111,R156,2,2026-04-16,Comida sin sabor
+U0111,R184,4,2024-07-26,Muy buena comida
+U0112,R005,5,2025-03-21,Volveré pronto
+U0112,R027,4,2025-09-26,Recomendado
+U0112,R105,5,2024-02-01,¡Espectacular!
+U0112,R144,4,2024-08-06,Excelente servicio
+U0112,R145,3,2023-06-30,Buen lugar pero irregular
+U0112,R157,5,2026-05-24,¡Espectacular!
+U0112,R172,4,2024-01-10,Excelente servicio
+U0112,R182,3,2026-09-26,"Cumple, nada especial"
+U0112,R187,3,2023-09-03,Buen lugar pero irregular
+U0113,R003,1,2024-07-12,Servicio muy lento
+U0113,R032,4,2024-06-28,Recomendado
+U0113,R050,2,2026-07-21,Precio alto para lo que ofrecen
+U0113,R065,5,2025-12-11,¡Espectacular!
+U0113,R099,4,2025-12-11,Muy buena comida
+U0113,R106,5,2024-03-31,¡Espectacular!
+U0113,R145,2,2025-03-06,Comida sin sabor
+U0113,R157,5,2024-02-11,¡Espectacular!
+U0113,R165,4,2026-03-24,Recomendado
+U0114,R028,5,2026-05-15,Una de las mejores experiencias
+U0114,R050,2,2024-05-23,Comida sin sabor
+U0114,R096,1,2026-08-09,Mala experiencia
+U0114,R121,4,2025-12-17,Muy buena comida
+U0114,R123,3,2024-06-06,Buen lugar pero irregular
+U0114,R136,5,2023-01-19,Una de las mejores experiencias
+U0114,R146,4,2025-05-28,Recomendado
+U0114,R171,4,2024-12-06,Muy buena comida
+U0114,R177,4,2026-05-29,Muy buena comida
+U0114,R178,5,2025-03-30,Una de las mejores experiencias
+U0115,R036,4,2025-07-01,Excelente servicio
+U0115,R040,3,2024-07-08,Buen lugar pero irregular
+U0115,R120,3,2024-07-18,Aceptable
+U0116,R006,4,2024-10-29,Recomendado
+U0116,R032,4,2025-06-29,Excelente servicio
+U0116,R040,3,2024-03-09,Buen lugar pero irregular
+U0116,R045,4,2025-10-11,Muy buena comida
+U0116,R074,4,2024-03-23,Excelente servicio
+U0117,R019,3,2025-09-17,Aceptable
+U0117,R072,3,2023-09-14,"Cumple, nada especial"
+U0117,R097,5,2026-06-09,¡Espectacular!
+U0117,R108,3,2023-07-05,"Cumple, nada especial"
+U0117,R126,5,2026-06-15,Una de las mejores experiencias
+U0117,R140,5,2025-11-27,¡Espectacular!
+U0117,R149,4,2025-06-10,Muy buena comida
+U0118,R006,5,2025-06-12,¡Espectacular!
+U0118,R114,4,2026-06-02,Recomendado
+U0118,R122,4,2025-06-18,Muy buena comida
+U0118,R133,2,2026-03-03,Precio alto para lo que ofrecen
+U0118,R161,4,2024-05-13,Muy buena comida
+U0118,R195,4,2025-03-05,Excelente servicio
+U0119,R025,5,2024-04-04,¡Espectacular!
+U0119,R057,5,2023-04-18,Volveré pronto
+U0119,R064,2,2026-09-09,"Regular, esperaba más"
+U0119,R079,3,2026-02-27,Aceptable
+U0119,R084,4,2026-04-25,Excelente servicio
+U0119,R096,3,2026-04-04,"Cumple, nada especial"
+U0119,R118,4,2024-01-09,Muy buena comida
+U0119,R127,4,2024-10-02,Muy buena comida
+U0119,R164,5,2023-06-07,Volveré pronto
+U0119,R170,4,2024-05-04,Muy buena comida
+U0119,R171,3,2025-05-22,"Cumple, nada especial"
+U0120,R005,5,2024-01-05,Una de las mejores experiencias
+U0120,R076,4,2024-01-06,Muy buena comida
+U0120,R088,5,2025-01-30,¡Espectacular!
+U0120,R089,2,2023-08-14,Comida sin sabor
+U0120,R092,3,2024-11-13,"Cumple, nada especial"
+U0120,R124,4,2025-10-31,Muy buena comida
+U0120,R141,4,2025-09-14,Muy buena comida
+U0121,R003,2,2026-05-27,Comida sin sabor
+U0121,R012,1,2026-05-31,Mala experiencia
+U0121,R106,5,2026-07-13,Una de las mejores experiencias
+U0121,R113,4,2025-02-26,Recomendado
+U0121,R121,4,2023-10-30,Excelente servicio
+U0121,R191,3,2026-08-23,"Cumple, nada especial"
+U0122,R022,5,2024-09-23,Una de las mejores experiencias
+U0122,R049,4,2026-09-24,Excelente servicio
+U0122,R085,5,2026-08-03,Una de las mejores experiencias
+U0122,R113,5,2026-09-27,¡Espectacular!
+U0122,R127,3,2023-10-27,"Cumple, nada especial"
+U0122,R154,4,2026-03-30,Muy buena comida
+U0122,R163,3,2025-09-09,"Cumple, nada especial"
+U0122,R172,4,2024-04-28,Excelente servicio
+U0122,R191,3,2026-02-18,Buen lugar pero irregular
+U0122,R197,4,2023-09-22,Recomendado
+U0123,R017,4,2024-09-07,Muy buena comida
+U0123,R146,5,2025-02-21,¡Espectacular!
+U0123,R177,4,2026-04-02,Recomendado
+U0123,R178,4,2026-05-03,Excelente servicio
+U0124,R042,2,2024-08-10,"Regular, esperaba más"
+U0124,R083,4,2023-09-15,Excelente servicio
+U0124,R125,5,2025-07-03,Volveré pronto
+U0124,R161,5,2025-08-26,Una de las mejores experiencias
+U0124,R163,4,2023-08-10,Muy buena comida
+U0125,R053,3,2024-11-09,"Cumple, nada especial"
+U0125,R073,2,2025-09-01,"Regular, esperaba más"
+U0125,R082,4,2025-10-28,Recomendado
+U0125,R114,5,2025-04-24,Una de las mejores experiencias
+U0125,R134,5,2026-08-21,¡Espectacular!
+U0125,R180,3,2026-01-18,"Cumple, nada especial"
+U0126,R006,4,2023-12-24,Muy buena comida
+U0126,R031,4,2024-10-03,Recomendado
+U0126,R061,5,2025-03-04,Una de las mejores experiencias
+U0127,R038,4,2025-07-24,Excelente servicio
+U0127,R065,4,2026-04-01,Excelente servicio
+U0127,R112,4,2024-12-10,Recomendado
+U0127,R118,3,2025-01-05,Buen lugar pero irregular
+U0127,R145,2,2024-11-06,Precio alto para lo que ofrecen
+U0127,R146,2,2023-02-26,"Regular, esperaba más"
+U0127,R157,3,2024-12-30,Aceptable
+U0127,R195,3,2024-02-11,"Cumple, nada especial"
+U0128,R031,4,2024-10-13,Excelente servicio
+U0128,R050,3,2025-12-26,Buen lugar pero irregular
+U0128,R104,3,2026-01-24,Aceptable
+U0128,R168,4,2024-03-10,Muy buena comida
+U0129,R001,3,2026-05-16,"Cumple, nada especial"
+U0129,R003,2,2025-09-03,"Regular, esperaba más"
+U0129,R012,3,2026-01-06,Buen lugar pero irregular
+U0129,R076,4,2026-01-11,Recomendado
+U0129,R078,3,2026-05-18,Aceptable
+U0129,R106,4,2026-09-11,Recomendado
+U0129,R146,2,2024-11-24,Precio alto para lo que ofrecen
+U0129,R159,5,2026-04-18,¡Espectacular!
+U0130,R003,3,2025-10-16,Buen lugar pero irregular
+U0130,R044,3,2025-08-12,Buen lugar pero irregular
+U0130,R072,4,2026-09-15,Excelente servicio
+U0130,R107,5,2024-05-20,¡Espectacular!
+U0130,R189,4,2025-08-10,Recomendado
+U0131,R006,5,2025-01-09,Una de las mejores experiencias
+U0131,R010,4,2025-06-15,Muy buena comida
+U0131,R017,5,2023-08-15,Volveré pronto
+U0131,R172,5,2024-10-07,Una de las mejores experiencias
+U0131,R173,4,2026-07-04,Muy buena comida
+U0131,R175,2,2024-12-17,Precio alto para lo que ofrecen
+U0131,R180,1,2024-10-14,Servicio muy lento
+U0132,R009,3,2026-08-29,Aceptable
+U0132,R086,4,2025-09-04,Recomendado
+U0132,R092,3,2024-05-23,Buen lugar pero irregular
+U0132,R139,4,2024-09-22,Excelente servicio
+U0132,R163,5,2025-10-10,¡Espectacular!
+U0132,R173,5,2023-10-26,Volveré pronto
+U0132,R193,3,2024-07-13,"Cumple, nada especial"
+U0133,R028,4,2025-09-15,Muy buena comida
+U0133,R077,5,2025-05-08,Una de las mejores experiencias
+U0133,R130,4,2025-03-01,Muy buena comida
+U0133,R184,3,2025-01-03,"Cumple, nada especial"
+U0134,R065,4,2025-12-09,Excelente servicio
+U0134,R099,2,2025-11-22,Precio alto para lo que ofrecen
+U0134,R146,2,2024-04-02,Comida sin sabor
+U0134,R148,4,2024-11-30,Muy buena comida
+U0134,R165,3,2026-06-24,"Cumple, nada especial"
+U0135,R052,4,2023-04-22,Excelente servicio
+U0135,R083,3,2025-07-19,"Cumple, nada especial"
+U0135,R155,4,2025-07-04,Muy buena comida
+U0136,R001,3,2024-05-22,"Cumple, nada especial"
+U0136,R054,3,2025-10-18,Aceptable
+U0136,R086,5,2023-03-08,Volveré pronto
+U0136,R138,5,2025-02-08,¡Espectacular!
+U0136,R139,2,2023-12-15,Precio alto para lo que ofrecen
+U0136,R176,4,2026-05-26,Excelente servicio
+U0136,R199,4,2023-09-09,Muy buena comida
+U0137,R005,5,2024-10-13,Volveré pronto
+U0137,R070,5,2025-06-23,Volveré pronto
+U0137,R090,2,2025-08-29,"Regular, esperaba más"
+U0137,R091,5,2024-12-05,Volveré pronto
+U0137,R162,4,2025-08-18,Excelente servicio
+U0137,R167,4,2025-05-03,Muy buena comida
+U0137,R198,2,2026-04-12,"Regular, esperaba más"
+U0138,R005,1,2024-08-16,No volvería
+U0138,R028,4,2025-12-10,Excelente servicio
+U0138,R064,2,2026-09-10,Comida sin sabor
+U0138,R139,2,2025-06-14,Precio alto para lo que ofrecen
+U0138,R148,4,2023-09-25,Excelente servicio
+U0139,R008,4,2026-09-08,Excelente servicio
+U0139,R013,4,2025-07-21,Excelente servicio
+U0139,R051,3,2023-12-19,Buen lugar pero irregular
+U0139,R122,3,2026-05-18,Buen lugar pero irregular
+U0139,R190,3,2025-09-30,Buen lugar pero irregular
+U0140,R034,2,2023-09-22,"Regular, esperaba más"
+U0140,R042,1,2025-08-20,Servicio muy lento
+U0140,R052,3,2026-05-28,"Cumple, nada especial"
+U0140,R093,5,2026-08-12,Una de las mejores experiencias
+U0140,R102,5,2026-08-12,Una de las mejores experiencias
+U0140,R122,2,2024-12-12,"Regular, esperaba más"
+U0140,R126,4,2023-07-08,Recomendado
+U0140,R128,4,2024-11-02,Excelente servicio
+U0140,R160,5,2026-04-22,Volveré pronto
+U0140,R190,4,2026-07-12,Muy buena comida
+U0140,R192,3,2026-01-11,Buen lugar pero irregular
+U0140,R198,3,2025-09-11,Buen lugar pero irregular
+U0141,R025,5,2026-03-05,Una de las mejores experiencias
+U0141,R091,4,2026-03-05,Muy buena comida
+U0141,R098,2,2025-09-22,Comida sin sabor
+U0141,R132,5,2023-04-30,Una de las mejores experiencias
+U0141,R137,4,2024-10-04,Recomendado
+U0141,R153,3,2023-06-30,Aceptable
+U0141,R155,5,2025-06-04,Una de las mejores experiencias
+U0141,R167,5,2026-01-10,Una de las mejores experiencias
+U0142,R091,4,2024-11-03,Excelente servicio
+U0142,R121,4,2024-07-07,Recomendado
+U0142,R167,4,2026-02-01,Excelente servicio
+U0142,R175,4,2024-07-14,Recomendado
+U0142,R189,4,2024-10-26,Muy buena comida
+U0143,R019,5,2024-01-15,Volveré pronto
+U0143,R050,3,2025-02-10,Buen lugar pero irregular
+U0143,R053,4,2023-08-24,Excelente servicio
+U0143,R100,4,2024-02-18,Recomendado
+U0143,R103,5,2024-03-15,¡Espectacular!
+U0143,R152,3,2025-12-19,"Cumple, nada especial"
+U0143,R166,3,2025-11-01,Aceptable
+U0143,R196,2,2025-06-27,"Regular, esperaba más"
+U0143,R200,3,2024-02-11,Aceptable
+U0144,R018,5,2026-01-28,¡Espectacular!
+U0144,R022,4,2023-05-14,Excelente servicio
+U0144,R058,4,2025-01-20,Recomendado
+U0144,R060,4,2024-07-16,Excelente servicio
+U0144,R066,3,2026-09-15,Buen lugar pero irregular
+U0144,R080,4,2025-12-04,Recomendado
+U0144,R085,5,2025-03-31,Volveré pronto
+U0144,R102,5,2023-09-24,Volveré pronto
+U0144,R112,3,2024-01-29,Buen lugar pero irregular
+U0144,R124,3,2025-12-28,Aceptable
+U0144,R128,3,2026-06-02,Aceptable
+U0144,R130,3,2025-12-22,Aceptable
+U0144,R198,3,2025-03-19,Buen lugar pero irregular
+U0145,R051,3,2025-09-11,"Cumple, nada especial"
+U0145,R054,4,2024-05-01,Recomendado
+U0145,R077,5,2025-10-06,Volveré pronto
+U0145,R097,4,2025-12-17,Recomendado
+U0145,R122,1,2026-08-27,Mala experiencia
+U0145,R178,4,2024-02-29,Excelente servicio
+U0145,R182,4,2026-05-03,Excelente servicio
+U0146,R024,4,2025-11-02,Muy buena comida
+U0146,R033,3,2024-07-10,"Cumple, nada especial"
+U0146,R068,3,2026-06-03,Buen lugar pero irregular
+U0146,R082,4,2026-09-15,Excelente servicio
+U0146,R113,4,2024-10-13,Excelente servicio
+U0146,R114,5,2023-10-01,Una de las mejores experiencias
+U0146,R122,2,2024-03-12,Comida sin sabor
+U0146,R124,4,2023-12-18,Excelente servicio
+U0146,R168,3,2023-09-29,Buen lugar pero irregular
+U0146,R194,4,2024-10-25,Excelente servicio
+U0147,R065,5,2023-12-02,Una de las mejores experiencias
+U0147,R068,4,2023-04-20,Recomendado
+U0147,R118,4,2025-02-09,Muy buena comida
+U0147,R125,2,2025-06-13,Comida sin sabor
+U0147,R127,3,2026-05-22,Aceptable
+U0147,R191,4,2026-06-10,Recomendado
+U0148,R094,4,2026-09-16,Muy buena comida
+U0148,R100,4,2026-04-09,Muy buena comida
+U0148,R138,5,2025-01-11,Una de las mejores experiencias
+U0148,R168,4,2026-04-24,Recomendado
+U0148,R185,3,2025-12-13,Aceptable
+U0149,R003,4,2023-01-28,Recomendado
+U0149,R035,5,2024-01-04,¡Espectacular!
+U0149,R079,4,2026-02-24,Recomendado
+U0149,R111,4,2025-12-06,Excelente servicio
+U0149,R179,3,2026-03-09,"Cumple, nada especial"
+U0149,R180,3,2023-05-28,"Cumple, nada especial"
+U0149,R187,5,2023-06-07,Una de las mejores experiencias
+U0150,R003,4,2024-08-02,Muy buena comida
+U0150,R035,5,2026-05-27,¡Espectacular!
+U0150,R043,3,2023-01-12,"Cumple, nada especial"
+U0150,R069,4,2024-03-02,Excelente servicio
+U0150,R070,3,2023-05-17,Aceptable
+U0150,R078,5,2025-07-03,¡Espectacular!
+U0150,R080,2,2025-06-02,Comida sin sabor
+U0150,R116,5,2026-08-27,¡Espectacular!
+U0150,R121,4,2026-08-02,Recomendado
+U0151,R044,5,2024-08-26,¡Espectacular!
+U0151,R045,3,2023-09-05,Aceptable
+U0151,R047,2,2023-06-24,Precio alto para lo que ofrecen
+U0151,R085,4,2024-05-01,Excelente servicio
+U0151,R115,5,2025-02-24,¡Espectacular!
+U0151,R188,3,2023-12-05,"Cumple, nada especial"
+U0151,R199,4,2025-09-17,Excelente servicio
+U0152,R024,5,2024-03-12,Volveré pronto
+U0152,R070,3,2025-03-17,Buen lugar pero irregular
+U0152,R083,3,2026-03-21,Buen lugar pero irregular
+U0152,R098,4,2024-10-15,Excelente servicio
+U0152,R112,3,2026-04-13,Aceptable
+U0152,R192,2,2026-07-19,"Regular, esperaba más"
+U0152,R197,5,2023-02-05,Una de las mejores experiencias
+U0153,R027,4,2026-02-23,Muy buena comida
+U0153,R063,3,2025-05-10,Aceptable
+U0153,R095,4,2026-05-10,Recomendado
+U0153,R099,3,2025-05-03,"Cumple, nada especial"
+U0153,R161,4,2024-06-15,Excelente servicio
+U0153,R192,3,2023-11-07,Buen lugar pero irregular
+U0154,R038,5,2025-08-20,Una de las mejores experiencias
+U0154,R043,4,2024-08-02,Muy buena comida
+U0154,R056,5,2023-06-28,Volveré pronto
+U0154,R070,3,2026-01-29,"Cumple, nada especial"
+U0154,R083,2,2025-12-11,Comida sin sabor
+U0154,R097,5,2025-03-07,Una de las mejores experiencias
+U0154,R098,2,2025-03-24,Comida sin sabor
+U0155,R075,3,2025-03-11,"Cumple, nada especial"
+U0155,R097,2,2026-09-15,Comida sin sabor
+U0155,R112,4,2023-11-04,Recomendado
+U0155,R144,3,2025-08-03,Buen lugar pero irregular
+U0155,R174,3,2026-01-15,Buen lugar pero irregular
+U0156,R025,5,2026-05-15,Volveré pronto
+U0156,R035,5,2026-05-18,Volveré pronto
+U0156,R045,4,2023-04-12,Excelente servicio
+U0156,R046,4,2025-12-14,Recomendado
+U0156,R065,4,2025-11-16,Muy buena comida
+U0156,R077,4,2024-06-07,Muy buena comida
+U0156,R101,4,2023-09-17,Excelente servicio
+U0156,R104,3,2025-09-26,"Cumple, nada especial"
+U0156,R157,5,2024-06-27,Una de las mejores experiencias
+U0156,R195,3,2024-03-20,"Cumple, nada especial"
+U0157,R028,5,2023-03-05,Volveré pronto
+U0157,R041,2,2026-04-23,Comida sin sabor
+U0157,R049,5,2025-09-12,Una de las mejores experiencias
+U0157,R092,5,2023-08-05,¡Espectacular!
+U0157,R136,5,2025-05-23,Volveré pronto
+U0157,R141,4,2026-02-13,Recomendado
+U0157,R185,3,2026-08-06,Buen lugar pero irregular
+U0157,R200,3,2023-02-26,"Cumple, nada especial"
+U0158,R005,4,2024-07-10,Excelente servicio
+U0158,R040,1,2024-10-06,Mala experiencia
+U0158,R055,2,2026-02-26,Comida sin sabor
+U0158,R064,3,2025-09-26,"Cumple, nada especial"
+U0158,R066,1,2025-07-06,Servicio muy lento
+U0158,R092,3,2026-04-20,Buen lugar pero irregular
+U0158,R098,2,2025-07-31,Precio alto para lo que ofrecen
+U0158,R119,4,2024-06-15,Recomendado
+U0158,R150,5,2025-08-14,Una de las mejores experiencias
+U0158,R181,4,2025-08-22,Excelente servicio
+U0159,R021,3,2023-10-22,"Cumple, nada especial"
+U0159,R043,4,2024-09-29,Muy buena comida
+U0159,R105,5,2024-02-24,Volveré pronto
+U0159,R109,5,2026-07-06,¡Espectacular!
+U0159,R113,5,2025-06-03,Una de las mejores experiencias
+U0160,R006,5,2025-04-01,Una de las mejores experiencias
+U0160,R010,2,2025-06-09,"Regular, esperaba más"
+U0160,R019,5,2026-04-21,¡Espectacular!
+U0160,R038,4,2024-02-15,Muy buena comida
+U0160,R052,3,2024-02-12,Aceptable
+U0160,R082,5,2023-11-04,¡Espectacular!
+U0160,R114,3,2026-04-12,Buen lugar pero irregular
+U0160,R173,2,2025-11-20,Precio alto para lo que ofrecen
+U0160,R177,2,2024-07-07,"Regular, esperaba más"
+U0161,R014,4,2024-12-08,Recomendado
+U0161,R068,3,2025-04-28,"Cumple, nada especial"
+U0161,R073,3,2024-10-19,"Cumple, nada especial"
+U0161,R091,4,2025-11-28,Excelente servicio
+U0161,R101,3,2025-11-12,Buen lugar pero irregular
+U0161,R108,3,2026-01-10,Aceptable
+U0161,R163,5,2023-10-02,¡Espectacular!
+U0162,R066,4,2023-10-03,Recomendado
+U0162,R135,2,2025-12-23,Precio alto para lo que ofrecen
+U0162,R177,5,2025-04-18,Volveré pronto
+U0162,R183,3,2025-07-03,Aceptable
+U0162,R192,2,2026-03-25,"Regular, esperaba más"
+U0163,R014,5,2025-04-05,Una de las mejores experiencias
+U0163,R066,3,2025-08-10,Aceptable
+U0163,R094,4,2026-02-03,Excelente servicio
+U0163,R154,5,2026-05-09,¡Espectacular!
+U0163,R159,5,2025-03-30,¡Espectacular!
+U0163,R164,3,2026-08-09,Aceptable
+U0163,R169,3,2024-12-09,"Cumple, nada especial"
+U0164,R007,2,2024-09-08,Comida sin sabor
+U0164,R010,3,2026-07-18,Buen lugar pero irregular
+U0164,R079,3,2025-04-29,Aceptable
+U0164,R089,2,2023-09-04,Precio alto para lo que ofrecen
+U0164,R097,4,2024-03-26,Recomendado
+U0164,R119,4,2026-02-23,Recomendado
+U0164,R182,2,2025-02-19,Comida sin sabor
+U0164,R197,5,2025-06-22,Una de las mejores experiencias
+U0165,R010,2,2026-04-06,Comida sin sabor
+U0165,R015,5,2025-11-28,Volveré pronto
+U0165,R017,5,2026-05-17,Volveré pronto
+U0165,R026,2,2026-03-17,Precio alto para lo que ofrecen
+U0165,R054,3,2023-12-23,Aceptable
+U0165,R103,5,2025-06-13,¡Espectacular!
+U0165,R129,4,2026-01-29,Muy buena comida
+U0165,R183,2,2026-05-13,Comida sin sabor
+U0165,R191,2,2024-07-25,"Regular, esperaba más"
+U0166,R061,5,2025-09-27,Una de las mejores experiencias
+U0166,R068,4,2025-05-27,Recomendado
+U0166,R090,3,2026-03-26,"Cumple, nada especial"
+U0166,R091,4,2025-10-30,Recomendado
+U0166,R134,5,2024-08-17,Volveré pronto
+U0166,R192,4,2026-04-22,Excelente servicio
+U0167,R029,4,2026-05-16,Excelente servicio
+U0167,R041,3,2025-11-25,Aceptable
+U0167,R060,4,2026-05-03,Muy buena comida
+U0167,R075,4,2024-10-25,Recomendado
+U0167,R100,4,2026-02-02,Recomendado
+U0167,R110,5,2023-09-15,Volveré pronto
+U0167,R116,5,2024-05-04,Una de las mejores experiencias
+U0167,R148,4,2026-05-06,Excelente servicio
+U0168,R001,5,2024-01-09,¡Espectacular!
+U0168,R072,5,2026-06-26,Volveré pronto
+U0168,R129,2,2026-02-04,Precio alto para lo que ofrecen
+U0168,R131,4,2025-04-17,Recomendado
+U0168,R187,3,2023-08-20,Buen lugar pero irregular
+U0168,R194,5,2026-03-09,¡Espectacular!
+U0168,R198,2,2025-11-22,Comida sin sabor
+U0169,R003,3,2023-04-08,Aceptable
+U0169,R034,3,2023-05-02,Buen lugar pero irregular
+U0169,R035,5,2024-12-09,Volveré pronto
+U0169,R056,5,2024-07-20,¡Espectacular!
+U0169,R070,3,2024-09-29,Buen lugar pero irregular
+U0169,R091,4,2025-01-15,Muy buena comida
+U0169,R162,3,2025-05-09,Buen lugar pero irregular
+U0170,R012,2,2026-04-11,Precio alto para lo que ofrecen
+U0170,R019,5,2026-07-17,Una de las mejores experiencias
+U0170,R027,4,2023-07-03,Recomendado
+U0170,R043,3,2025-07-06,"Cumple, nada especial"
+U0170,R069,5,2025-06-01,Una de las mejores experiencias
+U0170,R078,3,2026-02-20,Aceptable
+U0170,R093,5,2024-05-22,¡Espectacular!
+U0170,R137,5,2025-09-24,Volveré pronto
+U0170,R190,4,2024-03-06,Recomendado
+U0171,R043,4,2023-11-10,Muy buena comida
+U0171,R053,3,2025-11-05,Buen lugar pero irregular
+U0171,R087,4,2024-02-05,Muy buena comida
+U0171,R114,4,2025-04-06,Muy buena comida
+U0171,R129,3,2023-06-04,"Cumple, nada especial"
+U0171,R161,5,2026-05-12,¡Espectacular!
+U0171,R198,2,2026-06-14,Precio alto para lo que ofrecen
+U0172,R012,4,2026-06-16,Recomendado
+U0172,R014,4,2026-01-02,Muy buena comida
+U0172,R028,5,2024-07-28,Volveré pronto
+U0172,R106,4,2026-09-28,Recomendado
+U0173,R012,2,2024-04-25,"Regular, esperaba más"
+U0173,R064,2,2026-07-15,"Regular, esperaba más"
+U0173,R069,5,2025-04-22,Una de las mejores experiencias
+U0173,R078,3,2025-01-14,Aceptable
+U0173,R106,4,2026-04-18,Muy buena comida
+U0173,R121,4,2023-06-21,Recomendado
+U0174,R001,4,2026-09-26,Recomendado
+U0174,R010,4,2026-08-31,Recomendado
+U0174,R040,4,2025-05-19,Muy buena comida
+U0174,R053,4,2024-11-25,Recomendado
+U0174,R076,5,2025-04-01,¡Espectacular!
+U0174,R148,5,2024-10-02,¡Espectacular!
+U0174,R153,4,2024-06-04,Muy buena comida
+U0174,R176,5,2023-09-19,Una de las mejores experiencias
+U0174,R179,3,2024-10-13,Buen lugar pero irregular
+U0175,R026,3,2023-09-17,Aceptable
+U0175,R065,3,2025-05-16,Aceptable
+U0175,R092,4,2024-08-16,Excelente servicio
+U0175,R137,5,2025-02-13,Volveré pronto
+U0175,R155,4,2024-07-28,Excelente servicio
+U0175,R158,2,2024-05-26,"Regular, esperaba más"
+U0175,R170,4,2026-09-27,Muy buena comida
+U0175,R186,2,2025-11-29,"Regular, esperaba más"
+U0176,R009,2,2025-03-28,"Regular, esperaba más"
+U0176,R157,5,2026-09-30,¡Espectacular!
+U0176,R167,3,2023-06-21,Buen lugar pero irregular
+U0177,R023,5,2024-01-17,¡Espectacular!
+U0177,R029,5,2023-04-16,Una de las mejores experiencias
+U0177,R034,2,2026-05-28,"Regular, esperaba más"
+U0177,R136,5,2026-07-08,Una de las mejores experiencias
+U0177,R156,4,2024-07-26,Muy buena comida
+U0177,R183,4,2023-03-15,Recomendado
+U0178,R001,4,2025-06-23,Excelente servicio
+U0178,R027,3,2025-07-04,Buen lugar pero irregular
+U0178,R148,4,2026-01-19,Recomendado
+U0178,R194,4,2024-10-19,Excelente servicio
+U0179,R008,2,2024-11-28,Comida sin sabor
+U0179,R015,5,2024-03-24,Volveré pronto
+U0179,R070,4,2026-05-06,Excelente servicio
+U0179,R145,2,2025-08-17,Precio alto para lo que ofrecen
+U0179,R157,5,2023-04-15,Volveré pronto
+U0179,R196,4,2024-07-09,Recomendado
+U0180,R113,4,2026-09-30,Recomendado
+U0180,R122,2,2025-10-22,Comida sin sabor
+U0180,R153,3,2024-09-30,"Cumple, nada especial"
+U0180,R192,3,2025-01-09,Buen lugar pero irregular
+U0181,R049,5,2025-10-20,Una de las mejores experiencias
+U0181,R055,1,2024-01-25,Mala experiencia
+U0181,R077,4,2025-01-14,Recomendado
+U0181,R086,4,2026-08-11,Excelente servicio
+U0181,R142,4,2026-04-03,Recomendado
+U0181,R145,2,2026-09-30,Comida sin sabor
+U0181,R153,3,2025-07-20,"Cumple, nada especial"
+U0181,R195,4,2025-05-20,Recomendado
+U0181,R196,5,2025-04-02,Volveré pronto
+U0182,R112,4,2026-06-23,Recomendado
+U0182,R115,4,2024-10-30,Excelente servicio
+U0182,R121,4,2025-01-06,Recomendado
+U0182,R146,3,2024-05-14,"Cumple, nada especial"
+U0182,R154,4,2023-01-25,Excelente servicio
+U0183,R065,5,2024-09-20,Una de las mejores experiencias
+U0183,R098,1,2024-12-29,Mala experiencia
+U0183,R101,3,2025-10-02,Buen lugar pero irregular
+U0183,R119,3,2023-12-22,"Cumple, nada especial"
+U0183,R128,5,2026-06-09,Una de las mejores experiencias
+U0183,R157,5,2024-02-10,Volveré pronto
+U0183,R181,4,2023-12-31,Excelente servicio
+U0184,R082,3,2024-05-24,"Cumple, nada especial"
+U0184,R102,5,2024-12-17,¡Espectacular!
+U0184,R113,5,2024-08-15,Volveré pronto
+U0184,R195,4,2026-03-25,Recomendado
+U0185,R004,4,2025-02-20,Recomendado
+U0185,R022,5,2024-01-11,¡Espectacular!
+U0185,R099,4,2023-05-23,Recomendado
+U0185,R100,5,2023-03-08,Volveré pronto
+U0185,R120,4,2026-06-18,Excelente servicio
+U0185,R168,4,2025-05-27,Excelente servicio
+U0185,R176,4,2023-03-09,Muy buena comida
+U0185,R188,3,2026-07-13,"Cumple, nada especial"
+U0186,R003,1,2024-11-22,No volvería
+U0186,R044,5,2023-04-10,Volveré pronto
+U0186,R066,3,2025-04-10,Aceptable
+U0186,R086,5,2024-11-06,Una de las mejores experiencias
+U0186,R090,3,2026-06-21,Buen lugar pero irregular
+U0186,R101,5,2026-09-24,Volveré pronto
+U0186,R156,3,2025-05-27,Buen lugar pero irregular
+U0186,R157,5,2025-03-14,¡Espectacular!
+U0186,R170,3,2025-10-09,Buen lugar pero irregular
+U0186,R194,2,2026-01-07,"Regular, esperaba más"
+U0186,R195,2,2025-05-27,Precio alto para lo que ofrecen
+U0187,R009,4,2023-04-24,Recomendado
+U0187,R029,5,2025-12-29,Volveré pronto
+U0187,R041,2,2023-02-02,Precio alto para lo que ofrecen
+U0187,R093,3,2023-04-09,"Cumple, nada especial"
+U0187,R159,5,2025-02-10,Volveré pronto
+U0187,R164,4,2026-02-02,Muy buena comida
+U0187,R191,3,2026-02-21,"Cumple, nada especial"
+U0188,R003,3,2023-04-16,"Cumple, nada especial"
+U0188,R020,2,2025-12-21,Precio alto para lo que ofrecen
+U0188,R062,3,2025-02-23,"Cumple, nada especial"
+U0188,R067,4,2024-04-03,Muy buena comida
+U0188,R071,5,2024-11-09,Volveré pronto
+U0188,R082,3,2026-06-28,"Cumple, nada especial"
+U0188,R091,4,2023-09-20,Excelente servicio
+U0188,R145,3,2023-05-22,Buen lugar pero irregular
+U0188,R157,4,2026-04-10,Excelente servicio
+U0188,R194,3,2024-09-03,Buen lugar pero irregular
+U0189,R028,3,2023-09-22,Buen lugar pero irregular
+U0189,R062,2,2025-12-15,Comida sin sabor
+U0189,R072,5,2025-05-31,¡Espectacular!
+U0189,R079,2,2025-05-11,"Regular, esperaba más"
+U0189,R117,4,2024-01-25,Recomendado
+U0189,R132,4,2025-10-25,Excelente servicio
+U0189,R138,5,2024-01-26,Una de las mejores experiencias
+U0189,R154,5,2025-05-21,Una de las mejores experiencias
+U0189,R195,3,2024-10-03,"Cumple, nada especial"
+U0189,R196,5,2026-05-10,¡Espectacular!
+U0190,R067,1,2023-04-30,No volvería
+U0190,R102,5,2025-06-30,¡Espectacular!
+U0190,R111,3,2025-12-15,"Cumple, nada especial"
+U0190,R172,5,2026-01-23,¡Espectacular!
+U0191,R005,3,2023-08-31,"Cumple, nada especial"
+U0191,R081,3,2023-11-03,"Cumple, nada especial"
+U0191,R086,3,2023-10-10,Aceptable
+U0191,R148,4,2025-05-17,Recomendado
+U0192,R052,4,2023-04-09,Recomendado
+U0192,R079,3,2024-10-01,Aceptable
+U0192,R081,4,2026-08-21,Excelente servicio
+U0192,R104,5,2026-03-15,¡Espectacular!
+U0192,R105,4,2024-06-03,Muy buena comida
+U0192,R111,2,2026-03-26,"Regular, esperaba más"
+U0192,R144,4,2024-01-31,Excelente servicio
+U0192,R150,5,2026-02-24,Volveré pronto
+U0192,R163,4,2025-12-20,Recomendado
+U0193,R043,3,2023-09-28,Buen lugar pero irregular
+U0193,R059,4,2026-09-21,Excelente servicio
+U0193,R104,3,2023-02-17,Buen lugar pero irregular
+U0193,R106,4,2023-09-30,Recomendado
+U0193,R108,2,2024-01-04,Comida sin sabor
+U0193,R168,4,2024-02-23,Excelente servicio
+U0193,R178,4,2025-04-29,Recomendado
+U0193,R187,4,2026-01-10,Excelente servicio
+U0193,R196,5,2024-03-09,¡Espectacular!
+U0194,R014,5,2025-07-01,¡Espectacular!
+U0194,R029,4,2026-10-02,Muy buena comida
+U0194,R052,2,2024-11-16,Comida sin sabor
+U0194,R096,2,2026-08-10,"Regular, esperaba más"
+U0194,R130,5,2026-04-25,Una de las mejores experiencias
+U0194,R131,4,2025-12-17,Recomendado
+U0194,R191,3,2025-10-09,Aceptable
+U0195,R017,5,2026-08-26,Una de las mejores experiencias
+U0195,R062,2,2025-10-19,Precio alto para lo que ofrecen
+U0195,R073,3,2026-06-08,"Cumple, nada especial"
+U0195,R155,5,2026-05-24,Una de las mejores experiencias
+U0195,R158,2,2023-08-29,Comida sin sabor
+U0195,R199,3,2024-12-29,Aceptable
+U0196,R006,5,2025-07-30,Volveré pronto
+U0196,R017,4,2024-05-19,Recomendado
+U0196,R019,3,2024-03-31,Buen lugar pero irregular
+U0196,R040,2,2026-07-28,Precio alto para lo que ofrecen
+U0196,R106,5,2023-05-04,Volveré pronto
+U0196,R147,3,2025-06-26,Aceptable
+U0196,R161,3,2026-05-29,"Cumple, nada especial"
+U0196,R188,3,2024-12-16,Buen lugar pero irregular
+U0197,R011,5,2025-07-04,Volveré pronto
+U0197,R012,3,2026-06-02,"Cumple, nada especial"
+U0197,R056,4,2025-08-18,Recomendado
+U0197,R060,4,2024-09-21,Muy buena comida
+U0197,R066,2,2023-07-26,Precio alto para lo que ofrecen
+U0197,R086,3,2026-07-01,Buen lugar pero irregular
+U0198,R025,4,2025-08-20,Excelente servicio
+U0198,R029,5,2025-09-09,¡Espectacular!
+U0198,R140,5,2025-11-03,¡Espectacular!
+U0199,R027,3,2024-06-08,Aceptable
+U0199,R043,3,2025-01-30,Buen lugar pero irregular
+U0199,R049,5,2024-05-16,Una de las mejores experiencias
+U0199,R091,5,2025-06-04,Volveré pronto
+U0199,R114,4,2025-12-12,Excelente servicio
+U0199,R125,3,2025-12-04,Buen lugar pero irregular
+U0200,R042,3,2026-01-22,Aceptable
+U0200,R113,5,2026-06-09,¡Espectacular!
+U0200,R162,4,2025-03-05,Muy buena comida
+U0200,R197,4,2026-05-12,Excelente servicio
+U0201,R031,4,2024-10-10,Muy buena comida
+U0201,R097,4,2026-01-28,Recomendado
+U0201,R100,4,2024-05-19,Excelente servicio
+U0201,R157,5,2026-04-20,Una de las mejores experiencias
+U0202,R048,5,2026-06-08,¡Espectacular!
+U0202,R053,5,2024-04-09,¡Espectacular!
+U0202,R068,3,2024-10-05,"Cumple, nada especial"
+U0202,R070,4,2023-04-15,Recomendado
+U0202,R092,3,2024-05-09,"Cumple, nada especial"
+U0202,R108,3,2024-10-30,Buen lugar pero irregular
+U0202,R137,5,2024-11-26,¡Espectacular!
+U0202,R192,3,2026-04-18,Aceptable
+U0202,R195,3,2026-02-27,Buen lugar pero irregular
+U0203,R005,3,2026-05-12,Buen lugar pero irregular
+U0203,R008,3,2026-05-03,Aceptable
+U0203,R019,4,2026-03-31,Excelente servicio
+U0203,R093,4,2024-11-28,Muy buena comida
+U0203,R095,5,2026-04-03,Volveré pronto
+U0203,R102,5,2026-04-12,Volveré pronto
+U0203,R115,3,2025-04-27,Aceptable
+U0203,R153,3,2025-12-07,Aceptable
+U0203,R160,4,2023-12-27,Muy buena comida
+U0204,R033,3,2025-02-09,Buen lugar pero irregular
+U0204,R091,3,2026-04-03,"Cumple, nada especial"
+U0204,R097,3,2025-12-19,Aceptable
+U0204,R125,3,2026-05-28,Buen lugar pero irregular
+U0204,R140,4,2023-04-22,Excelente servicio
+U0204,R174,4,2023-05-18,Recomendado
+U0204,R196,3,2024-05-23,Aceptable
+U0205,R070,2,2025-09-30,Comida sin sabor
+U0205,R078,3,2024-10-19,"Cumple, nada especial"
+U0205,R152,4,2024-12-27,Muy buena comida
+U0205,R163,4,2024-05-07,Muy buena comida
+U0205,R171,5,2023-06-04,Volveré pronto
+U0206,R009,2,2026-01-23,"Regular, esperaba más"
+U0206,R048,5,2024-06-30,Volveré pronto
+U0206,R050,3,2026-01-23,Buen lugar pero irregular
+U0206,R057,3,2024-04-20,"Cumple, nada especial"
+U0206,R061,5,2026-02-23,Una de las mejores experiencias
+U0206,R094,4,2026-09-14,Recomendado
+U0206,R107,4,2025-04-20,Recomendado
+U0206,R116,5,2026-05-10,Una de las mejores experiencias
+U0206,R132,4,2025-05-07,Excelente servicio
+U0206,R169,4,2026-03-08,Recomendado
+U0207,R001,5,2024-08-29,¡Espectacular!
+U0207,R047,3,2026-02-01,"Cumple, nada especial"
+U0207,R139,4,2023-06-05,Recomendado
+U0207,R144,4,2025-02-02,Excelente servicio
+U0207,R154,5,2025-11-20,¡Espectacular!
+U0207,R173,3,2026-06-25,"Cumple, nada especial"
+U0207,R195,4,2024-03-18,Muy buena comida
+U0207,R200,5,2025-05-01,Una de las mejores experiencias
+U0208,R003,3,2023-05-17,Buen lugar pero irregular
+U0208,R073,2,2025-05-09,Comida sin sabor
+U0208,R093,2,2025-11-20,Precio alto para lo que ofrecen
+U0208,R106,4,2024-02-05,Recomendado
+U0208,R127,3,2024-10-28,"Cumple, nada especial"
+U0208,R161,5,2023-06-03,Volveré pronto
+U0209,R021,3,2025-12-21,Buen lugar pero irregular
+U0209,R054,4,2024-08-08,Recomendado
+U0209,R096,3,2026-08-22,Buen lugar pero irregular
+U0209,R123,2,2026-06-05,"Regular, esperaba más"
+U0209,R136,4,2025-04-27,Excelente servicio
+U0209,R147,4,2026-08-22,Muy buena comida
+U0209,R171,5,2024-09-18,Volveré pronto
+U0209,R200,4,2025-12-31,Muy buena comida
+U0210,R012,2,2026-07-20,"Regular, esperaba más"
+U0210,R058,4,2024-10-06,Muy buena comida
+U0210,R064,3,2026-03-16,"Cumple, nada especial"
+U0210,R104,4,2024-05-20,Excelente servicio
+U0210,R188,5,2026-01-14,Una de las mejores experiencias
+U0211,R039,3,2025-02-07,"Cumple, nada especial"
+U0211,R047,5,2024-12-24,Una de las mejores experiencias
+U0211,R055,3,2026-05-01,"Cumple, nada especial"
+U0211,R063,4,2024-09-26,Excelente servicio
+U0211,R112,3,2024-01-23,Buen lugar pero irregular
+U0211,R157,4,2023-11-01,Excelente servicio
+U0211,R165,2,2026-01-24,"Regular, esperaba más"
+U0211,R173,3,2026-04-02,Buen lugar pero irregular
+U0211,R175,2,2025-12-26,"Regular, esperaba más"
+U0211,R182,3,2026-02-27,Buen lugar pero irregular
+U0212,R030,5,2024-12-31,Volveré pronto
+U0212,R079,3,2025-09-12,Aceptable
+U0212,R117,5,2026-01-16,Volveré pronto
+U0212,R130,4,2026-06-09,Recomendado
+U0212,R149,3,2025-06-06,"Cumple, nada especial"
+U0212,R170,5,2026-03-24,¡Espectacular!
+U0212,R194,5,2026-08-30,Volveré pronto
+U0212,R195,4,2025-02-28,Muy buena comida
+U0213,R051,3,2025-07-20,Aceptable
+U0213,R061,4,2026-01-01,Recomendado
+U0213,R080,2,2024-07-11,Comida sin sabor
+U0213,R101,3,2026-07-06,Aceptable
+U0213,R120,4,2026-01-09,Muy buena comida
+U0213,R122,2,2023-02-23,Precio alto para lo que ofrecen
+U0214,R014,5,2026-08-01,Volveré pronto
+U0214,R045,4,2024-04-19,Excelente servicio
+U0214,R051,4,2025-05-04,Excelente servicio
+U0214,R096,3,2023-12-24,Buen lugar pero irregular
+U0214,R159,4,2026-03-23,Muy buena comida
+U0214,R163,2,2025-09-10,Precio alto para lo que ofrecen
+U0214,R177,4,2025-02-22,Muy buena comida
+U0214,R183,2,2026-08-04,Comida sin sabor
+U0215,R029,3,2025-12-06,"Cumple, nada especial"
+U0215,R054,5,2023-10-27,¡Espectacular!
+U0215,R083,3,2026-01-09,Aceptable
+U0215,R095,4,2025-03-16,Excelente servicio
+U0215,R173,3,2026-04-11,"Cumple, nada especial"
+U0216,R042,4,2025-04-25,Recomendado
+U0216,R058,5,2026-09-10,Volveré pronto
+U0216,R093,4,2025-11-29,Recomendado
+U0216,R101,5,2025-10-12,Volveré pronto
+U0216,R112,5,2023-09-18,Volveré pronto
+U0216,R124,4,2024-09-25,Excelente servicio
+U0216,R190,5,2025-06-29,¡Espectacular!
+U0216,R198,3,2026-05-04,Buen lugar pero irregular
+U0217,R004,4,2026-02-06,Excelente servicio
+U0217,R054,5,2024-02-24,Volveré pronto
+U0217,R073,3,2026-05-03,"Cumple, nada especial"
+U0217,R081,4,2024-05-03,Recomendado
+U0217,R175,2,2026-08-23,Comida sin sabor
+U0217,R178,4,2026-02-14,Excelente servicio
+U0217,R182,3,2026-07-12,Buen lugar pero irregular
+U0218,R021,3,2026-04-20,"Cumple, nada especial"
+U0218,R031,5,2026-01-16,Una de las mejores experiencias
+U0218,R056,5,2025-01-03,Una de las mejores experiencias
+U0218,R080,1,2025-07-05,Servicio muy lento
+U0218,R126,4,2026-07-27,Muy buena comida
+U0219,R013,3,2025-01-07,Aceptable
+U0219,R042,2,2026-05-23,Comida sin sabor
+U0219,R093,4,2023-10-05,Recomendado
+U0219,R113,4,2024-03-19,Recomendado
+U0219,R198,4,2026-08-09,Recomendado
+U0220,R005,3,2023-05-17,Buen lugar pero irregular
+U0220,R045,3,2025-12-10,Aceptable
+U0220,R069,5,2026-07-06,Volveré pronto
+U0220,R148,4,2023-06-19,Recomendado
+U0220,R161,5,2024-09-23,Una de las mejores experiencias
+U0221,R013,5,2024-04-14,Una de las mejores experiencias
+U0221,R018,4,2025-01-27,Recomendado
+U0221,R095,5,2026-07-17,Volveré pronto
+U0221,R141,4,2023-09-30,Recomendado
+U0221,R160,5,2025-01-14,Volveré pronto
+U0221,R188,1,2025-01-08,Mala experiencia
+U0222,R074,4,2025-04-14,Excelente servicio
+U0222,R076,3,2024-12-13,Buen lugar pero irregular
+U0222,R077,3,2026-04-25,Aceptable
+U0222,R092,4,2024-01-08,Recomendado
+U0222,R098,3,2025-08-19,"Cumple, nada especial"
+U0222,R157,5,2024-07-07,Una de las mejores experiencias
+U0222,R171,5,2023-04-30,¡Espectacular!
+U0222,R197,5,2026-09-20,¡Espectacular!
+U0223,R040,4,2026-02-05,Muy buena comida
+U0223,R088,2,2023-04-24,Comida sin sabor
+U0223,R118,4,2026-04-21,Excelente servicio
+U0223,R125,3,2025-07-22,"Cumple, nada especial"
+U0223,R153,3,2026-05-02,Aceptable
+U0223,R174,2,2026-05-16,Precio alto para lo que ofrecen
+U0223,R179,2,2026-04-28,Precio alto para lo que ofrecen
+U0224,R003,2,2024-05-11,Precio alto para lo que ofrecen
+U0224,R021,3,2024-01-19,"Cumple, nada especial"
+U0224,R067,3,2026-02-20,Buen lugar pero irregular
+U0224,R088,3,2025-02-19,"Cumple, nada especial"
+U0224,R097,3,2023-08-17,Aceptable
+U0224,R102,4,2025-05-20,Excelente servicio
+U0224,R130,4,2023-04-13,Recomendado
+U0225,R009,4,2024-05-11,Recomendado
+U0225,R013,2,2025-06-29,"Regular, esperaba más"
+U0225,R018,5,2026-09-11,Una de las mejores experiencias
+U0225,R021,2,2023-08-12,"Regular, esperaba más"
+U0225,R121,3,2025-11-13,Aceptable
+U0225,R162,5,2024-08-20,¡Espectacular!
+U0225,R183,3,2023-03-06,Buen lugar pero irregular
+U0225,R184,3,2025-07-22,"Cumple, nada especial"
+U0225,R198,4,2023-04-16,Muy buena comida
+U0226,R007,3,2024-10-13,Aceptable
+U0226,R010,3,2023-10-30,Buen lugar pero irregular
+U0226,R039,4,2026-06-06,Excelente servicio
+U0226,R112,3,2023-08-18,"Cumple, nada especial"
+U0226,R128,3,2026-07-02,"Cumple, nada especial"
+U0226,R130,4,2026-08-17,Recomendado
+U0226,R172,4,2024-07-29,Muy buena comida
+U0226,R173,3,2025-08-20,"Cumple, nada especial"
+U0227,R015,4,2026-02-28,Recomendado
+U0227,R031,2,2024-03-23,Precio alto para lo que ofrecen
+U0227,R036,4,2025-10-09,Muy buena comida
+U0227,R039,2,2026-06-29,Comida sin sabor
+U0227,R076,4,2024-06-23,Muy buena comida
+U0227,R097,4,2025-07-10,Recomendado
+U0227,R100,4,2025-06-20,Recomendado
+U0227,R129,3,2024-12-28,Aceptable
+U0227,R140,4,2025-08-27,Recomendado
+U0227,R157,5,2026-05-13,Una de las mejores experiencias
+U0227,R175,3,2023-02-22,Buen lugar pero irregular
+U0228,R066,4,2025-03-28,Recomendado
+U0228,R073,2,2025-07-01,Comida sin sabor
+U0228,R139,2,2026-03-28,"Regular, esperaba más"
+U0228,R163,4,2024-09-14,Excelente servicio
+U0228,R171,5,2025-06-19,¡Espectacular!
+U0228,R177,4,2025-12-22,Muy buena comida
+U0228,R197,5,2025-09-25,¡Espectacular!
+U0229,R080,3,2026-02-15,Buen lugar pero irregular
+U0229,R105,5,2026-06-22,¡Espectacular!
+U0229,R130,3,2024-05-31,"Cumple, nada especial"
+U0229,R167,2,2025-07-27,Precio alto para lo que ofrecen
+U0229,R181,4,2023-05-02,Muy buena comida
+U0230,R111,4,2023-05-07,Excelente servicio
+U0230,R118,2,2026-05-17,Comida sin sabor
+U0230,R189,3,2025-06-04,Aceptable
+U0231,R030,3,2025-02-28,Buen lugar pero irregular
+U0231,R052,3,2023-05-14,Buen lugar pero irregular
+U0231,R057,4,2024-04-06,Recomendado
+U0231,R061,5,2023-11-21,Una de las mejores experiencias
+U0231,R097,4,2023-12-26,Muy buena comida
+U0231,R127,3,2023-11-18,Aceptable
+U0231,R131,4,2026-08-04,Recomendado
+U0231,R150,4,2026-09-20,Muy buena comida
+U0232,R007,4,2024-05-04,Recomendado
+U0232,R053,3,2025-11-29,Aceptable
+U0232,R060,3,2023-07-21,Aceptable
+U0232,R097,3,2024-11-25,Buen lugar pero irregular
+U0232,R117,4,2025-09-10,Recomendado
+U0232,R130,3,2024-11-09,"Cumple, nada especial"
+U0232,R153,4,2023-10-14,Recomendado
+U0232,R174,4,2024-06-25,Muy buena comida
+U0232,R190,3,2023-10-15,Aceptable
+U0233,R016,5,2023-09-02,¡Espectacular!
+U0233,R070,3,2023-08-03,Buen lugar pero irregular
+U0233,R088,3,2026-07-05,Buen lugar pero irregular
+U0233,R131,5,2026-03-18,¡Espectacular!
+U0233,R200,5,2025-05-06,Volveré pronto
+U0234,R004,5,2024-09-25,Una de las mejores experiencias
+U0234,R008,3,2023-04-01,Aceptable
+U0234,R036,4,2023-07-28,Excelente servicio
+U0234,R073,3,2025-06-21,Buen lugar pero irregular
+U0234,R089,3,2025-10-31,Aceptable
+U0234,R106,4,2024-11-03,Muy buena comida
+U0235,R004,4,2025-03-02,Muy buena comida
+U0235,R016,4,2026-04-08,Recomendado
+U0235,R041,3,2023-07-27,Buen lugar pero irregular
+U0235,R066,4,2026-09-19,Muy buena comida
+U0235,R172,4,2023-07-20,Excelente servicio
+U0235,R178,4,2023-10-08,Excelente servicio
+U0235,R186,1,2024-09-05,No volvería
+U0236,R024,4,2024-01-16,Excelente servicio
+U0236,R030,4,2024-12-19,Excelente servicio
+U0236,R034,3,2025-01-24,Aceptable
+U0236,R035,5,2024-02-15,Una de las mejores experiencias
+U0236,R036,4,2026-09-22,Muy buena comida
+U0236,R079,4,2023-08-07,Muy buena comida
+U0236,R096,3,2023-02-03,Aceptable
+U0236,R136,4,2025-02-04,Muy buena comida
+U0237,R020,3,2024-08-01,Aceptable
+U0237,R051,5,2024-09-25,Volveré pronto
+U0237,R053,4,2023-08-18,Muy buena comida
+U0237,R091,5,2025-10-11,¡Espectacular!
+U0237,R092,3,2024-01-02,Buen lugar pero irregular
+U0237,R097,3,2026-04-04,Buen lugar pero irregular
+U0237,R107,4,2023-05-20,Excelente servicio
+U0237,R120,4,2024-06-18,Recomendado
+U0237,R124,5,2025-05-31,Volveré pronto
+U0237,R167,3,2023-09-03,"Cumple, nada especial"
+U0237,R199,5,2023-09-19,¡Espectacular!
+U0238,R002,4,2025-01-06,Muy buena comida
+U0238,R008,4,2023-08-04,Excelente servicio
+U0238,R019,5,2024-09-23,¡Espectacular!
+U0238,R026,3,2024-07-20,Aceptable
+U0238,R029,3,2024-12-01,Aceptable
+U0238,R034,3,2023-12-15,Buen lugar pero irregular
+U0238,R052,4,2024-12-07,Recomendado
+U0238,R071,4,2025-12-03,Excelente servicio
+U0238,R113,4,2024-03-10,Excelente servicio
+U0238,R134,5,2024-06-07,Una de las mejores experiencias
+U0238,R199,3,2023-03-09,Aceptable
+U0239,R019,4,2025-03-29,Recomendado
+U0239,R038,4,2024-05-28,Muy buena comida
+U0239,R124,4,2026-09-21,Excelente servicio
+U0239,R144,2,2024-06-27,Comida sin sabor
+U0239,R177,5,2024-02-29,¡Espectacular!
+U0240,R022,4,2023-08-28,Muy buena comida
+U0240,R030,4,2023-10-29,Recomendado
+U0240,R052,3,2025-03-12,Buen lugar pero irregular
+U0240,R057,3,2024-04-28,"Cumple, nada especial"
+U0240,R092,3,2026-07-23,"Cumple, nada especial"
+U0240,R102,4,2025-01-31,Recomendado
+U0240,R117,4,2024-03-31,Recomendado
+U0240,R144,3,2025-10-30,Buen lugar pero irregular
+U0240,R165,1,2026-06-05,Mala experiencia
+U0240,R196,3,2023-03-06,"Cumple, nada especial"
+U0241,R035,5,2023-11-03,Una de las mejores experiencias
+U0241,R048,5,2024-01-21,Una de las mejores experiencias
+U0241,R056,5,2024-11-25,¡Espectacular!
+U0241,R065,4,2025-08-10,Recomendado
+U0241,R069,4,2023-07-15,Muy buena comida
+U0241,R085,4,2023-05-12,Recomendado
+U0241,R105,4,2026-06-24,Recomendado
+U0241,R146,2,2026-03-19,"Regular, esperaba más"
+U0241,R157,5,2026-09-28,¡Espectacular!
+U0241,R165,3,2025-08-17,Aceptable
+U0242,R092,3,2024-09-15,Buen lugar pero irregular
+U0242,R097,4,2025-11-19,Excelente servicio
+U0242,R125,3,2024-08-24,Aceptable
+U0242,R139,3,2025-06-12,Buen lugar pero irregular
+U0242,R153,2,2025-02-24,"Regular, esperaba más"
+U0242,R155,5,2023-12-26,Una de las mejores experiencias
+U0243,R069,4,2024-08-01,Excelente servicio
+U0243,R070,4,2026-06-20,Recomendado
+U0243,R093,3,2024-02-23,"Cumple, nada especial"
+U0243,R120,3,2024-07-10,"Cumple, nada especial"
+U0243,R162,3,2023-06-11,"Cumple, nada especial"
+U0243,R169,4,2024-02-08,Excelente servicio
+U0243,R186,2,2026-01-09,Comida sin sabor
+U0244,R009,3,2024-06-24,"Cumple, nada especial"
+U0244,R072,5,2023-04-17,¡Espectacular!
+U0244,R077,5,2026-09-06,¡Espectacular!
+U0244,R123,4,2023-09-01,Recomendado
+U0244,R152,3,2025-06-26,Aceptable
+U0244,R170,5,2024-12-13,Volveré pronto
+U0245,R045,4,2025-07-18,Recomendado
+U0245,R047,4,2025-02-13,Muy buena comida
+U0245,R070,3,2025-09-09,Buen lugar pero irregular
+U0245,R086,3,2023-10-23,Buen lugar pero irregular
+U0245,R120,2,2026-06-14,"Regular, esperaba más"
+U0245,R163,5,2025-09-12,Volveré pronto
+U0246,R002,5,2023-10-07,¡Espectacular!
+U0246,R015,5,2024-05-12,Volveré pronto
+U0246,R023,5,2026-05-04,¡Espectacular!
+U0246,R029,5,2024-03-20,¡Espectacular!
+U0246,R034,1,2023-02-20,Servicio muy lento
+U0246,R058,4,2026-06-07,Recomendado
+U0246,R165,4,2026-05-12,Muy buena comida
+U0246,R177,3,2025-05-27,Buen lugar pero irregular
+U0246,R194,4,2025-10-16,Muy buena comida
+U0247,R003,3,2026-07-15,Buen lugar pero irregular
+U0247,R018,4,2023-02-27,Excelente servicio
+U0247,R092,2,2023-12-25,Comida sin sabor
+U0247,R125,4,2024-05-16,Recomendado
+U0247,R128,4,2026-05-10,Muy buena comida
+U0247,R153,5,2023-06-12,Una de las mejores experiencias
+U0247,R158,4,2026-06-07,Recomendado
+U0247,R174,3,2025-11-30,Buen lugar pero irregular
+U0247,R176,5,2023-12-02,Una de las mejores experiencias
+U0248,R001,4,2026-04-02,Recomendado
+U0248,R031,4,2023-12-20,Excelente servicio
+U0248,R086,3,2026-01-11,Buen lugar pero irregular
+U0248,R113,3,2023-10-09,Buen lugar pero irregular
+U0248,R125,2,2025-06-14,"Regular, esperaba más"
+U0249,R063,4,2026-06-03,Excelente servicio
+U0249,R068,4,2023-01-30,Recomendado
+U0249,R073,3,2026-06-16,Buen lugar pero irregular
+U0249,R139,3,2024-01-11,Aceptable
+U0249,R143,3,2023-08-20,"Cumple, nada especial"
+U0249,R150,5,2023-03-17,Una de las mejores experiencias
+U0249,R163,4,2025-11-17,Muy buena comida
+U0249,R182,2,2025-12-02,Precio alto para lo que ofrecen
+U0249,R191,3,2023-11-17,Aceptable
+U0250,R034,3,2025-11-12,Buen lugar pero irregular
+U0250,R082,5,2024-08-17,¡Espectacular!
+U0250,R169,4,2024-10-30,Recomendado
+U0250,R173,3,2025-11-28,Buen lugar pero irregular
+U0251,R037,3,2024-02-23,"Cumple, nada especial"
+U0251,R064,2,2026-02-18,"Regular, esperaba más"
+U0251,R074,5,2024-04-08,Una de las mejores experiencias
+U0251,R086,2,2026-02-14,Precio alto para lo que ofrecen
+U0251,R102,4,2023-07-27,Excelente servicio
+U0251,R133,3,2024-06-08,Aceptable
+U0251,R144,3,2024-08-05,Buen lugar pero irregular
+U0251,R150,5,2024-07-07,¡Espectacular!
+U0251,R197,3,2026-08-19,"Cumple, nada especial"
+U0252,R013,2,2025-10-29,"Regular, esperaba más"
+U0252,R024,3,2023-07-19,Aceptable
+U0252,R140,4,2026-01-24,Excelente servicio
+U0252,R151,4,2024-02-02,Excelente servicio
+U0253,R013,4,2024-12-31,Recomendado
+U0253,R014,4,2023-09-15,Recomendado
+U0253,R021,3,2024-11-18,"Cumple, nada especial"
+U0253,R056,4,2026-05-26,Excelente servicio
+U0253,R101,4,2026-08-07,Excelente servicio
+U0253,R104,4,2024-03-17,Recomendado
+U0253,R141,4,2025-01-30,Excelente servicio
+U0253,R161,4,2024-06-18,Muy buena comida
+U0253,R180,5,2025-12-25,Volveré pronto
+U0253,R193,3,2024-10-16,"Cumple, nada especial"
+U0254,R006,5,2026-08-06,Volveré pronto
+U0254,R019,5,2025-09-19,¡Espectacular!
+U0254,R095,5,2025-12-09,¡Espectacular!
+U0254,R103,5,2025-09-24,¡Espectacular!
+U0254,R161,5,2024-03-18,¡Espectacular!
+U0254,R174,4,2023-02-03,Excelente servicio
+U0254,R191,4,2023-10-01,Muy buena comida
+U0255,R010,2,2026-04-19,"Regular, esperaba más"
+U0255,R025,4,2024-04-15,Excelente servicio
+U0255,R076,3,2025-11-07,Aceptable
+U0255,R136,4,2024-11-05,Recomendado
+U0255,R170,5,2024-10-31,Volveré pronto
+U0255,R183,2,2025-02-06,Precio alto para lo que ofrecen
+U0255,R196,4,2023-11-12,Muy buena comida
+U0256,R046,4,2025-05-01,Recomendado
+U0256,R083,3,2025-10-28,Aceptable
+U0256,R084,5,2023-12-24,¡Espectacular!
+U0256,R096,2,2024-09-18,Comida sin sabor
+U0256,R112,4,2026-02-09,Excelente servicio
+U0256,R152,4,2025-09-18,Muy buena comida
+U0256,R159,4,2026-07-25,Muy buena comida
+U0256,R178,5,2023-05-24,Una de las mejores experiencias
+U0256,R182,2,2025-04-11,"Regular, esperaba más"
+U0257,R005,3,2026-08-11,"Cumple, nada especial"
+U0257,R016,5,2023-12-07,Volveré pronto
+U0257,R045,5,2023-08-11,Volveré pronto
+U0257,R076,3,2025-11-04,Aceptable
+U0257,R143,3,2025-09-28,Buen lugar pero irregular
+U0257,R168,4,2025-07-03,Recomendado
+U0257,R191,3,2026-06-24,Buen lugar pero irregular
+U0258,R026,3,2025-01-04,Buen lugar pero irregular
+U0258,R048,5,2023-05-13,¡Espectacular!
+U0258,R069,4,2023-10-21,Excelente servicio
+U0258,R103,5,2023-05-28,¡Espectacular!
+U0258,R191,4,2025-11-18,Recomendado
+U0259,R049,4,2025-03-02,Excelente servicio
+U0259,R068,3,2025-03-22,Aceptable
+U0259,R078,5,2023-06-28,¡Espectacular!
+U0259,R120,4,2023-09-15,Excelente servicio
+U0259,R137,4,2023-09-11,Recomendado
+U0259,R146,3,2023-07-16,"Cumple, nada especial"
+U0259,R195,3,2025-09-30,Buen lugar pero irregular
+U0260,R010,3,2023-10-11,"Cumple, nada especial"
+U0260,R038,5,2026-03-13,¡Espectacular!
+U0260,R057,4,2023-01-16,Muy buena comida
+U0260,R063,4,2026-07-21,Muy buena comida
+U0260,R129,4,2023-09-24,Recomendado
+U0260,R138,5,2024-10-16,Volveré pronto
+U0260,R173,4,2025-06-16,Recomendado
+U0260,R180,3,2025-09-28,Aceptable
+U0261,R007,3,2024-10-30,Aceptable
+U0261,R048,5,2023-03-23,¡Espectacular!
+U0261,R057,4,2026-09-27,Excelente servicio
+U0261,R094,3,2024-03-16,Aceptable
+U0261,R164,4,2025-12-04,Excelente servicio
+U0261,R166,3,2024-11-20,Aceptable
+U0261,R174,4,2026-08-13,Recomendado
+U0261,R193,2,2025-01-02,"Regular, esperaba más"
+U0262,R002,4,2023-05-04,Muy buena comida
+U0262,R019,5,2024-11-21,¡Espectacular!
+U0262,R053,5,2026-07-18,¡Espectacular!
+U0262,R148,5,2024-09-16,¡Espectacular!
+U0262,R161,4,2024-07-29,Excelente servicio
+U0262,R183,4,2024-03-23,Excelente servicio
+U0263,R006,4,2024-10-18,Excelente servicio
+U0263,R021,1,2023-11-30,Servicio muy lento
+U0263,R050,2,2023-09-09,Comida sin sabor
+U0263,R157,3,2024-08-14,Aceptable
+U0263,R177,4,2026-01-12,Excelente servicio
+U0263,R186,3,2025-10-28,"Cumple, nada especial"
+U0263,R199,5,2025-03-02,Una de las mejores experiencias
+U0264,R049,4,2026-03-19,Excelente servicio
+U0264,R053,3,2026-09-13,Buen lugar pero irregular
+U0264,R073,3,2025-10-28,"Cumple, nada especial"
+U0264,R137,4,2026-08-06,Recomendado
+U0265,R010,3,2025-04-30,Buen lugar pero irregular
+U0265,R075,3,2025-03-09,Buen lugar pero irregular
+U0265,R103,5,2026-05-26,¡Espectacular!
+U0265,R147,5,2026-09-15,Una de las mejores experiencias
+U0265,R153,2,2026-04-05,Precio alto para lo que ofrecen
+U0265,R180,5,2025-02-10,Una de las mejores experiencias
+U0265,R188,3,2023-07-30,"Cumple, nada especial"
+U0266,R003,2,2026-05-06,Precio alto para lo que ofrecen
+U0266,R006,4,2024-12-17,Excelente servicio
+U0266,R040,3,2023-10-22,"Cumple, nada especial"
+U0266,R055,3,2026-01-05,"Cumple, nada especial"
+U0266,R086,4,2025-06-13,Recomendado
+U0266,R122,3,2026-02-07,"Cumple, nada especial"
+U0266,R157,5,2026-02-24,Una de las mejores experiencias
+U0266,R172,4,2024-10-31,Recomendado
+U0267,R045,5,2025-03-19,Una de las mejores experiencias
+U0267,R068,2,2024-11-16,Comida sin sabor
+U0267,R100,3,2024-12-18,Buen lugar pero irregular
+U0267,R108,2,2024-05-27,"Regular, esperaba más"
+U0267,R139,4,2023-05-30,Muy buena comida
+U0267,R144,4,2025-06-14,Excelente servicio
+U0268,R010,1,2025-07-20,Servicio muy lento
+U0268,R064,1,2025-10-17,Mala experiencia
+U0268,R103,5,2026-09-22,¡Espectacular!
+U0268,R107,4,2025-02-19,Excelente servicio
+U0268,R126,4,2025-02-08,Muy buena comida
+U0268,R143,4,2025-09-24,Muy buena comida
+U0268,R180,3,2026-10-01,Buen lugar pero irregular
+U0269,R017,3,2025-07-15,Aceptable
+U0269,R026,2,2023-07-19,"Regular, esperaba más"
+U0269,R077,4,2025-08-28,Excelente servicio
+U0269,R083,3,2025-09-26,Buen lugar pero irregular
+U0269,R112,4,2023-07-23,Excelente servicio
+U0269,R123,3,2024-03-15,Aceptable
+U0269,R125,4,2025-02-23,Muy buena comida
+U0269,R147,4,2023-02-17,Recomendado
+U0269,R173,4,2026-06-04,Muy buena comida
+U0269,R191,4,2024-01-16,Recomendado
+U0269,R192,3,2024-11-11,Aceptable
+U0270,R058,4,2024-06-09,Recomendado
+U0270,R067,5,2023-05-25,Volveré pronto
+U0270,R095,3,2026-09-13,"Cumple, nada especial"
+U0270,R096,2,2026-03-06,Comida sin sabor
+U0270,R151,3,2023-12-15,"Cumple, nada especial"
+U0270,R169,3,2024-11-15,Aceptable
+U0270,R184,3,2025-05-21,Aceptable
+U0270,R185,5,2023-05-10,Volveré pronto
+U0271,R005,5,2026-02-16,¡Espectacular!
+U0271,R006,5,2023-09-21,Una de las mejores experiencias
+U0271,R009,2,2024-06-30,"Regular, esperaba más"
+U0271,R025,5,2024-01-06,Volveré pronto
+U0271,R026,3,2024-11-27,Buen lugar pero irregular
+U0271,R028,5,2024-05-23,¡Espectacular!
+U0271,R054,5,2026-02-20,Volveré pronto
+U0271,R068,3,2024-08-09,Buen lugar pero irregular
+U0271,R122,3,2026-03-17,Buen lugar pero irregular
+U0271,R153,3,2026-05-13,Aceptable
+U0271,R176,3,2024-03-11,"Cumple, nada especial"
+U0271,R194,4,2025-06-12,Excelente servicio
+U0271,R198,3,2024-03-11,"Cumple, nada especial"
+U0272,R025,4,2026-02-18,Excelente servicio
+U0272,R053,5,2026-05-31,Una de las mejores experiencias
+U0272,R119,4,2024-08-09,Muy buena comida
+U0272,R144,4,2023-02-27,Excelente servicio
+U0272,R175,4,2025-07-20,Excelente servicio
+U0273,R006,4,2025-09-07,Excelente servicio
+U0273,R024,4,2024-11-22,Muy buena comida
+U0273,R031,3,2024-04-30,Aceptable
+U0273,R061,4,2026-05-04,Recomendado
+U0273,R083,4,2026-03-10,Excelente servicio
+U0273,R086,3,2024-10-29,Buen lugar pero irregular
+U0273,R172,5,2026-06-12,¡Espectacular!
+U0273,R175,3,2024-03-29,Aceptable
+U0273,R176,4,2026-08-08,Recomendado
+U0274,R089,3,2026-02-04,Aceptable
+U0274,R105,5,2025-07-31,¡Espectacular!
+U0274,R179,2,2025-08-14,Precio alto para lo que ofrecen
+U0275,R045,4,2025-03-12,Recomendado
+U0275,R050,3,2023-08-05,"Cumple, nada especial"
+U0275,R110,4,2023-02-22,Excelente servicio
+U0275,R146,4,2026-03-05,Muy buena comida
+U0275,R157,5,2025-11-26,Una de las mejores experiencias
+U0275,R159,4,2026-07-07,Recomendado
+U0275,R161,5,2023-12-17,Una de las mejores experiencias
+U0276,R006,3,2023-06-11,"Cumple, nada especial"
+U0276,R012,2,2025-12-29,Comida sin sabor
+U0276,R031,4,2024-01-30,Recomendado
+U0276,R189,4,2024-11-24,Muy buena comida
+U0276,R198,3,2024-04-12,"Cumple, nada especial"
+U0277,R140,4,2023-07-05,Muy buena comida
+U0277,R145,3,2024-09-12,"Cumple, nada especial"
+U0277,R170,5,2024-04-11,Volveré pronto
+U0278,R019,5,2025-12-08,Volveré pronto
+U0278,R152,3,2024-02-05,"Cumple, nada especial"
+U0279,R082,3,2025-07-26,Aceptable
+U0279,R084,5,2023-03-23,Una de las mejores experiencias
+U0279,R132,3,2025-01-12,Aceptable
+U0279,R135,3,2026-01-05,Buen lugar pero irregular
+U0279,R141,3,2023-01-25,Buen lugar pero irregular
+U0279,R152,4,2026-01-12,Excelente servicio
+U0279,R159,4,2026-09-08,Recomendado
+U0279,R187,3,2023-01-01,Buen lugar pero irregular
+U0280,R054,3,2025-07-26,Buen lugar pero irregular
+U0280,R079,3,2024-09-06,Aceptable
+U0280,R107,3,2025-08-27,"Cumple, nada especial"
+U0280,R125,3,2024-07-23,Aceptable
+U0280,R144,3,2025-09-02,Aceptable
+U0280,R179,3,2025-04-22,"Cumple, nada especial"
+U0280,R189,4,2024-09-27,Muy buena comida
+U0281,R066,4,2023-02-19,Muy buena comida
+U0281,R090,3,2024-02-05,Buen lugar pero irregular
+U0281,R101,3,2024-07-28,"Cumple, nada especial"
+U0281,R126,3,2025-10-07,"Cumple, nada especial"
+U0281,R160,4,2026-07-24,Recomendado
+U0282,R018,3,2025-06-22,Aceptable
+U0282,R049,4,2025-10-19,Excelente servicio
+U0282,R055,3,2025-06-16,"Cumple, nada especial"
+U0282,R068,3,2024-09-02,Buen lugar pero irregular
+U0282,R073,2,2024-10-13,Precio alto para lo que ofrecen
+U0282,R145,4,2025-12-08,Recomendado
+U0282,R160,5,2023-02-01,¡Espectacular!
+U0282,R171,5,2024-11-19,Volveré pronto
+U0283,R007,2,2023-03-08,Comida sin sabor
+U0283,R030,5,2026-08-18,Una de las mejores experiencias
+U0283,R039,1,2025-01-07,No volvería
+U0283,R051,4,2023-10-14,Muy buena comida
+U0283,R102,3,2024-09-08,Buen lugar pero irregular
+U0283,R172,4,2026-05-17,Recomendado
+U0283,R175,3,2026-04-24,Buen lugar pero irregular
+U0283,R184,4,2026-04-01,Excelente servicio
+U0284,R009,2,2023-08-10,"Regular, esperaba más"
+U0284,R013,4,2025-07-17,Excelente servicio
+U0284,R017,5,2025-12-25,¡Espectacular!
+U0284,R018,3,2024-03-24,Aceptable
+U0284,R166,4,2026-01-27,Muy buena comida
+U0284,R167,4,2025-01-03,Muy buena comida
+U0285,R018,5,2026-08-31,¡Espectacular!
+U0285,R049,5,2026-03-18,Volveré pronto
+U0285,R171,5,2024-12-12,¡Espectacular!
+U0286,R011,5,2025-11-07,Volveré pronto
+U0286,R065,4,2025-12-22,Muy buena comida
+U0286,R069,3,2026-03-06,"Cumple, nada especial"
+U0286,R077,4,2025-04-08,Muy buena comida
+U0286,R104,3,2025-08-12,Aceptable
+U0286,R111,2,2024-02-18,Precio alto para lo que ofrecen
+U0286,R141,5,2025-06-07,Una de las mejores experiencias
+U0286,R157,3,2023-01-23,Aceptable
+U0286,R165,3,2025-09-04,Buen lugar pero irregular
+U0286,R199,5,2024-11-07,Volveré pronto
+U0287,R001,4,2024-12-14,Recomendado
+U0287,R018,4,2026-02-03,Muy buena comida
+U0287,R038,5,2024-09-04,Volveré pronto
+U0287,R054,5,2023-04-05,Volveré pronto
+U0287,R107,5,2023-06-24,Una de las mejores experiencias
+U0287,R112,4,2025-08-21,Excelente servicio
+U0287,R131,3,2025-06-07,Buen lugar pero irregular
+U0287,R154,5,2024-01-22,¡Espectacular!
+U0287,R165,4,2026-04-14,Excelente servicio
+U0287,R183,3,2026-04-27,"Cumple, nada especial"
+U0287,R192,3,2026-09-15,Buen lugar pero irregular
+U0288,R003,2,2026-07-06,"Regular, esperaba más"
+U0288,R048,5,2024-04-09,Volveré pronto
+U0288,R056,5,2024-06-23,¡Espectacular!
+U0288,R067,2,2023-12-17,"Regular, esperaba más"
+U0288,R082,5,2024-08-17,¡Espectacular!
+U0288,R114,4,2026-07-27,Recomendado
+U0288,R143,5,2026-07-18,Una de las mejores experiencias
+U0288,R156,3,2025-02-08,Aceptable
+U0289,R055,2,2026-03-10,Precio alto para lo que ofrecen
+U0289,R119,3,2025-06-11,"Cumple, nada especial"
+U0289,R133,3,2023-10-08,Buen lugar pero irregular
+U0289,R154,3,2025-03-29,Buen lugar pero irregular
+U0289,R161,4,2026-04-12,Recomendado
+U0289,R188,3,2024-09-23,"Cumple, nada especial"
+U0289,R194,4,2025-03-25,Recomendado
+U0289,R198,3,2025-05-16,Buen lugar pero irregular
+U0290,R012,2,2025-09-03,"Regular, esperaba más"
+U0290,R022,5,2023-08-03,Volveré pronto
+U0290,R024,4,2024-08-29,Recomendado
+U0290,R046,5,2024-11-06,¡Espectacular!
+U0290,R064,3,2026-09-06,Buen lugar pero irregular
+U0290,R111,4,2024-03-06,Recomendado
+U0290,R125,3,2025-09-11,Buen lugar pero irregular
+U0290,R134,5,2024-07-21,Volveré pronto
+U0290,R157,4,2024-12-23,Muy buena comida
+U0290,R194,3,2025-01-16,"Cumple, nada especial"
+U0291,R009,3,2024-10-15,Buen lugar pero irregular
+U0291,R055,3,2025-11-17,Buen lugar pero irregular
+U0291,R061,5,2024-07-06,¡Espectacular!
+U0291,R068,4,2026-03-21,Excelente servicio
+U0291,R107,5,2024-05-26,Volveré pronto
+U0291,R189,5,2026-07-25,¡Espectacular!
+U0291,R194,4,2024-02-08,Recomendado
+U0292,R029,3,2025-05-18,"Cumple, nada especial"
+U0292,R037,3,2024-10-21,"Cumple, nada especial"
+U0292,R047,5,2023-10-08,Volveré pronto
+U0292,R070,4,2026-06-10,Excelente servicio
+U0292,R094,4,2026-02-24,Excelente servicio
+U0292,R100,4,2023-12-21,Recomendado
+U0292,R120,4,2024-02-09,Muy buena comida
+U0292,R154,4,2026-04-05,Recomendado
+U0292,R169,3,2026-09-28,Buen lugar pero irregular
+U0292,R200,4,2026-08-25,Muy buena comida
+U0293,R006,5,2023-08-17,¡Espectacular!
+U0293,R049,4,2023-10-27,Recomendado
+U0293,R064,3,2023-10-10,Aceptable
+U0293,R070,4,2026-03-07,Muy buena comida
+U0293,R098,4,2026-09-11,Muy buena comida
+U0293,R135,3,2025-12-09,Aceptable
+U0293,R150,5,2024-11-19,¡Espectacular!
+U0293,R171,5,2025-04-20,Volveré pronto
+U0294,R073,2,2023-02-05,Precio alto para lo que ofrecen
+U0294,R075,2,2023-05-07,Comida sin sabor
+U0294,R081,4,2023-02-10,Recomendado
+U0294,R089,4,2025-01-06,Recomendado
+U0294,R103,4,2026-02-19,Excelente servicio
+U0294,R150,4,2025-06-19,Recomendado
+U0294,R192,3,2024-06-30,Buen lugar pero irregular
+U0295,R006,5,2025-05-20,¡Espectacular!
+U0295,R009,4,2025-09-22,Recomendado
+U0295,R010,3,2026-04-25,Aceptable
+U0295,R018,4,2023-09-26,Excelente servicio
+U0295,R073,3,2025-05-14,Aceptable
+U0295,R178,3,2023-07-21,Aceptable
+U0295,R184,4,2026-02-07,Muy buena comida
+U0295,R197,3,2024-07-23,"Cumple, nada especial"
+U0296,R046,4,2023-08-17,Recomendado
+U0296,R053,5,2026-06-11,Volveré pronto
+U0296,R095,5,2024-08-22,Una de las mejores experiencias
+U0296,R137,3,2026-07-14,"Cumple, nada especial"
+U0296,R176,3,2024-04-12,Buen lugar pero irregular
+U0297,R033,2,2025-01-02,Precio alto para lo que ofrecen
+U0297,R048,5,2026-07-15,Una de las mejores experiencias
+U0297,R053,4,2025-10-23,Recomendado
+U0297,R114,4,2023-03-19,Recomendado
+U0297,R125,2,2025-05-06,Comida sin sabor
+U0297,R192,3,2026-07-21,"Cumple, nada especial"
+U0298,R043,3,2023-12-07,Aceptable
+U0298,R054,3,2023-03-11,Buen lugar pero irregular
+U0298,R060,3,2023-10-27,Buen lugar pero irregular
+U0298,R105,4,2024-06-13,Muy buena comida
+U0298,R177,5,2025-04-29,Una de las mejores experiencias
+U0299,R064,2,2024-11-27,Comida sin sabor
+U0299,R107,5,2025-03-17,Volveré pronto
+U0299,R174,4,2024-12-19,Recomendado
+U0299,R183,3,2025-02-28,Buen lugar pero irregular
+U0299,R193,3,2023-10-18,"Cumple, nada especial"
+U0300,R009,3,2026-04-30,Aceptable
+U0300,R013,4,2024-06-18,Recomendado
+U0300,R050,3,2024-09-08,"Cumple, nada especial"
+U0300,R067,3,2025-10-13,Buen lugar pero irregular
+U0300,R091,5,2026-02-07,Una de las mejores experiencias
+U0300,R128,4,2025-04-14,Recomendado
+U0300,R156,4,2024-02-06,Excelente servicio
+U0300,R180,2,2026-03-17,Precio alto para lo que ofrecen
+U0301,R025,4,2023-01-15,Muy buena comida
+U0301,R036,4,2025-04-05,Muy buena comida
+U0301,R045,4,2026-07-23,Muy buena comida
+U0301,R076,2,2023-01-29,Precio alto para lo que ofrecen
+U0301,R081,4,2024-09-18,Muy buena comida
+U0301,R102,3,2025-02-18,"Cumple, nada especial"
+U0302,R026,3,2024-05-22,"Cumple, nada especial"
+U0302,R083,4,2023-04-22,Excelente servicio
+U0302,R092,4,2024-01-20,Excelente servicio
+U0302,R098,4,2024-08-13,Muy buena comida
+U0302,R103,4,2026-07-08,Muy buena comida
+U0302,R181,5,2025-09-18,Una de las mejores experiencias
+U0302,R188,4,2025-12-09,Recomendado
+U0302,R189,4,2026-04-11,Excelente servicio
+U0303,R006,4,2024-08-26,Excelente servicio
+U0303,R023,5,2025-06-07,¡Espectacular!
+U0303,R026,3,2026-08-01,"Cumple, nada especial"
+U0303,R040,2,2024-10-06,"Regular, esperaba más"
+U0304,R079,4,2026-08-24,Excelente servicio
+U0304,R081,3,2025-11-13,Aceptable
+U0304,R133,3,2026-09-19,Buen lugar pero irregular
+U0304,R144,3,2026-07-31,Aceptable
+U0304,R145,1,2024-03-26,No volvería
+U0304,R171,5,2026-09-14,Una de las mejores experiencias
+U0305,R013,4,2025-07-29,Excelente servicio
+U0305,R048,4,2026-01-15,Recomendado
+U0305,R067,4,2023-08-31,Excelente servicio
+U0305,R092,4,2023-05-14,Recomendado
+U0305,R095,4,2025-09-14,Excelente servicio
+U0305,R136,5,2024-03-16,Una de las mejores experiencias
+U0305,R175,3,2025-01-31,Buen lugar pero irregular
+U0305,R192,4,2023-03-06,Excelente servicio
+U0306,R019,5,2026-08-24,Una de las mejores experiencias
+U0306,R025,4,2023-09-04,Recomendado
+U0306,R034,2,2024-10-26,"Regular, esperaba más"
+U0306,R048,5,2025-11-01,Volveré pronto
+U0306,R057,4,2025-09-24,Excelente servicio
+U0306,R059,4,2024-05-10,Excelente servicio
+U0306,R122,2,2025-05-10,Precio alto para lo que ofrecen
+U0306,R140,4,2024-09-12,Muy buena comida
+U0306,R144,4,2026-08-20,Muy buena comida
+U0306,R197,5,2023-11-18,¡Espectacular!
+U0306,R198,4,2023-04-28,Excelente servicio
+U0307,R068,4,2023-02-22,Excelente servicio
+U0307,R075,1,2023-09-16,Mala experiencia
+U0307,R100,5,2023-03-06,¡Espectacular!
+U0307,R172,3,2025-11-09,"Cumple, nada especial"
+U0307,R179,3,2023-07-25,Aceptable
+U0307,R197,4,2023-11-11,Recomendado
+U0308,R010,3,2025-02-22,Buen lugar pero irregular
+U0308,R019,5,2026-06-28,Volveré pronto
+U0308,R165,3,2026-06-19,"Cumple, nada especial"
+U0308,R180,2,2024-10-09,Comida sin sabor
+U0308,R194,3,2023-11-05,Aceptable
+U0309,R001,4,2025-02-27,Recomendado
+U0309,R032,3,2025-04-07,"Cumple, nada especial"
+U0309,R051,3,2025-09-01,Aceptable
+U0309,R107,5,2024-11-20,Una de las mejores experiencias
+U0309,R143,4,2024-08-28,Recomendado
+U0309,R186,3,2026-01-11,Aceptable
+U0309,R199,3,2024-10-24,Buen lugar pero irregular
+U0310,R012,4,2026-04-09,Excelente servicio
+U0310,R022,3,2025-10-29,Aceptable
+U0310,R024,3,2026-03-09,Buen lugar pero irregular
+U0310,R033,3,2025-03-30,"Cumple, nada especial"
+U0310,R083,3,2024-11-05,Buen lugar pero irregular
+U0310,R093,5,2025-12-26,Volveré pronto
+U0310,R134,5,2023-08-28,Volveré pronto
+U0310,R172,4,2026-08-03,Excelente servicio
+U0310,R175,4,2025-12-22,Recomendado
+U0310,R198,3,2024-08-16,Aceptable
+U0311,R047,5,2026-03-09,¡Espectacular!
+U0311,R055,4,2025-07-14,Muy buena comida
+U0311,R086,5,2025-04-14,Una de las mejores experiencias
+U0311,R171,4,2023-07-04,Excelente servicio
+U0312,R097,2,2023-09-20,Comida sin sabor
+U0312,R103,5,2023-10-11,Volveré pronto
+U0312,R161,4,2026-01-13,Muy buena comida
+U0312,R171,5,2025-01-16,¡Espectacular!
+U0312,R177,3,2026-04-06,Buen lugar pero irregular
+U0312,R191,3,2023-11-20,"Cumple, nada especial"
+U0312,R195,4,2024-10-02,Muy buena comida
+U0312,R200,4,2025-04-16,Excelente servicio
+U0313,R009,3,2024-08-17,Aceptable
+U0313,R051,2,2025-10-04,Precio alto para lo que ofrecen
+U0313,R061,3,2024-03-24,"Cumple, nada especial"
+U0313,R075,2,2026-04-18,Precio alto para lo que ofrecen
+U0313,R156,3,2024-07-04,Buen lugar pero irregular
+U0313,R162,3,2024-02-15,"Cumple, nada especial"
+U0314,R034,1,2023-07-19,No volvería
+U0314,R102,4,2025-07-06,Muy buena comida
+U0315,R001,4,2026-04-03,Recomendado
+U0315,R018,5,2023-09-26,¡Espectacular!
+U0315,R059,5,2025-11-27,¡Espectacular!
+U0315,R135,3,2023-05-19,"Cumple, nada especial"
+U0315,R194,4,2023-02-14,Recomendado
+U0316,R009,4,2024-01-10,Recomendado
+U0316,R065,4,2023-04-11,Recomendado
+U0316,R066,3,2024-03-10,Aceptable
+U0316,R094,3,2025-02-14,Buen lugar pero irregular
+U0316,R134,4,2026-07-04,Muy buena comida
+U0316,R167,3,2026-08-15,Aceptable
+U0316,R193,2,2026-04-08,"Regular, esperaba más"
+U0317,R024,3,2023-05-27,Aceptable
+U0317,R033,3,2025-05-20,Aceptable
+U0317,R046,5,2023-07-31,¡Espectacular!
+U0317,R113,4,2024-09-15,Muy buena comida
+U0317,R125,2,2026-05-04,Comida sin sabor
+U0317,R176,3,2025-01-17,"Cumple, nada especial"
+U0318,R084,4,2023-06-16,Recomendado
+U0318,R096,3,2025-12-13,"Cumple, nada especial"
+U0318,R099,4,2023-08-27,Excelente servicio
+U0318,R142,3,2023-04-27,"Cumple, nada especial"
+U0318,R165,4,2023-06-10,Excelente servicio
+U0318,R177,4,2026-05-17,Recomendado
+U0319,R010,3,2026-01-20,"Cumple, nada especial"
+U0319,R031,5,2025-04-02,Volveré pronto
+U0319,R046,5,2024-07-04,Volveré pronto
+U0319,R053,5,2023-04-09,Una de las mejores experiencias
+U0319,R062,4,2025-12-31,Excelente servicio
+U0319,R092,3,2024-08-01,"Cumple, nada especial"
+U0319,R112,5,2026-08-11,Volveré pronto
+U0319,R135,2,2023-08-01,Precio alto para lo que ofrecen
+U0319,R171,5,2023-04-04,Volveré pronto
+U0319,R199,4,2026-06-05,Excelente servicio
+U0320,R028,5,2025-03-18,¡Espectacular!
+U0320,R042,3,2023-05-30,Buen lugar pero irregular
+U0320,R080,4,2023-03-25,Recomendado
+U0320,R124,4,2023-10-16,Recomendado
+U0320,R136,4,2026-08-14,Muy buena comida
+U0320,R160,4,2024-12-12,Muy buena comida
+U0321,R012,2,2025-12-07,"Regular, esperaba más"
+U0321,R055,2,2026-07-05,Comida sin sabor
+U0321,R113,4,2025-10-13,Muy buena comida
+U0321,R122,3,2024-08-22,"Cumple, nada especial"
+U0321,R134,3,2023-03-01,Aceptable
+U0321,R175,4,2026-05-29,Recomendado
+U0321,R194,5,2026-07-26,¡Espectacular!
+U0321,R198,5,2023-12-20,Volveré pronto
+U0322,R004,5,2025-01-18,Una de las mejores experiencias
+U0322,R015,4,2026-04-20,Recomendado
+U0322,R040,3,2023-09-19,"Cumple, nada especial"
+U0322,R052,4,2024-04-22,Muy buena comida
+U0322,R071,5,2025-09-03,Volveré pronto
+U0323,R008,4,2023-04-06,Excelente servicio
+U0323,R010,3,2024-04-30,Buen lugar pero irregular
+U0323,R037,4,2026-06-08,Muy buena comida
+U0323,R093,5,2024-11-20,¡Espectacular!
+U0323,R102,3,2026-08-05,Buen lugar pero irregular
+U0323,R110,4,2024-01-17,Muy buena comida
+U0323,R115,3,2025-06-13,Aceptable
+U0323,R131,3,2023-02-07,Buen lugar pero irregular
+U0323,R144,4,2024-05-14,Muy buena comida
+U0323,R198,4,2024-06-10,Excelente servicio
+U0324,R006,4,2024-01-12,Muy buena comida
+U0324,R022,4,2024-12-14,Recomendado
+U0324,R023,4,2024-05-31,Excelente servicio
+U0324,R112,3,2024-06-27,Aceptable
+U0324,R130,3,2026-05-28,"Cumple, nada especial"
+U0324,R133,2,2024-05-31,Comida sin sabor
+U0324,R136,5,2024-09-09,Una de las mejores experiencias
+U0324,R157,4,2025-12-20,Excelente servicio
+U0325,R028,4,2023-10-16,Recomendado
+U0325,R032,4,2026-02-22,Excelente servicio
+U0325,R055,2,2024-05-01,"Regular, esperaba más"
+U0325,R083,2,2026-03-19,Comida sin sabor
+U0325,R096,3,2023-05-28,"Cumple, nada especial"
+U0325,R110,3,2024-12-15,Aceptable
+U0325,R123,5,2023-08-28,Volveré pronto
+U0325,R158,3,2025-07-19,Aceptable
+U0325,R162,3,2023-02-08,Aceptable
+U0325,R178,4,2024-04-20,Muy buena comida
+U0326,R004,4,2026-04-16,Muy buena comida
+U0326,R038,3,2025-09-08,"Cumple, nada especial"
+U0326,R103,5,2024-01-19,Una de las mejores experiencias
+U0326,R108,2,2023-05-20,Comida sin sabor
+U0326,R125,4,2024-04-08,Recomendado
+U0326,R128,3,2025-08-05,Aceptable
+U0326,R173,5,2026-02-14,Una de las mejores experiencias
+U0326,R191,4,2025-02-28,Muy buena comida
+U0327,R052,4,2025-01-23,Muy buena comida
+U0327,R060,2,2024-10-16,Precio alto para lo que ofrecen
+U0327,R106,5,2025-04-07,¡Espectacular!
+U0327,R131,4,2023-06-22,Excelente servicio
+U0327,R157,4,2024-09-08,Excelente servicio
+U0327,R161,4,2025-07-08,Excelente servicio
+U0327,R167,3,2024-10-26,"Cumple, nada especial"
+U0327,R180,5,2026-04-20,¡Espectacular!
+U0327,R191,4,2025-08-23,Muy buena comida
+U0328,R049,5,2023-02-27,Volveré pronto
+U0328,R073,3,2025-10-02,"Cumple, nada especial"
+U0328,R077,4,2024-01-01,Recomendado
+U0328,R086,3,2026-05-17,Buen lugar pero irregular
+U0328,R146,2,2024-04-01,Comida sin sabor
+U0328,R148,3,2026-09-10,Buen lugar pero irregular
+U0328,R168,3,2026-06-22,"Cumple, nada especial"
+U0329,R011,5,2023-03-13,Una de las mejores experiencias
+U0329,R116,4,2026-06-17,Muy buena comida
+U0329,R140,3,2025-07-26,Buen lugar pero irregular
+U0329,R188,3,2025-12-05,"Cumple, nada especial"
+U0330,R014,5,2023-03-04,Volveré pronto
+U0330,R026,3,2026-06-24,"Cumple, nada especial"
+U0330,R053,5,2023-10-13,Volveré pronto
+U0330,R082,4,2025-03-01,Excelente servicio
+U0330,R136,5,2023-10-02,¡Espectacular!
+U0330,R142,4,2023-08-07,Recomendado
+U0330,R151,5,2026-02-08,Una de las mejores experiencias
+U0330,R165,4,2026-07-19,Excelente servicio
+U0330,R193,2,2024-10-30,Precio alto para lo que ofrecen
+U0331,R001,4,2026-08-14,Recomendado
+U0331,R009,2,2024-02-05,Comida sin sabor
+U0331,R031,4,2023-05-09,Recomendado
+U0331,R068,4,2023-10-25,Excelente servicio
+U0331,R100,3,2025-11-09,Aceptable
+U0331,R102,5,2023-08-18,¡Espectacular!
+U0331,R128,3,2024-09-04,"Cumple, nada especial"
+U0331,R149,2,2026-04-08,Comida sin sabor
+U0331,R171,3,2026-07-24,Aceptable
+U0332,R015,5,2025-08-21,¡Espectacular!
+U0332,R026,2,2023-03-03,Precio alto para lo que ofrecen
+U0332,R052,2,2026-05-27,Comida sin sabor
+U0332,R071,4,2025-02-03,Excelente servicio
+U0332,R135,2,2026-02-23,"Regular, esperaba más"
+U0332,R165,3,2023-11-01,Aceptable
+U0332,R169,3,2023-05-28,"Cumple, nada especial"
+U0332,R175,4,2023-05-30,Recomendado
+U0333,R019,4,2026-02-12,Excelente servicio
+U0333,R041,3,2023-03-21,"Cumple, nada especial"
+U0333,R048,5,2026-01-03,Volveré pronto
+U0333,R127,2,2025-04-02,Precio alto para lo que ofrecen
+U0333,R164,2,2025-01-21,"Regular, esperaba más"
+U0333,R166,4,2026-02-07,Excelente servicio
+U0333,R169,4,2026-04-02,Excelente servicio
+U0333,R173,3,2025-11-13,Aceptable
+U0333,R174,2,2026-06-06,"Regular, esperaba más"
+U0333,R193,3,2025-09-14,"Cumple, nada especial"
+U0334,R075,2,2026-06-12,"Regular, esperaba más"
+U0334,R112,4,2024-08-26,Excelente servicio
+U0334,R136,4,2024-09-15,Recomendado
+U0335,R008,3,2023-08-13,"Cumple, nada especial"
+U0335,R022,4,2026-04-07,Recomendado
+U0335,R034,3,2024-03-23,Aceptable
+U0335,R058,3,2026-04-22,"Cumple, nada especial"
+U0335,R104,3,2023-05-18,Buen lugar pero irregular
+U0335,R113,5,2023-09-19,Una de las mejores experiencias
+U0335,R128,4,2026-08-01,Excelente servicio
+U0335,R144,4,2024-03-11,Excelente servicio
+U0335,R177,4,2025-03-20,Recomendado
+U0335,R198,4,2025-09-11,Excelente servicio
+U0336,R006,5,2023-12-02,¡Espectacular!
+U0336,R019,4,2025-01-18,Muy buena comida
+U0336,R045,5,2026-03-06,Una de las mejores experiencias
+U0336,R146,3,2024-01-16,Buen lugar pero irregular
+U0336,R147,5,2025-09-16,Una de las mejores experiencias
+U0336,R157,4,2023-11-08,Muy buena comida
+U0336,R173,3,2026-05-15,Aceptable
+U0336,R174,3,2025-01-19,Buen lugar pero irregular
+U0336,R188,4,2024-11-17,Muy buena comida
+U0336,R192,3,2026-03-11,Aceptable
+U0337,R051,4,2023-06-07,Recomendado
+U0337,R056,5,2024-04-05,Volveré pronto
+U0337,R101,4,2024-04-05,Muy buena comida
+U0337,R103,4,2024-01-23,Recomendado
+U0337,R161,4,2023-04-18,Excelente servicio
+U0337,R173,4,2024-01-07,Muy buena comida
+U0337,R180,3,2024-06-10,Buen lugar pero irregular
+U0337,R192,3,2024-04-18,"Cumple, nada especial"
+U0338,R010,3,2023-03-13,Buen lugar pero irregular
+U0338,R098,2,2023-05-24,Comida sin sabor
+U0338,R155,5,2025-11-04,Una de las mejores experiencias
+U0339,R073,2,2023-12-03,Precio alto para lo que ofrecen
+U0339,R077,5,2025-12-29,Volveré pronto
+U0339,R143,4,2026-05-22,Recomendado
+U0339,R160,5,2025-11-27,Volveré pronto
+U0340,R042,3,2023-03-01,"Cumple, nada especial"
+U0340,R112,4,2025-12-20,Muy buena comida
+U0340,R125,3,2025-10-20,Buen lugar pero irregular
+U0340,R177,3,2025-04-12,"Cumple, nada especial"
+U0341,R009,3,2026-09-11,"Cumple, nada especial"
+U0341,R033,3,2024-12-24,Buen lugar pero irregular
+U0341,R035,4,2025-07-31,Muy buena comida
+U0341,R047,5,2025-02-05,Una de las mejores experiencias
+U0341,R048,5,2023-05-02,Una de las mejores experiencias
+U0341,R164,2,2025-08-19,Comida sin sabor
+U0341,R166,4,2024-01-06,Excelente servicio
+U0342,R022,4,2024-10-10,Recomendado
+U0342,R024,4,2026-03-30,Recomendado
+U0342,R033,2,2024-10-14,Comida sin sabor
+U0342,R077,5,2024-05-23,Una de las mejores experiencias
+U0342,R106,5,2026-08-16,Volveré pronto
+U0342,R125,4,2024-04-28,Excelente servicio
+U0342,R134,5,2023-02-13,Volveré pronto
+U0343,R037,4,2026-04-04,Recomendado
+U0343,R093,4,2024-01-27,Muy buena comida
+U0343,R102,4,2024-01-18,Excelente servicio
+U0343,R113,4,2023-04-10,Recomendado
+U0343,R177,4,2025-11-24,Muy buena comida
+U0344,R017,4,2025-12-04,Muy buena comida
+U0344,R069,4,2023-05-06,Muy buena comida
+U0344,R087,4,2026-01-23,Muy buena comida
+U0344,R103,4,2023-02-02,Muy buena comida
+U0344,R125,3,2026-09-08,"Cumple, nada especial"
+U0344,R147,3,2023-10-14,Aceptable
+U0344,R156,3,2024-04-19,Aceptable
+U0344,R171,5,2023-02-20,Volveré pronto
+U0344,R177,4,2023-10-03,Recomendado
+U0345,R040,2,2026-10-03,Precio alto para lo que ofrecen
+U0345,R052,3,2023-06-30,Aceptable
+U0345,R070,4,2024-02-10,Recomendado
+U0345,R125,2,2026-05-01,Precio alto para lo que ofrecen
+U0345,R168,4,2026-09-11,Muy buena comida
+U0345,R181,5,2025-12-27,¡Espectacular!
+U0345,R192,3,2023-11-02,Buen lugar pero irregular
+U0346,R023,5,2024-04-03,Volveré pronto
+U0346,R045,5,2024-11-18,¡Espectacular!
+U0346,R065,4,2023-09-18,Excelente servicio
+U0346,R069,4,2023-06-18,Muy buena comida
+U0346,R105,3,2026-09-20,Buen lugar pero irregular
+U0346,R177,5,2026-09-25,¡Espectacular!
+U0347,R018,4,2026-02-18,Excelente servicio
+U0347,R022,4,2026-01-04,Recomendado
+U0347,R025,5,2025-07-18,Volveré pronto
+U0347,R069,4,2023-10-19,Excelente servicio
+U0347,R074,3,2025-08-05,"Cumple, nada especial"
+U0347,R093,5,2023-04-09,¡Espectacular!
+U0347,R095,5,2024-03-29,¡Espectacular!
+U0347,R111,4,2024-07-21,Muy buena comida
+U0347,R145,2,2024-12-19,Comida sin sabor
+U0347,R146,3,2023-09-04,Aceptable
+U0347,R165,4,2025-06-04,Recomendado
+U0348,R001,5,2025-07-14,¡Espectacular!
+U0348,R014,4,2025-12-26,Recomendado
+U0348,R021,1,2023-12-23,Servicio muy lento
+U0348,R095,3,2024-09-26,"Cumple, nada especial"
+U0348,R110,5,2025-01-28,Volveré pronto
+U0348,R130,5,2024-11-21,Una de las mejores experiencias
+U0348,R173,4,2026-02-14,Excelente servicio
+U0348,R175,3,2025-04-22,Aceptable
+U0349,R031,3,2025-10-07,"Cumple, nada especial"
+U0349,R033,3,2024-07-30,Aceptable
+U0349,R101,3,2023-02-22,Buen lugar pero irregular
+U0349,R103,5,2026-04-29,Una de las mejores experiencias
+U0349,R195,4,2023-03-01,Muy buena comida
+U0350,R012,2,2026-05-11,Precio alto para lo que ofrecen
+U0350,R133,2,2026-07-27,"Regular, esperaba más"
+U0350,R134,4,2024-11-17,Recomendado
+U0350,R175,4,2024-04-13,Muy buena comida
+U0350,R181,4,2023-07-08,Recomendado
+U0350,R194,3,2023-08-19,Buen lugar pero irregular
+U0351,R062,1,2023-04-10,Mala experiencia
+U0351,R097,5,2025-01-01,¡Espectacular!
+U0351,R174,3,2023-05-11,"Cumple, nada especial"
+U0351,R179,3,2023-03-28,Buen lugar pero irregular
+U0351,R190,4,2023-11-12,Recomendado
+U0352,R021,3,2025-02-02,Buen lugar pero irregular
+U0352,R044,4,2025-01-29,Recomendado
+U0352,R054,4,2025-10-24,Excelente servicio
+U0352,R070,5,2024-11-29,Volveré pronto
+U0352,R082,4,2025-04-10,Muy buena comida
+U0352,R101,3,2024-08-27,Aceptable
+U0352,R157,5,2024-08-01,¡Espectacular!
+U0352,R160,4,2024-08-08,Excelente servicio
+U0353,R069,5,2025-12-04,Una de las mejores experiencias
+U0353,R076,4,2024-06-25,Muy buena comida
+U0353,R093,4,2025-08-26,Excelente servicio
+U0353,R121,3,2025-06-24,Aceptable
+U0353,R137,3,2026-05-30,"Cumple, nada especial"
+U0353,R156,4,2023-09-15,Muy buena comida
+U0354,R005,3,2026-09-13,Aceptable
+U0354,R042,3,2025-01-17,Buen lugar pero irregular
+U0354,R080,3,2025-01-08,Buen lugar pero irregular
+U0354,R144,3,2025-04-04,Aceptable
+U0354,R190,4,2023-10-01,Excelente servicio
+U0355,R017,4,2023-01-26,Excelente servicio
+U0355,R026,2,2025-12-22,Precio alto para lo que ofrecen
+U0355,R066,3,2025-07-03,Aceptable
+U0355,R147,4,2026-07-14,Muy buena comida
+U0355,R175,3,2026-08-28,"Cumple, nada especial"
+U0355,R191,3,2023-03-04,Aceptable
+U0356,R019,5,2026-06-18,Volveré pronto
+U0356,R026,2,2026-07-13,Precio alto para lo que ofrecen
+U0356,R099,4,2026-05-07,Excelente servicio
+U0356,R111,3,2024-09-27,Aceptable
+U0356,R125,2,2026-09-09,"Regular, esperaba más"
+U0356,R147,4,2026-06-15,Muy buena comida
+U0356,R161,5,2024-08-08,Volveré pronto
+U0357,R013,5,2024-11-30,Una de las mejores experiencias
+U0357,R023,4,2026-08-11,Muy buena comida
+U0357,R087,2,2024-01-29,"Regular, esperaba más"
+U0357,R167,4,2024-02-02,Excelente servicio
+U0357,R189,5,2026-07-08,¡Espectacular!
+U0358,R012,2,2026-01-27,"Regular, esperaba más"
+U0358,R017,4,2025-04-06,Recomendado
+U0358,R026,2,2025-12-12,Comida sin sabor
+U0358,R105,4,2026-07-18,Excelente servicio
+U0358,R128,4,2023-10-28,Recomendado
+U0358,R191,4,2026-09-13,Muy buena comida
+U0359,R002,5,2023-07-21,¡Espectacular!
+U0359,R052,4,2026-05-13,Muy buena comida
+U0359,R082,3,2024-10-29,Buen lugar pero irregular
+U0359,R109,4,2024-08-19,Muy buena comida
+U0359,R121,4,2023-05-17,Muy buena comida
+U0359,R173,3,2025-08-06,"Cumple, nada especial"
+U0359,R194,2,2025-02-05,Precio alto para lo que ofrecen
+U0360,R021,2,2026-03-19,Precio alto para lo que ofrecen
+U0360,R057,4,2026-01-14,Excelente servicio
+U0360,R079,3,2026-02-24,Aceptable
+U0360,R097,3,2024-11-30,Buen lugar pero irregular
+U0360,R117,4,2026-09-03,Recomendado
+U0360,R128,4,2024-04-30,Excelente servicio
+U0360,R170,4,2025-08-07,Recomendado
+U0360,R180,2,2024-11-24,Precio alto para lo que ofrecen
+U0360,R196,5,2023-06-18,Volveré pronto
+U0361,R028,3,2026-07-12,Buen lugar pero irregular
+U0361,R092,3,2023-06-10,Buen lugar pero irregular
+U0361,R097,3,2024-03-29,Buen lugar pero irregular
+U0361,R112,4,2026-07-18,Muy buena comida
+U0361,R125,3,2026-07-30,"Cumple, nada especial"
+U0361,R136,5,2026-01-20,Una de las mejores experiencias
+U0361,R148,4,2025-10-23,Recomendado
+U0361,R179,3,2024-06-23,Aceptable
+U0361,R189,5,2025-08-28,Una de las mejores experiencias
+U0362,R028,5,2024-03-26,Volveré pronto
+U0362,R049,5,2023-07-01,Una de las mejores experiencias
+U0362,R054,5,2026-04-15,¡Espectacular!
+U0362,R082,4,2026-04-21,Recomendado
+U0362,R107,4,2023-04-21,Recomendado
+U0362,R110,4,2023-07-07,Recomendado
+U0362,R138,5,2025-05-15,Volveré pronto
+U0362,R151,4,2025-12-04,Recomendado
+U0362,R168,5,2023-03-11,¡Espectacular!
+U0363,R013,4,2026-01-10,Excelente servicio
+U0363,R067,2,2024-04-18,Comida sin sabor
+U0363,R084,3,2025-07-25,Buen lugar pero irregular
+U0363,R091,4,2025-06-26,Recomendado
+U0363,R120,2,2023-11-27,Precio alto para lo que ofrecen
+U0363,R129,2,2024-11-20,Comida sin sabor
+U0363,R141,5,2023-03-23,Una de las mejores experiencias
+U0363,R199,5,2026-01-02,¡Espectacular!
+U0364,R001,4,2026-09-15,Excelente servicio
+U0364,R011,3,2025-07-16,Aceptable
+U0364,R047,4,2025-12-19,Muy buena comida
+U0364,R076,3,2023-06-26,Aceptable
+U0364,R116,5,2024-07-04,¡Espectacular!
+U0364,R140,3,2025-11-14,"Cumple, nada especial"
+U0364,R144,3,2023-07-22,Aceptable
+U0364,R189,5,2023-05-11,¡Espectacular!
+U0364,R194,3,2024-01-20,Buen lugar pero irregular
+U0365,R014,3,2026-09-02,Aceptable
+U0365,R135,2,2025-04-12,"Regular, esperaba más"
+U0365,R136,4,2024-07-24,Recomendado
+U0365,R148,5,2023-01-05,Volveré pronto
+U0365,R151,4,2026-08-22,Recomendado
+U0365,R165,4,2026-08-22,Excelente servicio
+U0365,R170,5,2025-08-09,Volveré pronto
+U0366,R051,2,2025-03-10,Comida sin sabor
+U0366,R060,3,2026-08-29,"Cumple, nada especial"
+U0366,R064,3,2026-08-15,"Cumple, nada especial"
+U0366,R073,3,2024-12-04,Aceptable
+U0366,R111,4,2025-04-01,Muy buena comida
+U0366,R114,4,2026-01-24,Muy buena comida
+U0366,R150,4,2023-09-01,Recomendado
+U0366,R181,4,2025-12-09,Excelente servicio
+U0367,R048,5,2024-07-11,Una de las mejores experiencias
+U0367,R065,5,2026-10-02,Volveré pronto
+U0367,R086,3,2025-06-08,Aceptable
+U0367,R135,3,2024-11-20,Aceptable
+U0367,R156,3,2024-04-06,"Cumple, nada especial"
+U0367,R171,4,2024-02-02,Excelente servicio
+U0368,R019,3,2026-05-16,Buen lugar pero irregular
+U0368,R050,2,2023-08-28,"Regular, esperaba más"
+U0368,R094,5,2024-11-16,Volveré pronto
+U0368,R096,4,2026-09-22,Recomendado
+U0368,R110,4,2024-09-19,Excelente servicio
+U0368,R119,4,2024-08-03,Recomendado
+U0368,R136,4,2024-11-23,Excelente servicio
+U0368,R152,3,2025-09-29,Buen lugar pero irregular
+U0368,R159,4,2025-04-29,Excelente servicio
+U0368,R171,5,2026-07-16,¡Espectacular!
+U0369,R004,5,2025-09-17,Una de las mejores experiencias
+U0369,R010,3,2025-03-04,Buen lugar pero irregular
+U0369,R054,4,2023-04-26,Recomendado
+U0369,R057,4,2026-08-08,Recomendado
+U0369,R081,2,2026-09-03,Precio alto para lo que ofrecen
+U0369,R100,4,2025-01-11,Muy buena comida
+U0369,R173,3,2024-12-23,"Cumple, nada especial"
+U0369,R174,3,2023-10-11,"Cumple, nada especial"
+U0370,R030,4,2023-12-25,Recomendado
+U0370,R035,4,2025-02-17,Muy buena comida
+U0370,R066,3,2023-04-13,Buen lugar pero irregular
+U0370,R073,4,2025-02-28,Recomendado
+U0370,R108,3,2026-08-11,Buen lugar pero irregular
+U0370,R131,5,2024-03-15,¡Espectacular!
+U0370,R137,5,2026-01-17,Una de las mejores experiencias
+U0370,R140,4,2023-07-24,Recomendado
+U0370,R176,4,2026-07-25,Excelente servicio
+U0371,R020,3,2026-02-20,"Cumple, nada especial"
+U0371,R065,4,2026-01-20,Excelente servicio
+U0371,R069,4,2026-04-27,Recomendado
+U0371,R081,3,2025-07-17,Aceptable
+U0371,R091,4,2025-12-16,Excelente servicio
+U0371,R099,3,2025-01-26,"Cumple, nada especial"
+U0371,R111,3,2025-10-28,"Cumple, nada especial"
+U0371,R127,2,2026-04-16,Precio alto para lo que ofrecen
+U0371,R144,3,2026-02-22,Aceptable
+U0371,R190,4,2023-09-23,Muy buena comida
+U0372,R005,4,2023-08-01,Recomendado
+U0372,R029,5,2025-12-27,¡Espectacular!
+U0372,R057,4,2026-04-30,Muy buena comida
+U0372,R079,3,2025-07-04,Buen lugar pero irregular
+U0372,R111,2,2025-12-12,"Regular, esperaba más"
+U0372,R157,5,2024-11-14,Una de las mejores experiencias
+U0372,R178,5,2025-11-10,Una de las mejores experiencias
+U0372,R189,4,2026-06-20,Recomendado
+U0373,R025,4,2026-02-26,Recomendado
+U0373,R034,4,2026-04-07,Excelente servicio
+U0373,R055,1,2023-06-15,No volvería
+U0373,R065,5,2023-05-16,Volveré pronto
+U0373,R099,4,2025-04-29,Excelente servicio
+U0373,R103,5,2025-01-21,Una de las mejores experiencias
+U0373,R145,3,2024-12-07,Aceptable
+U0373,R146,3,2026-02-15,Buen lugar pero irregular
+U0373,R192,2,2024-05-01,"Regular, esperaba más"
+U0374,R003,3,2023-05-10,Aceptable
+U0374,R005,3,2026-07-22,Aceptable
+U0374,R012,3,2024-07-20,Buen lugar pero irregular
+U0374,R019,4,2023-11-22,Excelente servicio
+U0374,R046,5,2023-09-30,Volveré pronto
+U0374,R112,3,2025-01-21,"Cumple, nada especial"
+U0374,R124,3,2025-12-11,Buen lugar pero irregular
+U0374,R128,4,2025-10-21,Muy buena comida
+U0374,R139,4,2024-11-18,Muy buena comida
+U0374,R177,3,2026-06-22,"Cumple, nada especial"
+U0375,R001,4,2024-10-06,Recomendado
+U0375,R118,2,2026-03-26,Precio alto para lo que ofrecen
+U0375,R162,2,2025-02-05,Precio alto para lo que ofrecen
+U0375,R177,4,2026-06-02,Recomendado
+U0376,R068,3,2025-09-21,"Cumple, nada especial"
+U0376,R084,5,2024-06-20,Volveré pronto
+U0376,R086,4,2026-08-08,Muy buena comida
+U0376,R109,2,2026-05-03,Precio alto para lo que ofrecen
+U0376,R137,5,2026-01-14,Una de las mejores experiencias
+U0376,R140,4,2024-12-01,Excelente servicio
+U0377,R004,4,2026-10-03,Excelente servicio
+U0377,R010,2,2026-02-20,Precio alto para lo que ofrecen
+U0377,R036,3,2026-08-15,Aceptable
+U0377,R060,3,2023-09-21,Buen lugar pero irregular
+U0377,R062,3,2023-03-15,Aceptable
+U0377,R122,3,2023-02-17,Aceptable
+U0378,R006,4,2023-08-15,Recomendado
+U0378,R038,4,2024-11-19,Muy buena comida
+U0378,R117,4,2024-07-09,Recomendado
+U0379,R014,5,2024-07-30,¡Espectacular!
+U0379,R110,3,2023-08-29,Aceptable
+U0379,R148,5,2026-04-03,Una de las mejores experiencias
+U0379,R153,2,2023-01-12,Precio alto para lo que ofrecen
+U0379,R158,4,2025-07-24,Excelente servicio
+U0379,R167,3,2025-10-15,Aceptable
+U0380,R008,3,2023-01-22,Aceptable
+U0380,R026,3,2023-03-17,Buen lugar pero irregular
+U0380,R034,4,2025-08-27,Excelente servicio
+U0380,R045,5,2023-10-17,Volveré pronto
+U0380,R048,4,2025-11-25,Muy buena comida
+U0380,R076,2,2024-04-17,"Regular, esperaba más"
+U0380,R097,4,2025-04-22,Recomendado
+U0380,R113,4,2025-05-16,Muy buena comida
+U0380,R124,4,2025-05-09,Recomendado
+U0380,R198,3,2026-05-03,Buen lugar pero irregular
+U0381,R023,5,2023-10-06,Volveré pronto
+U0381,R057,5,2026-04-09,Una de las mejores experiencias
+U0381,R071,4,2024-09-08,Excelente servicio
+U0381,R129,3,2024-05-10,"Cumple, nada especial"
+U0381,R136,4,2026-05-31,Muy buena comida
+U0381,R148,5,2024-11-12,Volveré pronto
+U0381,R153,1,2025-06-12,No volvería
+U0381,R160,3,2024-01-16,"Cumple, nada especial"
+U0381,R161,4,2023-03-29,Excelente servicio
+U0381,R162,4,2025-08-23,Muy buena comida
+U0382,R073,3,2024-04-21,Buen lugar pero irregular
+U0382,R077,5,2025-10-04,¡Espectacular!
+U0382,R085,4,2025-06-18,Recomendado
+U0382,R134,5,2023-12-19,Una de las mejores experiencias
+U0382,R163,4,2026-04-15,Excelente servicio
+U0382,R171,4,2025-10-17,Excelente servicio
+U0382,R194,3,2024-03-12,"Cumple, nada especial"
+U0382,R197,3,2023-10-12,Buen lugar pero irregular
+U0383,R023,4,2026-03-26,Recomendado
+U0383,R052,4,2023-11-30,Muy buena comida
+U0383,R082,3,2025-09-30,"Cumple, nada especial"
+U0383,R146,3,2024-12-06,Aceptable
+U0383,R148,4,2026-08-16,Recomendado
+U0383,R162,2,2025-05-13,"Regular, esperaba más"
+U0383,R165,4,2025-09-06,Muy buena comida
+U0383,R176,3,2025-03-20,Aceptable
+U0384,R033,3,2026-08-11,Buen lugar pero irregular
+U0384,R047,4,2025-05-31,Excelente servicio
+U0384,R060,3,2023-06-30,Aceptable
+U0384,R064,3,2025-06-30,Buen lugar pero irregular
+U0384,R083,2,2023-01-31,"Regular, esperaba más"
+U0384,R102,5,2024-11-28,Volveré pronto
+U0384,R171,5,2026-05-03,¡Espectacular!
+U0384,R192,3,2023-11-29,"Cumple, nada especial"
+U0384,R197,5,2024-01-26,Una de las mejores experiencias
+U0385,R006,5,2025-10-03,Una de las mejores experiencias
+U0385,R027,5,2025-04-12,Volveré pronto
+U0385,R041,3,2023-06-08,Aceptable
+U0385,R047,5,2025-03-01,¡Espectacular!
+U0385,R154,4,2025-07-29,Recomendado
+U0385,R169,3,2026-09-08,Aceptable
+U0385,R191,4,2025-11-20,Excelente servicio
+U0385,R194,4,2026-09-06,Recomendado
+U0386,R007,3,2023-08-21,Buen lugar pero irregular
+U0386,R045,5,2023-08-25,Una de las mejores experiencias
+U0386,R077,3,2025-07-23,Aceptable
+U0386,R081,4,2025-04-22,Recomendado
+U0386,R105,5,2023-04-09,Una de las mejores experiencias
+U0386,R165,5,2023-10-04,Una de las mejores experiencias
+U0386,R168,4,2025-09-22,Muy buena comida
+U0387,R009,3,2023-03-21,"Cumple, nada especial"
+U0387,R045,5,2025-12-21,Volveré pronto
+U0387,R069,4,2026-09-08,Muy buena comida
+U0387,R079,3,2023-04-09,"Cumple, nada especial"
+U0387,R105,4,2025-06-24,Recomendado
+U0387,R110,5,2026-04-27,Volveré pronto
+U0387,R111,3,2026-06-13,"Cumple, nada especial"
+U0387,R146,2,2026-06-25,"Regular, esperaba más"
+U0388,R006,5,2023-11-20,Volveré pronto
+U0388,R016,4,2024-10-01,Excelente servicio
+U0388,R019,5,2025-07-17,Volveré pronto
+U0388,R085,3,2026-02-18,"Cumple, nada especial"
+U0388,R122,3,2024-01-06,Aceptable
+U0388,R125,3,2024-07-15,Aceptable
+U0388,R131,4,2026-08-02,Excelente servicio
+U0388,R147,4,2023-12-16,Excelente servicio
+U0388,R163,5,2026-06-18,Una de las mejores experiencias
+U0388,R175,2,2026-07-19,Precio alto para lo que ofrecen
+U0388,R180,3,2025-12-29,Buen lugar pero irregular
+U0388,R191,3,2026-02-28,"Cumple, nada especial"
+U0389,R006,5,2023-12-18,Una de las mejores experiencias
+U0389,R015,5,2024-07-29,Volveré pronto
+U0389,R023,5,2024-04-29,Una de las mejores experiencias
+U0389,R024,4,2025-05-27,Muy buena comida
+U0389,R049,4,2025-04-25,Muy buena comida
+U0389,R082,5,2025-06-29,¡Espectacular!
+U0389,R108,5,2024-11-24,Una de las mejores experiencias
+U0389,R114,4,2026-08-31,Excelente servicio
+U0389,R139,5,2025-12-10,¡Espectacular!
+U0390,R025,5,2024-02-07,Una de las mejores experiencias
+U0390,R060,3,2024-11-13,Aceptable
+U0390,R069,4,2025-03-25,Muy buena comida
+U0390,R078,4,2023-05-11,Muy buena comida
+U0390,R079,3,2025-02-06,"Cumple, nada especial"
+U0390,R104,5,2024-11-15,Volveré pronto
+U0390,R157,3,2024-02-03,Aceptable
+U0390,R159,3,2023-11-05,Aceptable
+U0390,R187,2,2026-07-02,Comida sin sabor
+U0391,R061,5,2025-08-03,Volveré pronto
+U0391,R065,3,2025-11-18,Buen lugar pero irregular
+U0391,R111,3,2025-07-31,"Cumple, nada especial"
+U0391,R185,5,2024-10-23,¡Espectacular!
+U0391,R187,4,2024-01-24,Excelente servicio
+U0392,R055,4,2025-12-13,Muy buena comida
+U0392,R061,5,2026-09-21,¡Espectacular!
+U0392,R114,4,2024-03-28,Excelente servicio
+U0392,R182,4,2026-02-10,Muy buena comida
+U0392,R193,3,2024-09-09,Aceptable
+U0393,R070,4,2026-04-04,Muy buena comida
+U0393,R092,4,2025-03-15,Excelente servicio
+U0393,R129,4,2023-11-29,Recomendado
+U0393,R146,4,2024-08-03,Recomendado
+U0393,R156,3,2024-09-25,"Cumple, nada especial"
+U0393,R177,3,2023-09-02,Aceptable
+U0394,R019,5,2026-07-19,Volveré pronto
+U0394,R096,3,2024-12-31,"Cumple, nada especial"
+U0394,R110,3,2023-05-15,"Cumple, nada especial"
+U0394,R152,3,2023-07-23,"Cumple, nada especial"
+U0394,R159,5,2025-10-04,Volveré pronto
+U0394,R198,3,2023-09-03,Buen lugar pero irregular
+U0395,R021,2,2026-08-23,Precio alto para lo que ofrecen
+U0395,R085,3,2024-07-19,"Cumple, nada especial"
+U0395,R091,4,2025-08-31,Muy buena comida
+U0395,R124,5,2023-11-07,¡Espectacular!
+U0395,R169,2,2025-05-21,"Regular, esperaba más"
+U0395,R183,2,2024-09-15,Comida sin sabor
+U0395,R184,4,2024-11-17,Excelente servicio
+U0395,R189,4,2025-11-14,Muy buena comida
+U0396,R004,5,2026-07-21,Una de las mejores experiencias
+U0396,R031,3,2026-07-30,Aceptable
+U0396,R052,4,2023-04-13,Recomendado
+U0396,R129,2,2023-03-04,"Regular, esperaba más"
+U0396,R156,4,2024-11-30,Recomendado
+U0396,R165,3,2025-05-10,Buen lugar pero irregular
+U0397,R050,2,2025-06-20,Precio alto para lo que ofrecen
+U0397,R051,4,2026-09-02,Recomendado
+U0397,R142,4,2026-03-04,Excelente servicio
+U0397,R158,2,2025-01-17,"Regular, esperaba más"
+U0397,R186,4,2024-09-03,Recomendado
+U0398,R038,5,2026-07-10,Una de las mejores experiencias
+U0398,R040,1,2025-01-18,Mala experiencia
+U0398,R067,2,2023-03-16,Precio alto para lo que ofrecen
+U0398,R091,4,2023-05-22,Muy buena comida
+U0398,R126,4,2024-07-19,Recomendado
+U0398,R142,5,2026-03-11,Volveré pronto
+U0399,R111,3,2024-08-07,Aceptable
+U0399,R112,4,2023-12-06,Recomendado
+U0399,R157,5,2026-07-22,Una de las mejores experiencias
+U0399,R179,2,2025-09-04,Comida sin sabor
+U0399,R187,4,2024-12-06,Recomendado
+U0399,R193,2,2024-10-27,Precio alto para lo que ofrecen
+U0400,R025,5,2024-04-02,¡Espectacular!
+U0400,R052,5,2023-07-31,Volveré pronto
+U0400,R102,4,2023-07-29,Muy buena comida
+U0400,R121,5,2023-07-15,Volveré pronto
+U0400,R196,5,2023-10-28,Volveré pronto
+U0401,R092,4,2026-02-01,Excelente servicio
+U0401,R118,4,2025-11-17,Excelente servicio
+U0401,R145,2,2025-06-22,Comida sin sabor
+U0401,R157,4,2026-08-05,Muy buena comida
+U0402,R002,4,2024-08-07,Recomendado
+U0402,R051,5,2023-10-03,¡Espectacular!
+U0402,R076,3,2024-02-10,Aceptable
+U0402,R101,3,2025-12-02,"Cumple, nada especial"
+U0402,R113,3,2025-12-30,Aceptable
+U0402,R157,4,2025-07-26,Recomendado
+U0402,R170,5,2025-04-20,Volveré pronto
+U0403,R037,3,2026-06-08,"Cumple, nada especial"
+U0403,R058,4,2023-04-23,Muy buena comida
+U0403,R080,2,2026-09-17,"Regular, esperaba más"
+U0403,R128,2,2025-11-09,Precio alto para lo que ofrecen
+U0403,R190,4,2026-04-27,Muy buena comida
+U0403,R194,3,2025-09-07,Aceptable
+U0404,R005,5,2023-09-16,¡Espectacular!
+U0404,R012,4,2025-11-14,Excelente servicio
+U0404,R032,3,2025-02-20,Aceptable
+U0404,R037,4,2023-11-01,Muy buena comida
+U0404,R049,4,2023-05-20,Muy buena comida
+U0404,R064,2,2023-09-03,Comida sin sabor
+U0404,R074,4,2025-06-13,Excelente servicio
+U0404,R080,2,2025-01-20,Comida sin sabor
+U0404,R082,5,2023-08-10,¡Espectacular!
+U0404,R088,4,2023-11-06,Recomendado
+U0404,R098,1,2026-05-05,Mala experiencia
+U0405,R026,4,2026-06-16,Recomendado
+U0405,R069,4,2023-05-06,Excelente servicio
+U0405,R104,5,2025-02-10,Volveré pronto
+U0405,R118,3,2026-05-10,Aceptable
+U0405,R139,3,2025-07-14,Aceptable
+U0405,R141,4,2024-03-29,Muy buena comida
+U0406,R053,5,2026-09-25,¡Espectacular!
+U0406,R100,3,2023-11-08,Aceptable
+U0406,R105,5,2025-12-16,Una de las mejores experiencias
+U0406,R110,5,2025-10-20,Una de las mejores experiencias
+U0406,R125,4,2026-06-12,Muy buena comida
+U0406,R148,5,2026-10-01,Volveré pronto
+U0407,R039,2,2023-03-19,Precio alto para lo que ofrecen
+U0407,R060,3,2023-10-17,Buen lugar pero irregular
+U0407,R077,5,2025-11-11,Volveré pronto
+U0407,R102,4,2026-03-05,Muy buena comida
+U0407,R182,3,2026-06-17,Aceptable
+U0407,R200,4,2026-02-20,Muy buena comida
+U0408,R012,3,2026-09-05,Aceptable
+U0408,R083,4,2024-09-07,Excelente servicio
+U0408,R113,4,2026-08-27,Muy buena comida
+U0408,R114,5,2025-07-28,¡Espectacular!
+U0408,R133,2,2025-09-20,Comida sin sabor
+U0408,R188,4,2024-04-30,Muy buena comida
+U0408,R195,4,2023-01-20,Muy buena comida
+U0409,R008,3,2025-08-24,"Cumple, nada especial"
+U0409,R037,4,2025-12-02,Recomendado
+U0409,R042,3,2023-03-13,Buen lugar pero irregular
+U0409,R102,5,2025-01-06,¡Espectacular!
+U0409,R115,3,2024-09-25,"Cumple, nada especial"
+U0409,R128,5,2024-02-12,¡Espectacular!
+U0409,R153,3,2025-10-21,Aceptable
+U0409,R177,5,2026-05-14,Volveré pronto
+U0409,R192,2,2023-09-20,"Regular, esperaba más"
+U0410,R028,5,2024-12-27,Una de las mejores experiencias
+U0410,R061,3,2025-09-01,"Cumple, nada especial"
+U0410,R110,4,2023-11-26,Recomendado
+U0411,R004,3,2024-11-05,Buen lugar pero irregular
+U0411,R013,4,2023-05-30,Recomendado
+U0411,R036,4,2026-06-11,Muy buena comida
+U0411,R045,5,2023-10-27,Una de las mejores experiencias
+U0411,R110,3,2023-12-12,Buen lugar pero irregular
+U0411,R111,3,2025-10-23,Buen lugar pero irregular
+U0411,R162,3,2025-03-10,Aceptable
+U0411,R182,2,2024-09-10,Precio alto para lo que ofrecen
+U0411,R199,5,2026-02-07,Una de las mejores experiencias
+U0412,R006,5,2023-10-04,Volveré pronto
+U0412,R083,3,2023-09-08,Buen lugar pero irregular
+U0412,R091,5,2023-04-28,Volveré pronto
+U0412,R125,2,2026-05-25,"Regular, esperaba más"
+U0413,R012,3,2023-08-10,Aceptable
+U0413,R052,4,2025-05-06,Recomendado
+U0413,R122,3,2025-12-07,Aceptable
+U0413,R133,3,2025-06-20,"Cumple, nada especial"
+U0413,R146,3,2026-08-17,"Cumple, nada especial"
+U0413,R173,3,2026-03-14,Buen lugar pero irregular
+U0414,R019,4,2023-07-26,Muy buena comida
+U0414,R028,5,2026-07-26,¡Espectacular!
+U0414,R051,4,2026-09-17,Muy buena comida
+U0414,R136,5,2025-01-10,Volveré pronto
+U0414,R141,5,2025-12-22,Una de las mejores experiencias
+U0414,R152,3,2024-04-28,Buen lugar pero irregular
+U0414,R177,2,2026-08-16,Comida sin sabor
+U0414,R185,3,2026-05-12,Aceptable
+U0414,R191,4,2026-08-05,Muy buena comida
+U0415,R013,4,2026-06-22,Recomendado
+U0415,R032,3,2024-01-11,"Cumple, nada especial"
+U0415,R047,5,2024-03-14,Volveré pronto
+U0415,R051,3,2026-10-04,Aceptable
+U0415,R056,4,2024-07-29,Muy buena comida
+U0415,R067,2,2023-10-18,Comida sin sabor
+U0415,R080,2,2024-04-04,Comida sin sabor
+U0415,R090,3,2024-03-08,Aceptable
+U0415,R102,4,2026-07-03,Excelente servicio
+U0415,R143,3,2025-03-13,"Cumple, nada especial"
+U0415,R171,5,2026-09-03,Volveré pronto
+U0416,R022,5,2024-04-09,Una de las mejores experiencias
+U0416,R042,2,2023-09-03,Precio alto para lo que ofrecen
+U0416,R080,4,2026-07-27,Recomendado
+U0416,R102,3,2026-03-28,Buen lugar pero irregular
+U0416,R177,5,2025-02-22,Volveré pronto
+U0416,R198,5,2026-01-28,Una de las mejores experiencias
+U0417,R044,3,2026-01-14,Aceptable
+U0417,R054,5,2025-07-14,Volveré pronto
+U0417,R067,3,2023-06-13,"Cumple, nada especial"
+U0417,R077,5,2026-08-26,Una de las mejores experiencias
+U0417,R078,4,2024-09-26,Excelente servicio
+U0417,R125,2,2026-06-07,Precio alto para lo que ofrecen
+U0417,R148,4,2023-03-21,Excelente servicio
+U0417,R166,3,2026-03-23,Aceptable
+U0417,R193,2,2025-02-16,"Regular, esperaba más"
+U0418,R012,2,2024-09-17,Comida sin sabor
+U0418,R059,4,2025-01-23,Recomendado
+U0418,R089,2,2024-03-23,"Regular, esperaba más"
+U0418,R093,5,2025-09-28,¡Espectacular!
+U0418,R120,3,2025-05-21,"Cumple, nada especial"
+U0418,R129,3,2026-06-30,"Cumple, nada especial"
+U0418,R136,5,2025-09-03,Una de las mejores experiencias
+U0418,R156,2,2024-06-07,Comida sin sabor
+U0418,R199,4,2024-01-13,Muy buena comida
+U0419,R027,4,2025-10-20,Recomendado
+U0419,R092,4,2024-07-15,Recomendado
+U0419,R111,1,2026-09-14,No volvería
+U0419,R139,1,2024-05-24,Servicio muy lento
+U0419,R152,2,2024-01-31,"Regular, esperaba más"
+U0419,R155,4,2026-09-10,Excelente servicio
+U0420,R014,5,2023-09-22,Una de las mejores experiencias
+U0420,R024,3,2025-04-20,Aceptable
+U0420,R026,3,2026-02-19,"Cumple, nada especial"
+U0420,R029,4,2024-06-01,Excelente servicio
+U0420,R061,5,2023-10-09,Volveré pronto
+U0420,R071,3,2026-05-22,Buen lugar pero irregular
+U0420,R194,4,2024-01-29,Recomendado
+U0421,R057,5,2024-03-10,¡Espectacular!
+U0421,R079,4,2024-05-17,Muy buena comida
+U0421,R090,3,2025-07-06,"Cumple, nada especial"
+U0421,R104,4,2025-09-21,Recomendado
+U0421,R131,4,2023-03-26,Excelente servicio
+U0421,R145,1,2024-12-06,Servicio muy lento
+U0421,R146,2,2026-08-05,Precio alto para lo que ofrecen
+U0422,R001,5,2025-12-03,Una de las mejores experiencias
+U0422,R018,4,2024-12-09,Recomendado
+U0422,R025,4,2026-07-09,Recomendado
+U0422,R123,4,2025-09-12,Muy buena comida
+U0422,R138,4,2024-09-06,Recomendado
+U0422,R140,3,2026-10-06,"Cumple, nada especial"
+U0422,R196,5,2024-12-06,Una de las mejores experiencias
+U0423,R133,2,2024-12-01,Precio alto para lo que ofrecen
+U0423,R137,4,2026-09-08,Excelente servicio
+U0423,R148,5,2025-11-13,Volveré pronto
+U0423,R199,4,2024-07-25,Muy buena comida
+U0424,R002,4,2025-05-16,Excelente servicio
+U0424,R019,5,2024-03-29,Una de las mejores experiencias
+U0424,R112,4,2024-01-18,Excelente servicio
+U0424,R118,5,2025-09-18,Una de las mejores experiencias
+U0424,R151,3,2024-10-15,"Cumple, nada especial"
+U0425,R044,4,2026-02-10,Recomendado
+U0425,R063,4,2026-05-17,Muy buena comida
+U0425,R080,3,2023-06-25,Aceptable
+U0425,R082,5,2025-01-20,Una de las mejores experiencias
+U0425,R090,3,2025-09-19,Buen lugar pero irregular
+U0425,R113,4,2025-05-19,Recomendado
+U0425,R124,3,2025-12-17,Aceptable
+U0425,R143,4,2026-01-19,Recomendado
+U0425,R186,4,2023-01-21,Excelente servicio
+U0426,R009,3,2026-07-29,Buen lugar pero irregular
+U0426,R045,4,2024-09-02,Excelente servicio
+U0426,R052,3,2026-08-08,"Cumple, nada especial"
+U0426,R064,2,2024-03-01,"Regular, esperaba más"
+U0426,R076,4,2023-06-03,Muy buena comida
+U0426,R089,3,2025-03-18,"Cumple, nada especial"
+U0426,R151,4,2026-07-05,Muy buena comida
+U0427,R068,4,2026-03-09,Muy buena comida
+U0427,R132,3,2024-03-11,Aceptable
+U0427,R146,2,2023-05-07,Precio alto para lo que ofrecen
+U0427,R148,5,2023-01-05,¡Espectacular!
+U0427,R170,4,2025-01-01,Excelente servicio
+U0428,R067,3,2024-06-14,Aceptable
+U0428,R069,4,2025-10-20,Muy buena comida
+U0428,R126,4,2024-04-29,Recomendado
+U0428,R157,5,2024-02-22,Volveré pronto
+U0428,R163,3,2025-04-24,Aceptable
+U0428,R186,3,2023-11-08,"Cumple, nada especial"
+U0429,R026,2,2026-01-13,Comida sin sabor
+U0429,R028,5,2025-01-17,Una de las mejores experiencias
+U0429,R057,2,2024-06-30,Precio alto para lo que ofrecen
+U0429,R133,3,2026-07-31,"Cumple, nada especial"
+U0429,R159,3,2025-11-12,Buen lugar pero irregular
+U0429,R170,5,2026-05-26,¡Espectacular!
+U0429,R171,5,2026-02-17,Volveré pronto
+U0429,R185,4,2023-06-11,Recomendado
+U0429,R188,2,2025-06-03,Comida sin sabor
+U0430,R123,4,2026-09-13,Muy buena comida
+U0430,R154,4,2026-01-13,Muy buena comida
+U0430,R157,5,2024-07-30,¡Espectacular!
+U0430,R166,4,2024-03-28,Excelente servicio
+U0430,R170,5,2026-05-22,Volveré pronto
+U0430,R178,5,2024-09-17,¡Espectacular!
+U0431,R079,4,2025-06-29,Excelente servicio
+U0431,R080,3,2026-09-01,"Cumple, nada especial"
+U0431,R088,4,2025-03-02,Recomendado
+U0431,R092,3,2023-06-02,Aceptable
+U0431,R150,4,2024-04-26,Recomendado
+U0431,R168,4,2024-09-30,Excelente servicio
+U0431,R197,3,2026-05-29,Buen lugar pero irregular
+U0432,R003,3,2026-09-19,Aceptable
+U0432,R043,4,2023-07-30,Muy buena comida
+U0432,R063,3,2023-01-27,"Cumple, nada especial"
+U0432,R066,3,2025-08-08,"Cumple, nada especial"
+U0432,R070,4,2024-04-06,Excelente servicio
+U0432,R072,4,2023-08-27,Excelente servicio
+U0432,R120,4,2024-03-08,Recomendado
+U0432,R135,3,2025-10-19,Aceptable
+U0432,R139,3,2026-07-16,"Cumple, nada especial"
+U0433,R046,5,2025-10-09,Volveré pronto
+U0433,R063,5,2023-01-24,Una de las mejores experiencias
+U0433,R151,3,2024-06-23,Aceptable
+U0433,R156,3,2026-03-19,Buen lugar pero irregular
+U0434,R017,4,2023-04-16,Recomendado
+U0434,R026,3,2025-08-04,"Cumple, nada especial"
+U0434,R038,3,2023-02-09,"Cumple, nada especial"
+U0434,R080,4,2026-05-04,Muy buena comida
+U0434,R091,4,2025-01-06,Recomendado
+U0434,R093,5,2026-03-17,¡Espectacular!
+U0435,R070,5,2023-07-16,Una de las mejores experiencias
+U0435,R077,5,2024-04-18,¡Espectacular!
+U0435,R086,2,2023-12-13,Comida sin sabor
+U0435,R139,3,2025-04-02,"Cumple, nada especial"
+U0436,R008,4,2026-06-21,Muy buena comida
+U0436,R057,2,2026-05-13,Comida sin sabor
+U0436,R113,4,2024-03-18,Muy buena comida
+U0436,R147,5,2026-03-01,¡Espectacular!
+U0436,R160,3,2026-04-01,Aceptable
+U0436,R189,5,2023-11-23,Una de las mejores experiencias
+U0436,R190,5,2024-03-28,Una de las mejores experiencias
+U0436,R193,3,2025-07-05,Aceptable
+U0437,R009,3,2026-08-09,"Cumple, nada especial"
+U0437,R025,5,2024-11-10,Volveré pronto
+U0437,R056,5,2024-10-23,Una de las mejores experiencias
+U0437,R099,3,2024-07-08,Aceptable
+U0437,R194,3,2024-02-07,Aceptable
+U0438,R031,5,2024-03-14,Una de las mejores experiencias
+U0438,R045,4,2024-03-25,Excelente servicio
+U0438,R069,4,2024-05-15,Muy buena comida
+U0438,R077,5,2023-07-19,Una de las mejores experiencias
+U0438,R086,2,2025-07-12,Precio alto para lo que ofrecen
+U0438,R132,3,2025-02-12,Aceptable
+U0438,R139,4,2024-12-27,Muy buena comida
+U0438,R175,3,2025-08-20,"Cumple, nada especial"
+U0438,R187,3,2026-02-25,"Cumple, nada especial"
+U0438,R200,4,2025-09-12,Muy buena comida
+U0439,R041,5,2025-06-07,¡Espectacular!
+U0439,R066,2,2025-07-12,Precio alto para lo que ofrecen
+U0439,R110,5,2023-09-07,¡Espectacular!
+U0439,R148,5,2025-06-24,Volveré pronto
+U0439,R158,4,2024-08-29,Excelente servicio
+U0439,R159,3,2023-09-02,Buen lugar pero irregular
+U0440,R048,5,2026-09-28,¡Espectacular!
+U0440,R062,3,2024-08-03,Aceptable
+U0440,R081,4,2025-11-17,Excelente servicio
+U0440,R131,5,2026-09-12,¡Espectacular!
+U0440,R148,4,2023-09-26,Recomendado
+U0440,R169,1,2023-05-21,Servicio muy lento
+U0441,R010,2,2026-02-08,Comida sin sabor
+U0441,R024,5,2025-09-23,¡Espectacular!
+U0441,R057,4,2024-04-29,Excelente servicio
+U0441,R088,4,2024-11-06,Excelente servicio
+U0441,R089,3,2025-10-26,"Cumple, nada especial"
+U0441,R092,4,2023-12-15,Muy buena comida
+U0441,R135,2,2023-07-18,Precio alto para lo que ofrecen
+U0441,R136,5,2023-11-16,Una de las mejores experiencias
+U0441,R155,3,2026-02-20,"Cumple, nada especial"
+U0441,R158,2,2025-06-11,Precio alto para lo que ofrecen
+U0441,R174,2,2024-08-21,Precio alto para lo que ofrecen
+U0441,R188,2,2024-02-16,"Regular, esperaba más"
+U0442,R014,5,2026-03-15,¡Espectacular!
+U0442,R042,3,2025-08-15,"Cumple, nada especial"
+U0442,R070,2,2025-12-08,Comida sin sabor
+U0442,R077,4,2026-03-10,Excelente servicio
+U0442,R100,4,2023-01-29,Muy buena comida
+U0442,R106,3,2023-04-12,Buen lugar pero irregular
+U0442,R120,2,2025-02-23,Precio alto para lo que ofrecen
+U0442,R146,4,2024-05-25,Excelente servicio
+U0443,R040,4,2024-04-27,Excelente servicio
+U0443,R041,4,2024-07-30,Muy buena comida
+U0443,R061,5,2025-06-05,Una de las mejores experiencias
+U0443,R070,5,2025-03-16,Una de las mejores experiencias
+U0443,R094,4,2026-03-27,Recomendado
+U0443,R100,3,2024-01-09,Buen lugar pero irregular
+U0443,R132,3,2026-02-14,Aceptable
+U0443,R193,2,2024-04-05,Comida sin sabor
+U0444,R006,4,2024-04-23,Excelente servicio
+U0444,R037,3,2025-11-09,"Cumple, nada especial"
+U0444,R077,5,2026-02-13,¡Espectacular!
+U0444,R083,3,2023-11-18,"Cumple, nada especial"
+U0444,R122,2,2026-02-07,Comida sin sabor
+U0444,R125,2,2026-04-08,Precio alto para lo que ofrecen
+U0444,R172,4,2024-04-05,Recomendado
+U0444,R175,2,2023-03-03,"Regular, esperaba más"
+U0445,R068,5,2023-04-06,¡Espectacular!
+U0445,R073,2,2024-05-31,Comida sin sabor
+U0445,R074,3,2023-08-27,Buen lugar pero irregular
+U0445,R085,4,2024-06-03,Excelente servicio
+U0445,R136,4,2025-01-24,Excelente servicio
+U0445,R151,3,2025-04-02,Buen lugar pero irregular
+U0446,R012,1,2023-11-20,Mala experiencia
+U0446,R093,4,2024-06-06,Muy buena comida
+U0446,R098,2,2024-07-15,"Regular, esperaba más"
+U0446,R106,4,2025-05-26,Recomendado
+U0446,R122,3,2024-10-04,Buen lugar pero irregular
+U0446,R191,4,2024-04-23,Recomendado
+U0446,R194,4,2024-11-14,Excelente servicio
+U0447,R001,4,2025-12-11,Muy buena comida
+U0447,R064,2,2025-07-27,Comida sin sabor
+U0447,R070,3,2025-08-02,"Cumple, nada especial"
+U0447,R102,4,2025-02-26,Excelente servicio
+U0447,R119,4,2024-04-15,Recomendado
+U0447,R122,3,2026-06-13,Buen lugar pero irregular
+U0447,R150,4,2026-09-03,Recomendado
+U0447,R156,3,2025-09-20,Buen lugar pero irregular
+U0447,R171,5,2023-06-12,¡Espectacular!
+U0447,R181,3,2025-09-23,Aceptable
+U0447,R192,2,2023-06-30,Comida sin sabor
+U0448,R024,2,2025-11-15,"Regular, esperaba más"
+U0448,R064,2,2024-04-06,Precio alto para lo que ofrecen
+U0448,R076,3,2025-04-28,Buen lugar pero irregular
+U0448,R098,3,2025-03-08,"Cumple, nada especial"
+U0448,R119,5,2024-09-16,¡Espectacular!
+U0449,R024,5,2026-04-07,Volveré pronto
+U0449,R057,5,2024-02-19,Una de las mejores experiencias
+U0449,R059,4,2025-01-22,Recomendado
+U0449,R064,2,2024-07-11,Comida sin sabor
+U0449,R079,4,2025-12-31,Recomendado
+U0449,R163,4,2026-04-10,Recomendado
+U0449,R192,3,2025-12-21,Buen lugar pero irregular
+U0450,R017,4,2026-05-25,Excelente servicio
+U0450,R049,4,2024-01-05,Recomendado
+U0450,R076,3,2025-09-13,Aceptable
+U0450,R102,5,2026-05-02,¡Espectacular!
+U0450,R192,4,2024-05-14,Excelente servicio
+U0451,R031,3,2024-05-12,Aceptable
+U0451,R045,4,2024-03-02,Recomendado
+U0451,R053,3,2025-11-15,Aceptable
+U0451,R071,5,2024-08-30,Una de las mejores experiencias
+U0451,R092,5,2025-01-12,Una de las mejores experiencias
+U0451,R159,5,2023-07-06,Volveré pronto
+U0451,R186,1,2024-09-27,Servicio muy lento
+U0452,R010,4,2023-02-14,Recomendado
+U0452,R046,3,2026-09-25,Buen lugar pero irregular
+U0452,R060,4,2025-03-25,Excelente servicio
+U0452,R073,2,2025-01-06,Comida sin sabor
+U0452,R081,4,2025-02-02,Excelente servicio
+U0452,R108,4,2025-09-04,Recomendado
+U0452,R186,3,2024-11-21,"Cumple, nada especial"
+U0453,R056,5,2026-03-18,Volveré pronto
+U0453,R096,2,2026-03-22,Comida sin sabor
+U0453,R099,5,2023-01-17,Volveré pronto
+U0453,R104,4,2024-10-26,Excelente servicio
+U0453,R121,4,2023-10-03,Recomendado
+U0453,R190,5,2025-12-16,¡Espectacular!
+U0454,R094,3,2025-07-21,Aceptable
+U0454,R125,4,2024-12-17,Recomendado
+U0454,R173,2,2026-05-08,"Regular, esperaba más"
+U0454,R176,5,2025-06-14,Una de las mejores experiencias
+U0454,R177,5,2026-02-12,¡Espectacular!
+U0454,R192,4,2023-11-28,Excelente servicio
+U0455,R036,5,2025-12-27,Una de las mejores experiencias
+U0455,R097,4,2026-01-24,Excelente servicio
+U0455,R111,3,2025-08-24,Buen lugar pero irregular
+U0455,R122,2,2023-12-13,"Regular, esperaba más"
+U0455,R146,3,2025-08-12,"Cumple, nada especial"
+U0455,R169,2,2024-11-03,Comida sin sabor
+U0455,R175,3,2023-05-27,Buen lugar pero irregular
+U0455,R178,3,2024-02-19,"Cumple, nada especial"
+U0455,R184,3,2023-04-30,"Cumple, nada especial"
+U0456,R021,3,2026-04-25,"Cumple, nada especial"
+U0456,R113,4,2026-07-05,Recomendado
+U0456,R123,4,2025-04-23,Excelente servicio
+U0456,R136,5,2025-06-29,Volveré pronto
+U0456,R141,5,2025-04-09,Volveré pronto
+U0456,R152,3,2025-11-17,Aceptable
+U0456,R178,5,2024-02-01,Volveré pronto
+U0456,R185,5,2023-09-26,Una de las mejores experiencias
+U0457,R004,5,2026-07-27,Una de las mejores experiencias
+U0457,R114,4,2024-01-12,Muy buena comida
+U0457,R148,3,2024-01-01,Aceptable
+U0457,R170,5,2024-07-24,Una de las mejores experiencias
+U0457,R198,3,2023-02-25,Buen lugar pero irregular
+U0458,R010,3,2026-06-14,Aceptable
+U0458,R043,5,2026-04-30,¡Espectacular!
+U0458,R097,3,2024-02-22,"Cumple, nada especial"
+U0458,R139,3,2024-10-02,Aceptable
+U0458,R153,3,2023-08-31,Aceptable
+U0458,R167,3,2023-06-21,Buen lugar pero irregular
+U0458,R170,5,2026-01-15,¡Espectacular!
+U0459,R006,5,2023-08-16,Una de las mejores experiencias
+U0459,R053,2,2024-10-19,Precio alto para lo que ofrecen
+U0459,R073,3,2025-02-27,Buen lugar pero irregular
+U0459,R139,2,2026-08-15,"Regular, esperaba más"
+U0459,R146,4,2025-04-17,Excelente servicio
+U0459,R147,3,2025-06-20,Buen lugar pero irregular
+U0459,R173,3,2026-02-16,Buen lugar pero irregular
+U0459,R177,3,2024-12-30,"Cumple, nada especial"
+U0459,R180,4,2025-10-24,Recomendado
+U0459,R188,3,2025-05-06,"Cumple, nada especial"
+U0459,R191,2,2025-06-10,Comida sin sabor
+U0460,R026,2,2024-08-31,Precio alto para lo que ofrecen
+U0460,R029,4,2024-11-11,Excelente servicio
+U0460,R045,5,2024-12-13,Volveré pronto
+U0460,R129,3,2024-06-25,"Cumple, nada especial"
+U0460,R151,4,2026-05-24,Excelente servicio
+U0460,R157,4,2026-09-30,Excelente servicio
+U0460,R180,3,2023-09-15,Buen lugar pero irregular
+U0460,R188,4,2026-04-04,Excelente servicio
+U0461,R050,2,2026-01-17,Precio alto para lo que ofrecen
+U0461,R070,4,2023-04-19,Excelente servicio
+U0461,R107,5,2023-12-12,Una de las mejores experiencias
+U0461,R131,5,2024-04-07,Volveré pronto
+U0461,R162,3,2025-09-08,Aceptable
+U0461,R168,4,2026-07-06,Recomendado
+U0461,R198,4,2024-05-25,Recomendado
+U0462,R026,2,2025-07-25,Precio alto para lo que ofrecen
+U0462,R032,3,2023-06-09,"Cumple, nada especial"
+U0462,R049,5,2026-03-21,Volveré pronto
+U0462,R069,4,2026-07-01,Excelente servicio
+U0462,R071,5,2026-04-10,Una de las mejores experiencias
+U0462,R082,5,2025-09-07,Volveré pronto
+U0462,R085,4,2024-08-15,Muy buena comida
+U0462,R090,3,2024-11-30,"Cumple, nada especial"
+U0462,R165,4,2024-03-15,Recomendado
+U0462,R186,3,2025-12-11,Aceptable
+U0463,R055,3,2023-07-21,Buen lugar pero irregular
+U0463,R058,5,2023-06-27,Volveré pronto
+U0463,R080,3,2023-09-26,Buen lugar pero irregular
+U0463,R113,4,2025-05-23,Recomendado
+U0463,R140,3,2026-01-22,Aceptable
+U0463,R160,3,2023-08-25,Buen lugar pero irregular
+U0463,R175,3,2024-05-30,Aceptable
+U0464,R006,5,2024-08-08,Una de las mejores experiencias
+U0464,R010,2,2026-08-16,"Regular, esperaba más"
+U0464,R063,4,2024-03-22,Excelente servicio
+U0464,R085,4,2026-08-15,Recomendado
+U0464,R093,4,2026-09-12,Recomendado
+U0464,R103,3,2023-08-04,Aceptable
+U0464,R161,4,2023-07-05,Muy buena comida
+U0464,R197,5,2024-07-07,Volveré pronto
+U0465,R068,4,2025-07-14,Excelente servicio
+U0465,R072,4,2025-06-10,Excelente servicio
+U0465,R095,5,2026-04-01,¡Espectacular!
+U0465,R123,3,2025-12-03,"Cumple, nada especial"
+U0465,R125,3,2024-12-11,Aceptable
+U0465,R135,4,2026-01-17,Recomendado
+U0465,R136,3,2024-07-22,Aceptable
+U0465,R177,2,2025-11-28,Comida sin sabor
+U0465,R185,3,2024-11-10,"Cumple, nada especial"
+U0465,R189,4,2024-02-20,Recomendado
+U0465,R196,5,2024-11-30,¡Espectacular!
+U0466,R031,3,2023-08-10,Buen lugar pero irregular
+U0466,R057,4,2023-02-05,Excelente servicio
+U0466,R076,3,2025-01-08,"Cumple, nada especial"
+U0466,R083,2,2025-08-28,Comida sin sabor
+U0466,R108,3,2025-12-09,Aceptable
+U0466,R116,5,2025-04-10,¡Espectacular!
+U0466,R123,4,2023-11-22,Recomendado
+U0466,R127,3,2025-02-22,"Cumple, nada especial"
+U0466,R149,3,2024-07-02,Aceptable
+U0466,R170,5,2025-10-06,Una de las mejores experiencias
+U0466,R194,4,2023-03-06,Excelente servicio
+U0467,R020,2,2024-11-05,Comida sin sabor
+U0467,R034,3,2025-12-15,Buen lugar pero irregular
+U0467,R042,2,2023-04-20,Comida sin sabor
+U0467,R116,5,2025-12-08,Una de las mejores experiencias
+U0467,R144,4,2024-10-31,Excelente servicio
+U0467,R199,5,2023-07-28,Volveré pronto
+U0468,R004,4,2026-08-11,Recomendado
+U0468,R029,3,2023-11-27,"Cumple, nada especial"
+U0468,R048,5,2026-10-04,¡Espectacular!
+U0468,R105,4,2025-08-28,Recomendado
+U0468,R110,3,2025-09-19,Aceptable
+U0468,R141,4,2026-07-09,Excelente servicio
+U0468,R159,3,2025-03-19,Aceptable
+U0468,R169,3,2025-05-12,"Cumple, nada especial"
+U0468,R174,4,2026-09-02,Muy buena comida
+U0469,R009,3,2023-03-23,Buen lugar pero irregular
+U0469,R045,5,2025-03-03,¡Espectacular!
+U0469,R069,4,2023-09-22,Muy buena comida
+U0469,R093,3,2025-05-09,Buen lugar pero irregular
+U0469,R129,4,2023-11-15,Recomendado
+U0469,R154,4,2023-01-07,Excelente servicio
+U0469,R200,3,2024-07-12,Buen lugar pero irregular
+U0470,R029,4,2026-04-01,Muy buena comida
+U0470,R082,4,2023-09-01,Muy buena comida
+U0470,R085,4,2023-03-12,Recomendado
+U0470,R111,1,2024-09-09,No volvería
+U0470,R129,3,2025-11-28,Aceptable
+U0470,R135,1,2026-09-22,Mala experiencia
+U0470,R148,4,2023-11-26,Muy buena comida
+U0470,R183,3,2023-04-22,Buen lugar pero irregular
+U0470,R199,5,2026-02-21,¡Espectacular!
+U0471,R045,5,2025-12-22,¡Espectacular!
+U0471,R049,4,2023-11-05,Excelente servicio
+U0471,R053,4,2023-01-30,Muy buena comida
+U0471,R077,4,2026-08-06,Muy buena comida
+U0471,R093,4,2024-07-13,Recomendado
+U0471,R095,5,2023-12-25,¡Espectacular!
+U0471,R101,4,2023-12-31,Recomendado
+U0471,R127,3,2024-05-10,"Cumple, nada especial"
+U0471,R153,3,2023-08-29,"Cumple, nada especial"
+U0471,R163,3,2026-07-06,Buen lugar pero irregular
+U0471,R191,2,2025-03-01,Comida sin sabor
+U0472,R056,4,2025-03-31,Muy buena comida
+U0472,R069,5,2024-03-15,Volveré pronto
+U0472,R083,4,2023-06-10,Recomendado
+U0472,R134,3,2023-06-12,Aceptable
+U0472,R142,4,2025-11-24,Recomendado
+U0472,R144,1,2023-08-03,No volvería
+U0472,R146,4,2026-08-17,Muy buena comida
+U0472,R159,3,2023-02-02,"Cumple, nada especial"
+U0472,R164,3,2025-07-24,Buen lugar pero irregular
+U0472,R175,3,2024-11-22,"Cumple, nada especial"
+U0472,R199,5,2026-04-27,Volveré pronto
+U0473,R001,5,2025-11-15,Volveré pronto
+U0473,R012,3,2026-01-18,Aceptable
+U0473,R033,3,2023-04-19,"Cumple, nada especial"
+U0473,R067,4,2026-09-23,Muy buena comida
+U0473,R091,5,2024-05-22,¡Espectacular!
+U0473,R098,3,2024-06-19,Buen lugar pero irregular
+U0474,R004,5,2023-12-20,Una de las mejores experiencias
+U0474,R032,4,2026-08-16,Muy buena comida
+U0474,R039,2,2025-11-18,Comida sin sabor
+U0474,R070,4,2025-11-16,Recomendado
+U0474,R090,2,2026-05-26,"Regular, esperaba más"
+U0474,R102,4,2025-05-14,Excelente servicio
+U0474,R120,3,2023-09-28,Buen lugar pero irregular
+U0475,R068,2,2026-08-03,Precio alto para lo que ofrecen
+U0475,R072,5,2026-05-01,Volveré pronto
+U0475,R117,3,2026-06-28,Aceptable
+U0475,R143,4,2023-07-07,Excelente servicio
+U0475,R180,2,2026-03-29,Comida sin sabor
+U0475,R195,5,2026-04-13,Una de las mejores experiencias
+U0476,R026,3,2025-12-14,Aceptable
+U0476,R052,3,2026-08-01,Buen lugar pero irregular
+U0476,R134,5,2023-04-29,¡Espectacular!
+U0476,R148,5,2025-03-13,Volveré pronto
+U0476,R158,2,2025-07-27,Precio alto para lo que ofrecen
+U0477,R018,2,2025-06-07,"Regular, esperaba más"
+U0477,R048,5,2023-11-22,Volveré pronto
+U0477,R057,4,2024-10-24,Muy buena comida
+U0477,R077,4,2025-09-16,Excelente servicio
+U0477,R108,4,2026-08-25,Recomendado
+U0477,R186,3,2025-05-23,"Cumple, nada especial"
+U0477,R194,4,2024-04-05,Muy buena comida
+U0477,R195,3,2026-05-15,Buen lugar pero irregular
+U0478,R075,4,2023-04-25,Recomendado
+U0478,R092,4,2025-02-05,Excelente servicio
+U0479,R009,4,2026-06-03,Muy buena comida
+U0479,R057,4,2026-05-19,Muy buena comida
+U0479,R100,5,2024-02-08,Volveré pronto
+U0479,R149,3,2025-05-09,Buen lugar pero irregular
+U0479,R164,2,2024-09-25,Comida sin sabor
+U0479,R193,2,2025-04-08,Precio alto para lo que ofrecen
+U0480,R019,5,2026-06-25,Una de las mejores experiencias
+U0480,R028,5,2024-12-27,¡Espectacular!
+U0480,R072,4,2026-01-18,Recomendado
+U0480,R110,5,2026-08-22,Una de las mejores experiencias
+U0480,R114,5,2024-05-15,Una de las mejores experiencias
+U0480,R133,3,2024-08-21,"Cumple, nada especial"
+U0480,R178,3,2025-02-23,Aceptable
+U0480,R185,5,2024-11-27,¡Espectacular!
+U0481,R012,2,2026-01-26,"Regular, esperaba más"
+U0481,R014,5,2026-07-13,Volveré pronto
+U0481,R079,4,2023-06-11,Muy buena comida
+U0481,R113,3,2023-10-28,"Cumple, nada especial"
+U0481,R114,4,2026-03-16,Recomendado
+U0481,R123,5,2025-08-20,Una de las mejores experiencias
+U0481,R125,3,2025-04-09,Aceptable
+U0481,R132,3,2023-02-19,Buen lugar pero irregular
+U0481,R149,2,2026-03-19,Comida sin sabor
+U0481,R189,3,2023-12-11,"Cumple, nada especial"
+U0482,R002,4,2026-05-28,Recomendado
+U0482,R029,5,2026-09-19,Volveré pronto
+U0482,R046,5,2023-11-21,¡Espectacular!
+U0482,R052,5,2026-08-02,Una de las mejores experiencias
+U0482,R071,5,2026-02-09,¡Espectacular!
+U0482,R072,5,2024-05-10,Volveré pronto
+U0482,R136,5,2024-10-15,Volveré pronto
+U0482,R145,3,2025-02-18,Buen lugar pero irregular
+U0482,R153,3,2026-07-30,Aceptable
+U0482,R183,3,2024-04-15,Buen lugar pero irregular
+U0483,R003,3,2023-11-26,Aceptable
+U0483,R067,2,2026-06-12,Precio alto para lo que ofrecen
+U0483,R073,1,2025-09-16,Servicio muy lento
+U0483,R082,5,2023-07-24,¡Espectacular!
+U0483,R087,3,2026-01-17,"Cumple, nada especial"
+U0483,R160,3,2023-08-09,"Cumple, nada especial"
+U0483,R186,2,2026-05-03,"Regular, esperaba más"
+U0483,R196,3,2025-10-25,"Cumple, nada especial"
+U0483,R199,5,2026-09-14,¡Espectacular!
+U0484,R028,5,2025-09-14,Volveré pronto
+U0484,R051,4,2026-07-31,Excelente servicio
+U0484,R082,5,2025-10-30,¡Espectacular!
+U0484,R106,3,2023-09-04,"Cumple, nada especial"
+U0484,R115,4,2024-04-27,Excelente servicio
+U0484,R135,3,2026-08-04,"Cumple, nada especial"
+U0484,R143,3,2025-06-11,Buen lugar pero irregular
+U0484,R159,5,2024-06-23,Volveré pronto
+U0484,R200,4,2023-05-02,Recomendado
+U0485,R004,5,2026-05-18,Una de las mejores experiencias
+U0485,R014,5,2026-03-31,Una de las mejores experiencias
+U0485,R036,3,2023-02-26,"Cumple, nada especial"
+U0485,R046,5,2025-03-21,Una de las mejores experiencias
+U0485,R071,3,2025-02-25,Buen lugar pero irregular
+U0485,R099,5,2024-10-14,¡Espectacular!
+U0485,R102,3,2024-10-30,Aceptable
+U0485,R129,2,2023-03-20,"Regular, esperaba más"
+U0485,R151,3,2023-08-16,"Cumple, nada especial"
+U0485,R156,4,2026-04-07,Excelente servicio
+U0485,R165,4,2025-10-01,Excelente servicio
+U0485,R184,3,2024-05-10,Aceptable
+U0486,R047,5,2024-12-07,¡Espectacular!
+U0486,R049,4,2026-03-04,Recomendado
+U0486,R086,4,2023-02-13,Muy buena comida
+U0486,R114,5,2023-01-28,Volveré pronto
+U0486,R137,3,2023-11-09,"Cumple, nada especial"
+U0486,R195,2,2025-11-10,"Regular, esperaba más"
+U0487,R167,3,2025-07-30,Aceptable
+U0487,R199,5,2026-05-26,Una de las mejores experiencias
+U0488,R091,3,2024-09-17,Aceptable
+U0488,R112,3,2024-02-07,"Cumple, nada especial"
+U0488,R113,5,2024-03-20,Volveré pronto
+U0488,R115,4,2026-05-27,Recomendado
+U0488,R192,2,2024-12-21,Precio alto para lo que ofrecen
+U0489,R047,3,2024-04-11,"Cumple, nada especial"
+U0489,R049,4,2026-02-18,Excelente servicio
+U0489,R064,4,2026-06-22,Muy buena comida
+U0489,R083,4,2026-05-10,Excelente servicio
+U0489,R098,4,2025-02-13,Muy buena comida
+U0489,R099,3,2026-05-06,"Cumple, nada especial"
+U0489,R197,5,2025-02-11,Volveré pronto
+U0490,R085,4,2025-10-14,Muy buena comida
+U0490,R095,5,2025-11-09,Volveré pronto
+U0490,R128,4,2026-05-09,Muy buena comida
+U0490,R139,4,2026-09-24,Muy buena comida
+U0490,R145,2,2025-01-12,Precio alto para lo que ofrecen
+U0490,R171,5,2023-01-09,¡Espectacular!
+U0490,R191,3,2025-09-18,Buen lugar pero irregular
+U0491,R027,3,2023-09-26,"Cumple, nada especial"
+U0491,R048,5,2026-08-13,Volveré pronto
+U0491,R061,4,2023-12-04,Muy buena comida
+U0491,R078,4,2024-05-30,Muy buena comida
+U0491,R094,4,2023-01-28,Excelente servicio
+U0491,R159,5,2025-01-18,Una de las mejores experiencias
+U0491,R164,2,2025-10-10,"Regular, esperaba más"
+U0491,R170,3,2026-10-03,Buen lugar pero irregular
+U0491,R190,5,2025-04-21,Una de las mejores experiencias
+U0492,R077,5,2025-05-24,Volveré pronto
+U0492,R129,3,2024-09-06,Aceptable
+U0492,R139,3,2024-01-01,Aceptable
+U0492,R155,5,2023-04-12,¡Espectacular!
+U0492,R171,4,2024-04-08,Excelente servicio
+U0492,R174,4,2026-06-02,Excelente servicio
+U0492,R199,3,2024-09-25,Aceptable
+U0493,R002,5,2026-02-27,Volveré pronto
+U0493,R035,4,2025-08-18,Excelente servicio
+U0493,R057,5,2024-12-19,Una de las mejores experiencias
+U0493,R077,4,2023-01-07,Muy buena comida
+U0493,R083,4,2025-02-07,Muy buena comida
+U0493,R099,3,2024-07-11,Aceptable
+U0493,R144,3,2025-01-17,Buen lugar pero irregular
+U0493,R165,4,2025-03-16,Muy buena comida
+U0493,R198,3,2024-07-29,Aceptable
+U0494,R022,5,2025-05-13,¡Espectacular!
+U0494,R026,4,2026-04-24,Muy buena comida
+U0494,R085,3,2024-11-29,"Cumple, nada especial"
+U0494,R088,4,2025-09-18,Recomendado
+U0494,R127,3,2023-03-27,Aceptable
+U0494,R139,4,2024-04-09,Recomendado
+U0494,R162,4,2025-10-27,Recomendado
+U0494,R167,4,2025-02-17,Excelente servicio
+U0494,R198,2,2026-05-28,Precio alto para lo que ofrecen
+U0495,R007,4,2024-03-25,Recomendado
+U0495,R014,5,2024-12-27,Volveré pronto
+U0495,R073,2,2025-02-02,Comida sin sabor
+U0495,R100,5,2025-03-31,Volveré pronto
+U0495,R126,3,2025-06-20,Aceptable
+U0495,R148,5,2023-02-11,¡Espectacular!
+U0495,R184,3,2023-03-08,"Cumple, nada especial"
+U0496,R006,5,2023-09-19,Volveré pronto
+U0496,R042,3,2025-04-22,Aceptable
+U0496,R089,3,2026-07-18,Buen lugar pero irregular
+U0496,R158,3,2026-03-27,Buen lugar pero irregular
+U0496,R170,4,2025-10-19,Excelente servicio
+U0496,R179,3,2023-06-16,Buen lugar pero irregular
+U0497,R055,3,2023-08-08,"Cumple, nada especial"
+U0497,R089,2,2025-02-13,"Regular, esperaba más"
+U0497,R105,3,2024-07-21,"Cumple, nada especial"
+U0497,R112,4,2023-11-17,Muy buena comida
+U0497,R155,5,2026-05-13,¡Espectacular!
+U0498,R007,2,2024-05-29,Precio alto para lo que ofrecen
+U0498,R047,4,2025-06-10,Recomendado
+U0498,R048,4,2025-06-15,Recomendado
+U0498,R086,5,2024-07-30,Una de las mejores experiencias
+U0498,R129,4,2023-01-15,Recomendado
+U0498,R160,3,2024-09-06,"Cumple, nada especial"
+U0498,R163,4,2023-02-28,Muy buena comida
+U0499,R068,3,2023-11-04,"Cumple, nada especial"
+U0499,R092,3,2025-04-14,Buen lugar pero irregular
+U0499,R102,3,2023-10-13,Aceptable
+U0499,R134,5,2025-12-15,¡Espectacular!
+U0500,R009,2,2026-05-01,Comida sin sabor
+U0500,R114,5,2024-11-08,Volveré pronto
+U0500,R116,5,2024-09-26,Volveré pronto
+U0500,R164,5,2025-12-29,¡Espectacular!
+U0500,R169,4,2023-04-12,Recomendado
+U0500,R175,3,2025-12-18,Aceptable
+U0500,R182,3,2023-11-07,Aceptable

@@ -1,0 +1,201 @@
+id,nombre,anio_apertura,rango_precios,descripcion
+R001,Mercado Central,1995,$$,Restaurante de cocina variada ubicado en Central
+R002,Mercado Zona 10,2022,$$,Restaurante de cocina variada ubicado en Zona 10
+R003,Cocina de del Mar,2010,$$$,Restaurante de cocina variada ubicado en del Mar
+R004,Bistró Zona 10,2010,$,Restaurante de cocina variada ubicado en Zona 10
+R005,Casa del Lago,2007,$,Restaurante de cocina variada ubicado en del Lago
+R006,Taller Urbano,2001,$$$,Restaurante de cocina variada ubicado en Urbano
+R007,Taberna Maya,2002,$,Restaurante de cocina variada ubicado en Maya
+R008,El Patio Dorado,2008,$,Restaurante de cocina variada ubicado en Dorado
+R009,Taller Sur,1996,$$,Restaurante de cocina variada ubicado en Sur
+R010,El Establo Andino,2015,$$$,Restaurante de cocina variada ubicado en Andino
+R011,Mercado Moderno,2019,$,Restaurante de cocina variada ubicado en Moderno
+R012,Bistró Maya,2012,$$,Restaurante de cocina variada ubicado en Maya
+R013,El Jardín Antigua,2024,$$,Restaurante de cocina variada ubicado en Antigua
+R014,Cocina de Norte,2009,$$,Restaurante de cocina variada ubicado en Norte
+R015,Terraza Zona 10,2015,$$$,Restaurante de cocina variada ubicado en Zona 10
+R016,El Fogón Tradicional,1987,$$$,Restaurante de cocina variada ubicado en Tradicional
+R017,Cocina de Urbano,2012,$,Restaurante de cocina variada ubicado en Urbano
+R018,El Fogón Zona 10,2023,$,Restaurante de cocina variada ubicado en Zona 10
+R019,Fuego y Andino,2000,$$,Restaurante de cocina variada ubicado en Andino
+R020,La Cantina del Chef,1994,$$,Restaurante de cocina variada ubicado en del Chef
+R021,Bistró del Mar,2011,$$$,Restaurante de cocina variada ubicado en del Mar
+R022,Casa Maya,2014,$$,Restaurante de cocina variada ubicado en Maya
+R023,Cocina de Maya,1998,$$$$,Restaurante de cocina variada ubicado en Maya
+R024,Taberna Andino,1987,$$,Restaurante de cocina variada ubicado en Andino
+R025,Taberna Norte,2004,$$$,Restaurante de cocina variada ubicado en Norte
+R026,Punto Antigua,2004,$,Restaurante de cocina variada ubicado en Antigua
+R027,La Cantina Norte,2016,$$$,Restaurante de cocina variada ubicado en Norte
+R028,El Establo Central,2005,$,Restaurante de cocina variada ubicado en Central
+R029,Sabores de Tradicional,2001,$$$,Restaurante de cocina variada ubicado en Tradicional
+R030,Bistró Antigua,2000,$$,Restaurante de cocina variada ubicado en Antigua
+R031,Sabores de Andino,2014,$$$,Restaurante de cocina variada ubicado en Andino
+R032,El Patio del Lago,1997,$$,Restaurante de cocina variada ubicado en del Lago
+R033,El Patio Moderno,2006,$$,Restaurante de cocina variada ubicado en Moderno
+R034,Hacienda Central,1994,$,Restaurante de cocina variada ubicado en Central
+R035,La Cantina Central,1988,$$$,Restaurante de cocina variada ubicado en Central
+R036,Mercado Dorado,1995,$$,Restaurante de cocina variada ubicado en Dorado
+R037,El Jardín Zona 10,1994,$,Restaurante de cocina variada ubicado en Zona 10
+R038,Sabores de del Chef,2019,$$$$,Restaurante de cocina variada ubicado en del Chef
+R039,Punto Dorado,2013,$$,Restaurante de cocina variada ubicado en Dorado
+R040,Villa Urbano,2011,$$$$,Restaurante de cocina variada ubicado en Urbano
+R041,Rincón Zona 10,2019,$$$,Restaurante de cocina variada ubicado en Zona 10
+R042,El Fogón Central,2013,$$,Restaurante de cocina variada ubicado en Central
+R043,Rincón Andino,2003,$$$,Restaurante de cocina variada ubicado en Andino
+R044,Taller Maya,2002,$$,Restaurante de cocina variada ubicado en Maya
+R045,Taller del Lago,2019,$$$,Restaurante de cocina variada ubicado en del Lago
+R046,El Jardín Sur,2009,$$,Restaurante de cocina variada ubicado en Sur
+R047,Terraza Central,1989,$$$$,Restaurante de cocina variada ubicado en Central
+R048,Taberna Dorado,2000,$$,Restaurante de cocina variada ubicado en Dorado
+R049,Fuego y del Mar,2007,$$,Restaurante de cocina variada ubicado en del Mar
+R050,Taberna Urbano,2022,$$,Restaurante de cocina variada ubicado en Urbano
+R051,Mesa Sur,2012,$,Restaurante de cocina variada ubicado en Sur
+R052,Mesa Norte,1985,$$$,Restaurante de cocina variada ubicado en Norte
+R053,Villa Andino,2001,$$,Restaurante de cocina variada ubicado en Andino
+R054,Cocina de Moderno,2011,$$$,Restaurante de cocina variada ubicado en Moderno
+R055,Taberna Antigua,2010,$,Restaurante de cocina variada ubicado en Antigua
+R056,Sabores de Verde,2022,$$$$,Restaurante de cocina variada ubicado en Verde
+R057,Bistró del Lago,1987,$$,Restaurante de cocina variada ubicado en del Lago
+R058,Hacienda del Chef,2011,$$,Restaurante de cocina variada ubicado en del Chef
+R059,Villa Zona 10,2007,$$$,Restaurante de cocina variada ubicado en Zona 10
+R060,La Casona del Mar,2000,$,Restaurante de cocina variada ubicado en del Mar
+R061,Villa Tradicional,2001,$$$$,Restaurante de cocina variada ubicado en Tradicional
+R062,Mercado Verde,1993,$$$,Restaurante de cocina variada ubicado en Verde
+R063,El Fogón Moderno,2014,$$$,Restaurante de cocina variada ubicado en Moderno
+R064,El Establo Moderno,1993,$$,Restaurante de cocina variada ubicado en Moderno
+R065,El Establo Zona 10,2013,$$,Restaurante de cocina variada ubicado en Zona 10
+R066,Taberna Central,1990,$$$,Restaurante de cocina variada ubicado en Central
+R067,Mercado Urbano,2003,$$$,Restaurante de cocina variada ubicado en Urbano
+R068,Sabores de Sur,2002,$$,Restaurante de cocina variada ubicado en Sur
+R069,La Cantina Zona 10,1996,$$,Restaurante de cocina variada ubicado en Zona 10
+R070,Fuego y Moderno,2021,$$$,Restaurante de cocina variada ubicado en Moderno
+R071,El Jardín Central,2012,$$,Restaurante de cocina variada ubicado en Central
+R072,Taberna Moderno,2003,$,Restaurante de cocina variada ubicado en Moderno
+R073,Taller Antigua,1989,$$,Restaurante de cocina variada ubicado en Antigua
+R074,Cocina de del Lago,2012,$$$,Restaurante de cocina variada ubicado en del Lago
+R075,Casa del Chef,1997,$$$,Restaurante de cocina variada ubicado en del Chef
+R076,Cocina de Andino,1989,$$$$,Restaurante de cocina variada ubicado en Andino
+R077,La Casona Antigua,2004,$,Restaurante de cocina variada ubicado en Antigua
+R078,El Establo Tradicional,2024,$$$,Restaurante de cocina variada ubicado en Tradicional
+R079,Hacienda Urbano,2006,$$,Restaurante de cocina variada ubicado en Urbano
+R080,Sabores de Norte,1988,$$$$,Restaurante de cocina variada ubicado en Norte
+R081,El Patio Sur,2004,$$$,Restaurante de cocina variada ubicado en Sur
+R082,La Cantina Antigua,2008,$$$$,Restaurante de cocina variada ubicado en Antigua
+R083,Rincón Antigua,1987,$,Restaurante de cocina variada ubicado en Antigua
+R084,El Patio Central,2024,$$$,Restaurante de cocina variada ubicado en Central
+R085,El Fogón Urbano,2009,$$,Restaurante de cocina variada ubicado en Urbano
+R086,Fuego y del Chef,2018,$$,Restaurante de cocina variada ubicado en del Chef
+R087,Taller Zona 10,2017,$$$,Restaurante de cocina variada ubicado en Zona 10
+R088,Fuego y Tradicional,2024,$$,Restaurante de cocina variada ubicado en Tradicional
+R089,Hacienda del Lago,2024,$,Restaurante de cocina variada ubicado en del Lago
+R090,Fuego y Dorado,2021,$$,Restaurante de cocina variada ubicado en Dorado
+R091,Rincón Dorado,2001,$$,Restaurante de cocina variada ubicado en Dorado
+R092,Casa Central,1996,$$$,Restaurante de cocina variada ubicado en Central
+R093,Mesa Dorado,2010,$$$,Restaurante de cocina variada ubicado en Dorado
+R094,Hacienda Sur,2012,$$$$,Restaurante de cocina variada ubicado en Sur
+R095,Casa Andino,2003,$$$,Restaurante de cocina variada ubicado en Andino
+R096,El Jardín Maya,1989,$$,Restaurante de cocina variada ubicado en Maya
+R097,La Cantina Verde,2021,$$$,Restaurante de cocina variada ubicado en Verde
+R098,Villa Dorado,1986,$,Restaurante de cocina variada ubicado en Dorado
+R099,Hacienda Tradicional,1996,$$$,Restaurante de cocina variada ubicado en Tradicional
+R100,Fuego y Maya,1996,$$$,Restaurante de cocina variada ubicado en Maya
+R101,Taller Norte,2015,$$$,Restaurante de cocina variada ubicado en Norte
+R102,El Jardín Norte,1993,$$,Restaurante de cocina variada ubicado en Norte
+R103,La Casona Verde,2020,$$,Restaurante de cocina variada ubicado en Verde
+R104,El Establo Maya,2021,$$,Restaurante de cocina variada ubicado en Maya
+R105,Mesa del Mar,2004,$,Restaurante de cocina variada ubicado en del Mar
+R106,Punto Zona 10,2023,$$,Restaurante de cocina variada ubicado en Zona 10
+R107,Sabores de Zona 10,2013,$,Restaurante de cocina variada ubicado en Zona 10
+R108,La Casona Moderno,2016,$,Restaurante de cocina variada ubicado en Moderno
+R109,Mercado Tradicional,2023,$$$$,Restaurante de cocina variada ubicado en Tradicional
+R110,Bistró del Chef,2021,$$$,Restaurante de cocina variada ubicado en del Chef
+R111,El Fogón Dorado,1997,$$,Restaurante de cocina variada ubicado en Dorado
+R112,El Fogón del Lago,2010,$$,Restaurante de cocina variada ubicado en del Lago
+R113,Mercado Norte,2022,$$$$,Restaurante de cocina variada ubicado en Norte
+R114,El Patio Verde,2024,$$,Restaurante de cocina variada ubicado en Verde
+R115,El Fogón del Mar,2024,$$$,Restaurante de cocina variada ubicado en del Mar
+R116,El Jardín Andino,2006,$$$$,Restaurante de cocina variada ubicado en Andino
+R117,Casa del Mar,2005,$$,Restaurante de cocina variada ubicado en del Mar
+R118,Mercado Maya,2013,$$,Restaurante de cocina variada ubicado en Maya
+R119,Terraza Maya,1999,$$$,Restaurante de cocina variada ubicado en Maya
+R120,El Patio Zona 10,2003,$,Restaurante de cocina variada ubicado en Zona 10
+R121,Bistró Dorado,2003,$$,Restaurante de cocina variada ubicado en Dorado
+R122,Casa Urbano,1995,$$$,Restaurante de cocina variada ubicado en Urbano
+R123,Villa del Mar,1996,$$$,Restaurante de cocina variada ubicado en del Mar
+R124,Villa Moderno,2008,$$$$,Restaurante de cocina variada ubicado en Moderno
+R125,Hacienda Antigua,2014,$$$,Restaurante de cocina variada ubicado en Antigua
+R126,Punto del Lago,1989,$$$,Restaurante de cocina variada ubicado en del Lago
+R127,Rincón Central,2013,$$$$,Restaurante de cocina variada ubicado en Central
+R128,Punto del Chef,2012,$$$,Restaurante de cocina variada ubicado en del Chef
+R129,Rincón del Lago,2008,$$,Restaurante de cocina variada ubicado en del Lago
+R130,Taller Verde,1999,$$$$,Restaurante de cocina variada ubicado en Verde
+R131,Mesa Urbano,1987,$$$,Restaurante de cocina variada ubicado en Urbano
+R132,El Jardín del Mar,1988,$$$,Restaurante de cocina variada ubicado en del Mar
+R133,La Cantina Urbano,2005,$,Restaurante de cocina variada ubicado en Urbano
+R134,Punto Sur,2012,$,Restaurante de cocina variada ubicado en Sur
+R135,El Patio Urbano,1994,$$,Restaurante de cocina variada ubicado en Urbano
+R136,Cocina de del Chef,2008,$$$,Restaurante de cocina variada ubicado en del Chef
+R137,Casa Antigua,1998,$,Restaurante de cocina variada ubicado en Antigua
+R138,Sabores de Maya,2019,$$$$,Restaurante de cocina variada ubicado en Maya
+R139,Rincón Urbano,1994,$$,Restaurante de cocina variada ubicado en Urbano
+R140,Villa del Chef,2006,$,Restaurante de cocina variada ubicado en del Chef
+R141,Taller Andino,1985,$$,Restaurante de cocina variada ubicado en Andino
+R142,La Casona Dorado,2016,$$,Restaurante de cocina variada ubicado en Dorado
+R143,Fuego y Antigua,2018,$,Restaurante de cocina variada ubicado en Antigua
+R144,Villa Maya,2009,$$,Restaurante de cocina variada ubicado en Maya
+R145,Rincón Tradicional,2021,$$,Restaurante de cocina variada ubicado en Tradicional
+R146,Fuego y Norte,1989,$$,Restaurante de cocina variada ubicado en Norte
+R147,Punto del Mar,1991,$$,Restaurante de cocina variada ubicado en del Mar
+R148,La Casona Zona 10,2007,$$,Restaurante de cocina variada ubicado en Zona 10
+R149,El Fogón Maya,1991,$$,Restaurante de cocina variada ubicado en Maya
+R150,El Fogón Antigua,1991,$,Restaurante de cocina variada ubicado en Antigua
+R151,Terraza del Chef,1995,$,Restaurante de cocina variada ubicado en del Chef
+R152,Punto Central,2016,$$$,Restaurante de cocina variada ubicado en Central
+R153,La Casona Sur,2005,$$,Restaurante de cocina variada ubicado en Sur
+R154,Taller Central,2009,$$,Restaurante de cocina variada ubicado en Central
+R155,Fuego y Zona 10,2016,$$,Restaurante de cocina variada ubicado en Zona 10
+R156,El Patio Andino,2019,$,Restaurante de cocina variada ubicado en Andino
+R157,Sabores de Antigua,1995,$$,Restaurante de cocina variada ubicado en Antigua
+R158,Punto Moderno,2018,$$,Restaurante de cocina variada ubicado en Moderno
+R159,Mercado del Lago,1992,$$,Restaurante de cocina variada ubicado en del Lago
+R160,Terraza Sur,1989,$$$,Restaurante de cocina variada ubicado en Sur
+R161,Terraza Norte,2012,$$,Restaurante de cocina variada ubicado en Norte
+R162,Taberna Sur,2012,$$$$,Restaurante de cocina variada ubicado en Sur
+R163,Mercado Antigua,2018,$$,Restaurante de cocina variada ubicado en Antigua
+R164,Sabores de del Mar,1993,$$$$,Restaurante de cocina variada ubicado en del Mar
+R165,Taberna del Mar,1995,$$,Restaurante de cocina variada ubicado en del Mar
+R166,Mesa Moderno,2017,$$,Restaurante de cocina variada ubicado en Moderno
+R167,Rincón Maya,1995,$$$,Restaurante de cocina variada ubicado en Maya
+R168,Punto Maya,1998,$$$,Restaurante de cocina variada ubicado en Maya
+R169,Terraza Antigua,2022,$$$$,Restaurante de cocina variada ubicado en Antigua
+R170,Cocina de Dorado,2019,$$$,Restaurante de cocina variada ubicado en Dorado
+R171,Mesa Antigua,2005,$,Restaurante de cocina variada ubicado en Antigua
+R172,El Jardín Dorado,2008,$$$,Restaurante de cocina variada ubicado en Dorado
+R173,Cocina de Antigua,2002,$$,Restaurante de cocina variada ubicado en Antigua
+R174,Rincón Moderno,1992,$$,Restaurante de cocina variada ubicado en Moderno
+R175,El Patio del Chef,2008,$$$$,Restaurante de cocina variada ubicado en del Chef
+R176,Mesa Maya,1993,$$$,Restaurante de cocina variada ubicado en Maya
+R177,La Casona del Lago,1991,$$,Restaurante de cocina variada ubicado en del Lago
+R178,Fuego y Central,1998,$$,Restaurante de cocina variada ubicado en Central
+R179,El Jardín del Lago,2005,$$,Restaurante de cocina variada ubicado en del Lago
+R180,La Cantina Sur,2023,$$$,Restaurante de cocina variada ubicado en Sur
+R181,La Casona Urbano,2008,$$,Restaurante de cocina variada ubicado en Urbano
+R182,La Casona Norte,1985,$$$$,Restaurante de cocina variada ubicado en Norte
+R183,Terraza del Lago,1990,$$,Restaurante de cocina variada ubicado en del Lago
+R184,Fuego y del Lago,2012,$$,Restaurante de cocina variada ubicado en del Lago
+R185,Casa Tradicional,2002,$,Restaurante de cocina variada ubicado en Tradicional
+R186,Terraza Verde,2016,$$$,Restaurante de cocina variada ubicado en Verde
+R187,La Cantina Maya,2008,$$,Restaurante de cocina variada ubicado en Maya
+R188,La Casona Tradicional,2008,$$,Restaurante de cocina variada ubicado en Tradicional
+R189,Casa Zona 10,1997,$,Restaurante de cocina variada ubicado en Zona 10
+R190,Bistró Central,1986,$$,Restaurante de cocina variada ubicado en Central
+R191,Cocina de Sur,1990,$,Restaurante de cocina variada ubicado en Sur
+R192,El Establo Norte,2012,$,Restaurante de cocina variada ubicado en Norte
+R193,Taberna del Lago,1991,$$$,Restaurante de cocina variada ubicado en del Lago
+R194,Bistró Tradicional,1998,$,Restaurante de cocina variada ubicado en Tradicional
+R195,Terraza Moderno,1991,$$$,Restaurante de cocina variada ubicado en Moderno
+R196,El Fogón Sur,2022,$$,Restaurante de cocina variada ubicado en Sur
+R197,Casa Dorado,2010,$$,Restaurante de cocina variada ubicado en Dorado
+R198,Punto Tradicional,2003,$$,Restaurante de cocina variada ubicado en Tradicional
+R199,El Establo del Chef,2015,$$,Restaurante de cocina variada ubicado en del Chef
+R200,La Casona Central,2002,$$,Restaurante de cocina variada ubicado en Central
