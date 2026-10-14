@@ -1,7 +1,6 @@
 // =====================================================================
 // 03_consultas_negocio.cypher - Las 5 consultas obligatorias
 // Parámetros (Neo4j Browser):  :param userId => 'U0001';
-// Nota: si tu versión no acepta identificadores con tilde, usa backticks: `CALIFICÓ`, `VISITÓ`
 // =====================================================================
 
 // ---------------------------------------------------------------------

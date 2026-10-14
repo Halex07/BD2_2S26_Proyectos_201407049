@@ -22,12 +22,8 @@ CREATE INDEX restaurante_rango  IF NOT EXISTS FOR (n:Restaurante) ON (n.rango_pr
 CREATE INDEX usuario_nombre     IF NOT EXISTS FOR (n:Usuario)     ON (n.nombre);
 CREATE INDEX tipococina_nombre  IF NOT EXISTS FOR (n:TipoCocina)  ON (n.nombre);
 
-// Índice sobre propiedad de relación (requiere Neo4j >= 5.7; si falla, omitirlo)
+
 CREATE INDEX calificacion_puntuacion IF NOT EXISTS FOR ()-[r:CALIFICÓ]-() ON (r.puntuacion);
 
-// Nota sobre integridad de dominios (puntuación 1-5, niveles 1-5):
-// los constraints de existencia/tipo de propiedad son de Neo4j Enterprise, por lo que
-// en Community la regla se valida en la carga (WHERE ... IN [1,2,3,4,5]) y en
-// consultas/05_validacion.cypher.
 SHOW CONSTRAINTS;
 SHOW INDEXES;
